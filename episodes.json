@@ -41,5 +41,16 @@
     "pub_iso": "2026-09-29T14:36:01-04:00",
     "guid": "2026-09-29-naut-proteome",
     "slug": "2026-09-29-naut-proteome"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "All-In This Week: Anthropic's IPO Wobble and the Open-Source Flood — Max vs Lena",
+    "description": "An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 21–29, 2026. Max (bull) and Lena (skeptic) go topic by topic through all six episodes released that week: the main show, episode 290 (\"Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails\", Sep 25), plus the Summit and interview episodes with Naveen Rao (Sep 21), Blake Scholl (Sep 22), Steve Hilton & Spencer Pratt (Sep 22), Luca Ferrari (Sep 23) and Daniel Ek (Sep 28).\n\nTopics: \"labs\" vs. companies and product liability; the flood of open-weight models and the claimed flip in token share; whether Anthropic's IPO is in trouble (Polymarket odds, super-voting shares, Chamath's \"$1 trillion or less\" math, Sacks' \"stable duopoly on a hamster wheel\"); Bernie Sanders' superintelligence bill, Trump, Bessent and Obama; Meta's Muse, agents and the App Store's 30% cut; alignment, Claude's constitution and Anthropic's wet lab; AI's energy wall (Naveen Rao's dynamical computer, Boom's jet engines for data centers); Bending Spoons' buy-and-fix model; California's governor race; and Daniel Ek's $499 Neko Health scan.\n\nMade-up guest: Dev, a fictional quant, joins briefly in the Anthropic chapter. He is invented for this episode and speaks for no real fund.\n\nSources: the official All-In episode descriptions and timestamps (RSS feed and YouTube), published episode transcripts (Happy Scribe) for five episodes, and our own Whisper transcription of the Daniel Ek episode's audio, cross-checked against published summaries. Hosts only describe what the besties said, and they don't imitate their voices. Where a transcript didn't make clear who said something, we say \"one of them\". Numbers are rounded and are the speakers' claims (for example valuations, Polymarket odds, token-share charts and company stats) unless we say otherwise. This is not affiliated with All-In and is not investment advice.\n\nChapters: 1. This week on All-In; 2. They're not labs, they're companies; 3. The open-source flood; 4. Is Anthropic's IPO in trouble?; 5. Bernie, Trump, Obama and the politics of AI; 6. Muse, agents and the App Store's thirty percent; 7. Alignment, Claude's constitution and the wet lab; 8. The energy wall: Naveen Rao and Boom's jet engines; 9. Bending Spoons: buying product-market fit; 10. California: Steve Hilton and Spencer Pratt; 11. Daniel Ek, Neko and the body scan; 12. What we'd watch next.",
+    "file": "all-in-weekly-2026-09-29.mp3",
+    "length": 33932541,
+    "duration": "00:56:33",
+    "pub_iso": "2026-09-29T18:11:05-04:00",
+    "guid": "all-in-weekly-2026-09-29",
+    "slug": "all-in-weekly-2026-09-29"
   }
 ]

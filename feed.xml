@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 14:36:01 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 18:11:06 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,34 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>All-In This Week: Anthropic's IPO Wobble and the Open-Source Flood — Max vs Lena</title>
+      <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 21–29, 2026. Max (bull) and Lena (skeptic) go topic by topic through all six episodes released that week: the main show, episode 290 ("Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails", Sep 25), plus the Summit and interview episodes with Naveen Rao (Sep 21), Blake Scholl (Sep 22), Steve Hilton &amp; Spencer Pratt (Sep 22), Luca Ferrari (Sep 23) and Daniel Ek (Sep 28).
+
+Topics: "labs" vs. companies and product liability; the flood of open-weight models and the claimed flip in token share; whether Anthropic's IPO is in trouble (Polymarket odds, super-voting shares, Chamath's "$1 trillion or less" math, Sacks' "stable duopoly on a hamster wheel"); Bernie Sanders' superintelligence bill, Trump, Bessent and Obama; Meta's Muse, agents and the App Store's 30% cut; alignment, Claude's constitution and Anthropic's wet lab; AI's energy wall (Naveen Rao's dynamical computer, Boom's jet engines for data centers); Bending Spoons' buy-and-fix model; California's governor race; and Daniel Ek's $499 Neko Health scan.
+
+Made-up guest: Dev, a fictional quant, joins briefly in the Anthropic chapter. He is invented for this episode and speaks for no real fund.
+
+Sources: the official All-In episode descriptions and timestamps (RSS feed and YouTube), published episode transcripts (Happy Scribe) for five episodes, and our own Whisper transcription of the Daniel Ek episode's audio, cross-checked against published summaries. Hosts only describe what the besties said, and they don't imitate their voices. Where a transcript didn't make clear who said something, we say "one of them". Numbers are rounded and are the speakers' claims (for example valuations, Polymarket odds, token-share charts and company stats) unless we say otherwise. This is not affiliated with All-In and is not investment advice.
+
+Chapters: 1. This week on All-In; 2. They're not labs, they're companies; 3. The open-source flood; 4. Is Anthropic's IPO in trouble?; 5. Bernie, Trump, Obama and the politics of AI; 6. Muse, agents and the App Store's thirty percent; 7. Alignment, Claude's constitution and the wet lab; 8. The energy wall: Naveen Rao and Boom's jet engines; 9. Bending Spoons: buying product-market fit; 10. California: Steve Hilton and Spencer Pratt; 11. Daniel Ek, Neko and the body scan; 12. What we'd watch next.</description>
+      <itunes:summary>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 21–29, 2026. Max (bull) and Lena (skeptic) go topic by topic through all six episodes released that week: the main show, episode 290 ("Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails", Sep 25), plus the Summit and interview episodes with Naveen Rao (Sep 21), Blake Scholl (Sep 22), Steve Hilton &amp; Spencer Pratt (Sep 22), Luca Ferrari (Sep 23) and Daniel Ek (Sep 28).
+
+Topics: "labs" vs. companies and product liability; the flood of open-weight models and the claimed flip in token share; whether Anthropic's IPO is in trouble (Polymarket odds, super-voting shares, Chamath's "$1 trillion or less" math, Sacks' "stable duopoly on a hamster wheel"); Bernie Sanders' superintelligence bill, Trump, Bessent and Obama; Meta's Muse, agents and the App Store's 30% cut; alignment, Claude's constitution and Anthropic's wet lab; AI's energy wall (Naveen Rao's dynamical computer, Boom's jet engines for data centers); Bending Spoons' buy-and-fix model; California's governor race; and Daniel Ek's $499 Neko Health scan.
+
+Made-up guest: Dev, a fictional quant, joins briefly in the Anthropic chapter. He is invented for this episode and speaks for no real fund.
+
+Sources: the official All-In episode descriptions and timestamps (RSS feed and YouTube), published episode transcripts (Happy Scribe) for five episodes, and our own Whisper transcription of the Daniel Ek episode's audio, cross-checked against published summaries. Hosts only describe what the besties said, and they don't imitate their voices. Where a transcript didn't make clear who said something, we say "one of them". Numbers are rounded and are the speakers' claims (for example valuations, Polymarket odds, token-share charts and company stats) unless we say otherwise. This is not affiliated with All-In and is not investment advice.
+
+Chapters: 1. This week on All-In; 2. They're not labs, they're companies; 3. The open-source flood; 4. Is Anthropic's IPO in trouble?; 5. Bernie, Trump, Obama and the politics of AI; 6. Muse, agents and the App Store's thirty percent; 7. Alignment, Claude's constitution and the wet lab; 8. The energy wall: Naveen Rao and Boom's jet engines; 9. Bending Spoons: buying product-market fit; 10. California: Steve Hilton and Spencer Pratt; 11. Daniel Ek, Neko and the body scan; 12. What we'd watch next.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/all-in-weekly-2026-09-29.mp3" length="33932541" type="audio/mpeg"/>
+      <guid isPermaLink="false">all-in-weekly-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 18:11:05 -0400</pubDate>
+      <itunes:duration>00:56:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>NAUT: Can You Read Your Way to a 10x? — Max vs Lena (Special)</title>
       <description>A one-off special. Max (bull) and Lena (skeptic) dig into Nautilus Biotechnology (NAUT), the Seattle proteomics company the 10am.pro group has been debating as the "read" layer of the biology-is-code thesis, on a day the stock jumped about 30% with no company news we could find. They cover what proteoforms are and why they matter, the September Nature Methods tau paper, the July pivot from Broadscale to proteoform assays (tau first, then AKT1 in oncology, roughly 20 assays targeted by mid-2028), and the money: about $130M in cash, roughly $14M of quarterly burn, a raise expected before mid-2027 and a new $125M at-the-market program. They also run NAUT through the lessons from Lucas's LLM 10x stock contest and his "Linares lens" chart. A made-up guest, Bev (a fictional retired lab-instrument saleswoman), asks who actually buys a roughly $1M machine.
