@@ -35,7 +35,8 @@ CONFIG = Path(os.environ.get("WTR_CONFIG", "/home/box/podcast/config.json"))
 DEFAULT_SHOW = {
     "title": "Signal & Noise Private",
     "author": "Signal & Noise",
-    "summary": "Max (bull) and Lena (skeptic) debate markets, theses, articles and big ideas.",
+    "summary": "Signal & Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.",
+    "subtitle": "A personal deep-dive podcast made for Augusto Restrepo.",
     "language": "en-us",
 }
 
@@ -90,6 +91,7 @@ def build_feed(cfg, episodes):
     <lastBuildDate>{last}</lastBuildDate>
     <itunes:author>{escape(show['author'])}</itunes:author>
     <itunes:summary>{escape(show['summary'])}</itunes:summary>
+    <itunes:subtitle>{escape(show['subtitle'])}</itunes:subtitle>
     <itunes:owner><itunes:name>{escape(show['author'])}</itunes:name></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
