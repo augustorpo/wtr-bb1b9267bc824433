@@ -61,7 +61,7 @@ def valid_slug(s):
 def build_feed(cfg, episodes):
     base = cfg["base_url"].rstrip("/")
     show = {**DEFAULT_SHOW, **cfg.get("show", {})}
-    cover = cfg.get("cover", "cover.jpg")
+    cover = cfg.get("cover", "cover-v3.jpg")
     items = []
     for ep in sorted(episodes, key=lambda e: e["pub_iso"], reverse=True):
         pub = format_datetime(datetime.fromisoformat(ep["pub_iso"]))

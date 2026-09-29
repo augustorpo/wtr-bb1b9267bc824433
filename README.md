@@ -9,7 +9,7 @@ https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml
 `<itunes:block>Yes</itunes:block>` keeps it out of the public Apple directory; anyone with the URL can still subscribe.
 
 **Description:** Adam (bull) and Eve (skeptic) debate markets, theses, articles and big ideas, casual and fun.
-**Cover:** `cover-v2.jpg` (3000×3000 JPG).
+**Cover:** `cover-v3.jpg` (3000×3000 JPG, bull art; `cover.jpg` is a copy). Set via `"cover"` in config.json (publisher default is also `cover-v3.jpg`).
 
 ## One-command weekly publish
 
