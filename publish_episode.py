@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish a Weekly Thesis Review episode to the private GitHub Pages podcast feed.
+"""Publish an Adam and Eve FM episode to the private GitHub Pages podcast feed.
 
 Usage:
   python3 /home/box/podcast/publish_episode.py --mp3 /path/to/episode.mp3 --date 2026-10-05 \
