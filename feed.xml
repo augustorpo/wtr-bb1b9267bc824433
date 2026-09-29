@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Max (bull) and Lena (skeptic) debate markets, theses, articles and big ideas.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 10:11:49 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:12:00 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Max (bull) and Lena (skeptic) debate markets, theses, articles and big ideas.</itunes:summary>
     <itunes:owner><itunes:name>Signal &amp; Noise</itunes:name></itunes:owner>
@@ -35,7 +35,7 @@ Chapters: 1. Biology is the new compute; 2. Read it, then design it; 3. Reboot a
       <itunes:author>Signal &amp; Noise</itunes:author>
       <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/2026-09-29-bio-acc-basket-v2.mp3" length="8049676" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-09-29-bio-acc-basket</guid>
-      <pubDate>Tue, 29 Sep 2026 06:59:00 -0400</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:59:02 -0400</pubDate>
       <itunes:duration>00:13:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -57,7 +57,7 @@ Chapters: 1. The double charge; 2. Loop, not data; 3. Teladoc's graveyard and th
       <itunes:author>Signal &amp; Noise</itunes:author>
       <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/2026-09-28-hims-no-es-telemedicina-v2.mp3" length="9837029" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-09-28-hims-no-es-telemedicina</guid>
-      <pubDate>Mon, 28 Sep 2026 18:52:00 -0400</pubDate>
+      <pubDate>Mon, 28 Sep 2026 18:52:29 -0400</pubDate>
       <itunes:duration>00:16:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
