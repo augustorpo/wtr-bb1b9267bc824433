@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 10:12:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:36:01 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,26 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>NAUT: Can You Read Your Way to a 10x? — Max vs Lena (Special)</title>
+      <description>A one-off special. Max (bull) and Lena (skeptic) dig into Nautilus Biotechnology (NAUT), the Seattle proteomics company the 10am.pro group has been debating as the "read" layer of the biology-is-code thesis, on a day the stock jumped about 30% with no company news we could find. They cover what proteoforms are and why they matter, the September Nature Methods tau paper, the July pivot from Broadscale to proteoform assays (tau first, then AKT1 in oncology, roughly 20 assays targeted by mid-2028), and the money: about $130M in cash, roughly $14M of quarterly burn, a raise expected before mid-2027 and a new $125M at-the-market program. They also run NAUT through the lessons from Lucas's LLM 10x stock contest and his "Linares lens" chart. A made-up guest, Bev (a fictional retired lab-instrument saleswoman), asks who actually buys a roughly $1M machine.
+
+Sources: the 10am.pro group discussion; Lucas's LLM 10x Stock Contest PDFs and Linares-lens chart; the proteomics paper shared in the group (Cell Reports Medicine spotlight on a Nature Medicine plasma-proteome aging-clock study); Hernán's "Biology is Code" page (mercados.10am.pro/biology-is-code); Antonio Linares, "Nautilus: Tesla for Proteomics" (Sep 28, 2026); Nautilus Q2 2026 results and earnings call, the Sep 4 Nature Methods release and the Sep 11 8-K; prices as of mid-afternoon Sep 29, 2026. Numbers are rounded, and company claims are flagged as such. Bev is fictional. This is not investment advice.
+
+Chapters: 1. Thirty percent before lunch; 2. Why proteins, why now; 3. The pivot nobody clapped for; 4. Bev sells the machine; 5. Cash, burn, and the at-the-market button; 6. Through Lucas's lenses; 7. Revolution, option, or lottery ticket.</description>
+      <itunes:summary>A one-off special. Max (bull) and Lena (skeptic) dig into Nautilus Biotechnology (NAUT), the Seattle proteomics company the 10am.pro group has been debating as the "read" layer of the biology-is-code thesis, on a day the stock jumped about 30% with no company news we could find. They cover what proteoforms are and why they matter, the September Nature Methods tau paper, the July pivot from Broadscale to proteoform assays (tau first, then AKT1 in oncology, roughly 20 assays targeted by mid-2028), and the money: about $130M in cash, roughly $14M of quarterly burn, a raise expected before mid-2027 and a new $125M at-the-market program. They also run NAUT through the lessons from Lucas's LLM 10x stock contest and his "Linares lens" chart. A made-up guest, Bev (a fictional retired lab-instrument saleswoman), asks who actually buys a roughly $1M machine.
+
+Sources: the 10am.pro group discussion; Lucas's LLM 10x Stock Contest PDFs and Linares-lens chart; the proteomics paper shared in the group (Cell Reports Medicine spotlight on a Nature Medicine plasma-proteome aging-clock study); Hernán's "Biology is Code" page (mercados.10am.pro/biology-is-code); Antonio Linares, "Nautilus: Tesla for Proteomics" (Sep 28, 2026); Nautilus Q2 2026 results and earnings call, the Sep 4 Nature Methods release and the Sep 11 8-K; prices as of mid-afternoon Sep 29, 2026. Numbers are rounded, and company claims are flagged as such. Bev is fictional. This is not investment advice.
+
+Chapters: 1. Thirty percent before lunch; 2. Why proteins, why now; 3. The pivot nobody clapped for; 4. Bev sells the machine; 5. Cash, burn, and the at-the-market button; 6. Through Lucas's lenses; 7. Revolution, option, or lottery ticket.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/2026-09-29-naut-proteome.mp3" length="17392701" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-09-29-naut-proteome</guid>
+      <pubDate>Tue, 29 Sep 2026 14:36:01 -0400</pubDate>
+      <itunes:duration>00:28:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Biology Eats the Market — Max vs Lena (Special)</title>
       <description>A one-off special. Max (bull) and Lena (skeptic) debate Antonio Linares's "bio/acc basket": his claim that biology drives most market returns over the next decade, and his four picks. Nautilus (NAUT) reads the proteome, Recursion (RXRX) designs drugs with A.I., ImmunityBio (IBRX) reboots the immune system with Anktiva, and MiNK Therapeutics (INKT) takes iNKT cell therapy after solid tumors. Max makes the case from the post and its 33-minute video: biology becomes code, a read, design, reboot and strike stack, disciplined management teams, and pharma money already flowing into Recursion. Lena pushes back with the latest filings: Nautilus's first revenue of about $0.2M and its Broadscale delay, Recursion's cash burn, ImmunityBio's 45x sales valuation and the FDA warning letter, and MiNK's roughly $9M cash plus a 17-patient phase 2 with zero responses. A made-up guest, Nigel, drops by to heckle the whole idea of "platform" biotech.

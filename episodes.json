@@ -30,5 +30,16 @@
     "pub_iso": "2026-09-29T06:59:02-04:00",
     "guid": "2026-09-29-bio-acc-basket",
     "slug": "2026-09-29-bio-acc-basket"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "NAUT: Can You Read Your Way to a 10x? — Max vs Lena (Special)",
+    "description": "A one-off special. Max (bull) and Lena (skeptic) dig into Nautilus Biotechnology (NAUT), the Seattle proteomics company the 10am.pro group has been debating as the \"read\" layer of the biology-is-code thesis, on a day the stock jumped about 30% with no company news we could find. They cover what proteoforms are and why they matter, the September Nature Methods tau paper, the July pivot from Broadscale to proteoform assays (tau first, then AKT1 in oncology, roughly 20 assays targeted by mid-2028), and the money: about $130M in cash, roughly $14M of quarterly burn, a raise expected before mid-2027 and a new $125M at-the-market program. They also run NAUT through the lessons from Lucas's LLM 10x stock contest and his \"Linares lens\" chart. A made-up guest, Bev (a fictional retired lab-instrument saleswoman), asks who actually buys a roughly $1M machine.\n\nSources: the 10am.pro group discussion; Lucas's LLM 10x Stock Contest PDFs and Linares-lens chart; the proteomics paper shared in the group (Cell Reports Medicine spotlight on a Nature Medicine plasma-proteome aging-clock study); Hernán's \"Biology is Code\" page (mercados.10am.pro/biology-is-code); Antonio Linares, \"Nautilus: Tesla for Proteomics\" (Sep 28, 2026); Nautilus Q2 2026 results and earnings call, the Sep 4 Nature Methods release and the Sep 11 8-K; prices as of mid-afternoon Sep 29, 2026. Numbers are rounded, and company claims are flagged as such. Bev is fictional. This is not investment advice.\n\nChapters: 1. Thirty percent before lunch; 2. Why proteins, why now; 3. The pivot nobody clapped for; 4. Bev sells the machine; 5. Cash, burn, and the at-the-market button; 6. Through Lucas's lenses; 7. Revolution, option, or lottery ticket.",
+    "file": "2026-09-29-naut-proteome.mp3",
+    "length": 17392701,
+    "duration": "00:28:57",
+    "pub_iso": "2026-09-29T14:36:01-04:00",
+    "guid": "2026-09-29-naut-proteome",
+    "slug": "2026-09-29-naut-proteome"
   }
 ]
