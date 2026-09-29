@@ -1,12 +1,15 @@
-# Weekly Thesis Review — private Apple Podcasts feed
+# Adam and Eve FM — private Apple Podcasts feed
 
-**Show:** Weekly Thesis Review (Adan (bull) vs Eve (skeptic), Bull vs Skeptic FM)
+**Show:** Adam and Eve FM (Adam (bull) vs Eve (skeptic))
 **GitHub account:** augustorpo (free plan → **public** repo with unguessable name)
 **Repo:** https://github.com/augustorpo/wtr-bb1b9267bc824433
 **Feed URL (subscribe in Apple Podcasts / any podcast app):**
 https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml
 
 `<itunes:block>Yes</itunes:block>` keeps it out of the public Apple directory; anyone with the URL can still subscribe.
+
+**Description:** Adam (bull) and Eve (skeptic) debate markets, theses, articles and big ideas, casual and fun.
+**Cover:** `cover-v2.jpg` (3000×3000 JPG).
 
 ## One-command weekly publish
 
@@ -20,7 +23,7 @@ python3 /home/box/podcast/publish_episode.py \
 Optional flags: `--title`, `--description`, `--pubdate "YYYY-MM-DD HH:MM"` (America/New_York), `--replace`, `--no-push`.
 
 Config: `/home/box/podcast/config.json` (repo, base_url, clone path).
-The script copies the MP3 into `episodes/`, updates `episodes.json`, regenerates `feed.xml`, commits, and pushes to `main` (GitHub Pages).
+The script copies the MP3 into `episodes/`, updates `episodes.json`, regenerates `feed.xml` with the Adam and Eve FM branding, commits, and pushes to `main` (GitHub Pages).
 
 ## One-off / special episodes
 

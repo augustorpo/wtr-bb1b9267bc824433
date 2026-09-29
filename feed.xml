@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Weekly Thesis Review</title>
+    <title>Adam and Eve FM</title>
     <link>https://augustorpo.github.io/wtr-bb1b9267bc824433/</link>
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Private weekly investment debate: Adan (bull) vs Eve (skeptic) stress-test the portfolio thesis.</description>
+    <description>Adam (bull) and Eve (skeptic) debate markets, theses, articles and big ideas, casual and fun.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 06:59:02 -0400</lastBuildDate>
-    <itunes:author>Bull vs Skeptic FM</itunes:author>
-    <itunes:summary>Private weekly investment debate: Adan (bull) vs Eve (skeptic) stress-test the portfolio thesis.</itunes:summary>
-    <itunes:owner><itunes:name>Bull vs Skeptic FM</itunes:name></itunes:owner>
+    <lastBuildDate>Tue, 29 Sep 2026 07:47:04 -0400</lastBuildDate>
+    <itunes:author>Adam and Eve FM</itunes:author>
+    <itunes:summary>Adam (bull) and Eve (skeptic) debate markets, theses, articles and big ideas, casual and fun.</itunes:summary>
+    <itunes:owner><itunes:name>Adam and Eve FM</itunes:name></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://augustorpo.github.io/wtr-bb1b9267bc824433/cover.jpg"/>
-    <image><url>https://augustorpo.github.io/wtr-bb1b9267bc824433/cover.jpg</url><title>Weekly Thesis Review</title><link>https://augustorpo.github.io/wtr-bb1b9267bc824433/</link></image>
+    <itunes:image href="https://augustorpo.github.io/wtr-bb1b9267bc824433/cover-v2.jpg"/>
+    <image><url>https://augustorpo.github.io/wtr-bb1b9267bc824433/cover-v2.jpg</url><title>Adam and Eve FM</title><link>https://augustorpo.github.io/wtr-bb1b9267bc824433/</link></image>
     <itunes:category text="Business">
       <itunes:category text="Investing"/>
     </itunes:category>
@@ -32,7 +32,7 @@ Source (credit): Antonio Linares (@alc2022) on X, Sep 28, 2026, https://x.com/al
 Also referenced: Q2 2026 results and filings from Nautilus, Recursion, ImmunityBio and MiNK; ImmunityBio's FDA warning letter and PDUFA date; MiNK's AACR 2026 phase 2 poster; market prices as of the Sep 28, 2026 close. Numbers are rounded. The hosts flag claims they couldn't verify on air. Nigel is fictional. This is not investment advice.
 
 Chapters: 1. Biology is the new compute; 2. Read it, then design it; 3. Reboot and strike; 4. A stack or four lottery tickets?.</itunes:summary>
-      <itunes:author>Bull vs Skeptic FM</itunes:author>
+      <itunes:author>Adam and Eve FM</itunes:author>
       <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/2026-09-29-bio-acc-basket.mp3" length="5940647" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-09-29-bio-acc-basket</guid>
       <pubDate>Tue, 29 Sep 2026 06:59:02 -0400</pubDate>
@@ -54,7 +54,7 @@ Source article (credit): Hernán Jaramillo &amp; Antonio Linares, "HIMS No Es Te
 Also referenced: the Hims &amp; Hers Q2 2026 results and earnings call (Aug 10, 2026), the FTC complaint and press release (Jul 29, 2026), Teladoc's Q2 2026 results, and public HIMS price data as of the Sep 25, 2026 close. Numbers are rounded. Claims the hosts couldn't verify are flagged on air. This is not investment advice.
 
 Chapters: 1. The double charge; 2. Loop, not data; 3. Teladoc's graveyard and the four links; 4. The FTC and the anecdote; 5. Who copies it, and the empty box.</itunes:summary>
-      <itunes:author>Bull vs Skeptic FM</itunes:author>
+      <itunes:author>Adam and Eve FM</itunes:author>
       <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/2026-09-28-hims-no-es-telemedicina.mp3" length="7429415" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-09-28-hims-no-es-telemedicina</guid>
       <pubDate>Mon, 28 Sep 2026 18:52:29 -0400</pubDate>
@@ -66,7 +66,7 @@ Chapters: 1. The double charge; 2. Loop, not data; 3. Teladoc's graveyard and th
       <title>Weekly Thesis Review — Sep 28, 2026</title>
       <description>Adan (bull) vs Eve (skeptic) debate the week's portfolio thesis. Chapters: 1. Hook — green chip, red Nasdaq, loud chat; 2. Tape check — QQQ sold, NVDA bought itself; 3. Crypto sleeve — SOL in the band, chat wants alts; 4. Colombia legacy — peso spike, Hernán's question, Wednesday vote; 5. Apple cash into NVIDIA LEAPs — the Roth pivot; 6. HOOD, HIMS, and the product-use debate; 7. Essays, electricity, creed, and the new 401k.</description>
       <itunes:summary>Adan (bull) vs Eve (skeptic) debate the week's portfolio thesis. Chapters: 1. Hook — green chip, red Nasdaq, loud chat; 2. Tape check — QQQ sold, NVDA bought itself; 3. Crypto sleeve — SOL in the band, chat wants alts; 4. Colombia legacy — peso spike, Hernán's question, Wednesday vote; 5. Apple cash into NVIDIA LEAPs — the Roth pivot; 6. HOOD, HIMS, and the product-use debate; 7. Essays, electricity, creed, and the new 401k.</itunes:summary>
-      <itunes:author>Bull vs Skeptic FM</itunes:author>
+      <itunes:author>Adam and Eve FM</itunes:author>
       <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/2026-09-28-weekly-thesis-review.mp3" length="12827067" type="audio/mpeg"/>
       <guid isPermaLink="false">weekly-thesis-review-2026-09-28</guid>
       <pubDate>Mon, 28 Sep 2026 11:37:26 -0400</pubDate>

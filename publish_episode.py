@@ -32,10 +32,10 @@ import xml.etree.ElementTree as ET
 TZ = ZoneInfo("America/New_York")
 CONFIG = Path(os.environ.get("WTR_CONFIG", "/home/box/podcast/config.json"))
 
-SHOW = {
-    "title": "Weekly Thesis Review",
-    "author": "Bull vs Skeptic FM",
-    "summary": "Private weekly investment debate: Adan (bull) vs Eve (skeptic) stress-test the portfolio thesis.",
+DEFAULT_SHOW = {
+    "title": "Adam and Eve FM",
+    "author": "Adam and Eve FM",
+    "summary": "Adam (bull) and Eve (skeptic) debate markets, theses, articles and big ideas, casual and fun.",
     "language": "en-us",
 }
 
@@ -60,6 +60,8 @@ def valid_slug(s):
 
 def build_feed(cfg, episodes):
     base = cfg["base_url"].rstrip("/")
+    show = {**DEFAULT_SHOW, **cfg.get("show", {})}
+    cover = cfg.get("cover", "cover.jpg")
     items = []
     for ep in sorted(episodes, key=lambda e: e["pub_iso"], reverse=True):
         pub = format_datetime(datetime.fromisoformat(ep["pub_iso"]))
@@ -68,7 +70,7 @@ def build_feed(cfg, episodes):
       <title>{escape(ep['title'])}</title>
       <description>{escape(ep['description'])}</description>
       <itunes:summary>{escape(ep['description'])}</itunes:summary>
-      <itunes:author>{escape(SHOW['author'])}</itunes:author>
+      <itunes:author>{escape(show['author'])}</itunes:author>
       <enclosure url="{escape(url)}" length="{ep['length']}" type="audio/mpeg"/>
       <guid isPermaLink="false">{escape(ep['guid'])}</guid>
       <pubDate>{pub}</pubDate>
@@ -80,19 +82,19 @@ def build_feed(cfg, episodes):
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{escape(SHOW['title'])}</title>
+    <title>{escape(show['title'])}</title>
     <link>{escape(base)}/</link>
     <atom:link href="{escape(base)}/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>{escape(SHOW['summary'])}</description>
-    <language>{SHOW['language']}</language>
+    <description>{escape(show['summary'])}</description>
+    <language>{show['language']}</language>
     <lastBuildDate>{last}</lastBuildDate>
-    <itunes:author>{escape(SHOW['author'])}</itunes:author>
-    <itunes:summary>{escape(SHOW['summary'])}</itunes:summary>
-    <itunes:owner><itunes:name>{escape(SHOW['author'])}</itunes:name></itunes:owner>
+    <itunes:author>{escape(show['author'])}</itunes:author>
+    <itunes:summary>{escape(show['summary'])}</itunes:summary>
+    <itunes:owner><itunes:name>{escape(show['author'])}</itunes:name></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="{escape(base)}/cover.jpg"/>
-    <image><url>{escape(base)}/cover.jpg</url><title>{escape(SHOW['title'])}</title><link>{escape(base)}/</link></image>
+    <itunes:image href="{escape(base)}/{escape(cover)}"/>
+    <image><url>{escape(base)}/{escape(cover)}</url><title>{escape(show['title'])}</title><link>{escape(base)}/</link></image>
     <itunes:category text="Business">
       <itunes:category text="Investing"/>
     </itunes:category>
@@ -120,7 +122,7 @@ def main():
     cfg = json.loads(CONFIG.read_text())
     repo = Path(cfg["clone"])
     d = datetime.strptime(a.date, "%Y-%m-%d")
-    title = a.title or f"Weekly Thesis Review — {d.strftime('%b')} {d.day}, {d.year}"
+    title = a.title or f"Adam and Eve FM — {d.strftime('%b')} {d.day}, {d.year}"
     if a.description and a.description_file:
         sys.exit("use either --description or --description-file, not both")
     custom = a.description or (Path(a.description_file).read_text(encoding="utf-8").strip() if a.description_file else None)
