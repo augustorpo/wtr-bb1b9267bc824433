@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish an Adam and Eve FM episode to the private GitHub Pages podcast feed.
+"""Publish a Signal & Noise episode to the private GitHub Pages podcast feed.
 
 Usage:
   python3 /home/box/podcast/publish_episode.py --mp3 /path/to/episode.mp3 --date 2026-10-05 \
@@ -8,7 +8,7 @@ Usage:
 
 One-off / special episodes (backward-compatible; weekly usage above is unchanged):
   python3 /home/box/podcast/publish_episode.py --mp3 /path/special.mp3 --date 2026-09-28 \
-      --slug 2026-09-28-hims-no-es-telemedicina --title "HIMS Isn't Telemedicine — Adan vs Eve (Special)" \
+      --slug 2026-09-28-hims-no-es-telemedicina --title "HIMS Isn't Telemedicine — Max vs Lena (Special)" \
       --description-file /path/show-notes.txt [--chapters chapters.json --append-chapters]
 
 - Episodes are keyed by slug. Without --slug the slug is "<date>-weekly-thesis-review" (the historical
@@ -33,9 +33,9 @@ TZ = ZoneInfo("America/New_York")
 CONFIG = Path(os.environ.get("WTR_CONFIG", "/home/box/podcast/config.json"))
 
 DEFAULT_SHOW = {
-    "title": "Adam and Eve FM",
-    "author": "Adam and Eve FM",
-    "summary": "Adam (bull) and Eve (skeptic) debate markets, theses, articles and big ideas, casual and fun.",
+    "title": "Signal & Noise Private",
+    "author": "Signal & Noise",
+    "summary": "Max (bull) and Lena (skeptic) debate markets, theses, articles and big ideas.",
     "language": "en-us",
 }
 
@@ -61,7 +61,7 @@ def valid_slug(s):
 def build_feed(cfg, episodes):
     base = cfg["base_url"].rstrip("/")
     show = {**DEFAULT_SHOW, **cfg.get("show", {})}
-    cover = cfg.get("cover", "cover-v3.jpg")
+    cover = cfg.get("cover", "cover-v4.jpg")
     items = []
     for ep in sorted(episodes, key=lambda e: e["pub_iso"], reverse=True):
         pub = format_datetime(datetime.fromisoformat(ep["pub_iso"]))
@@ -116,13 +116,16 @@ def main():
     ap.add_argument("--episode-type", choices=["full", "bonus", "trailer"], default="full")
     ap.add_argument("--pubdate", help="'YYYY-MM-DD HH:MM' America/New_York (default: now)")
     ap.add_argument("--replace", action="store_true", help="replace an existing episode with the same slug (i.e. same date for weekly episodes)")
+    ap.add_argument("--file", help="MP3 file name in episodes/ (default <slug>.mp3). Use a new name such as "
+                    "<slug>-v2.mp3 with --replace to cache-bust re-voiced audio; the guid is unchanged and the "
+                    "replaced episode's old MP3 is removed from the repo")
     ap.add_argument("--no-push", action="store_true")
     a = ap.parse_args()
 
     cfg = json.loads(CONFIG.read_text())
     repo = Path(cfg["clone"])
     d = datetime.strptime(a.date, "%Y-%m-%d")
-    title = a.title or f"Adam and Eve FM — {d.strftime('%b')} {d.day}, {d.year}"
+    title = a.title or f"Signal & Noise — {d.strftime('%b')} {d.day}, {d.year}"
     if a.description and a.description_file:
         sys.exit("use either --description or --description-file, not both")
     custom = a.description or (Path(a.description_file).read_text(encoding="utf-8").strip() if a.description_file else None)
@@ -133,13 +136,16 @@ def main():
     if custom:
         desc = custom + ("\n\n" + chap if (chap and a.append_chapters) else "")
     else:
-        desc = "Adan (bull) vs Eve (skeptic) debate the week's portfolio thesis."
+        desc = "Max (bull) vs Lena (skeptic) debate the week's portfolio thesis."
         if chap:
             desc += " " + chap
     pub = datetime.strptime(a.pubdate, "%Y-%m-%d %H:%M").replace(tzinfo=TZ) if a.pubdate else datetime.now(TZ).replace(microsecond=0)
 
     slug = a.slug or f"{a.date}-{WEEKLY_SUFFIX}"
-    fname = f"{slug}.mp3"
+    fname = a.file or f"{slug}.mp3"
+    import re as _re
+    if not _re.fullmatch(r"[a-z0-9][a-z0-9-]{2,120}\.mp3", fname):
+        sys.exit("--file must be lowercase letters, digits and hyphens ending in .mp3")
     (repo / "episodes").mkdir(exist_ok=True)
     dest = repo / "episodes" / fname
 
@@ -151,6 +157,7 @@ def main():
     if any(e["file"] == fname for e in episodes if slug_of(e) != slug):
         sys.exit(f"File name {fname} is already used by another episode")
     shutil.copyfile(a.mp3, dest)
+    stale = [repo / "episodes" / e["file"] for e in existing if e["file"] != fname]
     before = len(episodes)
     episodes = [e for e in episodes if slug_of(e) != slug]
     if a.slug:
@@ -179,6 +186,9 @@ def main():
     if here.parent != repo.resolve():
         shutil.copyfile(here, repo / "publish_episode.py")
 
+    for f in stale:
+        if f.exists():
+            f.unlink(); print("removed replaced MP3", f.name)
     run(["git", "add", "-A"], cwd=repo)
     run(["git", "commit", "-m", f"Publish episode {slug}"], cwd=repo)
     if not a.no_push:

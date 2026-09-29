@@ -10,17 +10,6 @@
     "guid": "weekly-thesis-review-2026-09-28"
   },
   {
-    "date": "2026-09-28",
-    "title": "HIMS Isn't Telemedicine — Adan vs Eve (Special)",
-    "description": "A one-off special. Adan (bull) and Eve (skeptic) talk through \"HIMS No Es Telemedicina\", a Substack piece by Hernán Jaramillo and Antonio Linares of 10ampro. The piece argues that the market prices HIMS like a call center that hands out prescriptions, and that this is a category error. Its case rests on Linares's \"closed loop\" idea, with Spotify and Duolingo as comparisons: intake, treatment, follow-up and outcome, all owned by one company. Eve pushes back on the customer-service horror story, the FTC case (including the health-data sharing allegations the article leaves out), acquired versus organic growth, competition from Novo, Amazon and OpenAI, and the empty \"sold with margin\" box: negative free cash flow and a shrinking gross margin.\n\nSource article (credit): Hernán Jaramillo & Antonio Linares, \"HIMS No Es Telemedicina\", 10ampro on Substack, Sep 27, 2026, https://substack.com/home/post/p-217692613. The framework comes from Antonio Linares's \"The State of the Ontology Velocity\" (Sep 15, 2026).\nAlso referenced: the Hims & Hers Q2 2026 results and earnings call (Aug 10, 2026), the FTC complaint and press release (Jul 29, 2026), Teladoc's Q2 2026 results, and public HIMS price data as of the Sep 25, 2026 close. Numbers are rounded. Claims the hosts couldn't verify are flagged on air. This is not investment advice.\n\nChapters: 1. The double charge; 2. Loop, not data; 3. Teladoc's graveyard and the four links; 4. The FTC and the anecdote; 5. Who copies it, and the empty box.",
-    "file": "2026-09-28-hims-no-es-telemedicina.mp3",
-    "length": 7429415,
-    "duration": "00:15:29",
-    "pub_iso": "2026-09-28T18:52:29-04:00",
-    "guid": "2026-09-28-hims-no-es-telemedicina",
-    "slug": "2026-09-28-hims-no-es-telemedicina"
-  },
-  {
     "date": "2026-09-29",
     "title": "Biology Eats the Market — Adan vs Eve (Special)",
     "description": "A one-off special. Adan (bull) and Eve (skeptic) debate Antonio Linares's \"bio/acc basket\": his claim that biology drives most market returns over the next decade, and his four picks. Nautilus (NAUT) reads the proteome, Recursion (RXRX) designs drugs with A.I., ImmunityBio (IBRX) reboots the immune system with Anktiva, and MiNK Therapeutics (INKT) takes iNKT cell therapy after solid tumors. Adan makes the case from the post and its 33-minute video: biology becomes code, a read, design, reboot and strike stack, disciplined management teams, and pharma money already flowing into Recursion. Eve pushes back with the latest filings: Nautilus's first revenue of about $0.2M and its Broadscale delay, Recursion's cash burn, ImmunityBio's 45x sales valuation and the FDA warning letter, and MiNK's roughly $9M cash plus a 17-patient phase 2 with zero responses. A made-up guest, Nigel, drops by to heckle the whole idea of \"platform\" biotech.\n\nSource (credit): Antonio Linares (@alc2022) on X, Sep 28, 2026, https://x.com/alc2022/status/2104620231922745534 (post and attached video).\nAlso referenced: Q2 2026 results and filings from Nautilus, Recursion, ImmunityBio and MiNK; ImmunityBio's FDA warning letter and PDUFA date; MiNK's AACR 2026 phase 2 poster; market prices as of the Sep 28, 2026 close. Numbers are rounded. The hosts flag claims they couldn't verify on air. Nigel is fictional. This is not investment advice.\n\nChapters: 1. Biology is the new compute; 2. Read it, then design it; 3. Reboot and strike; 4. A stack or four lottery tickets?.",
@@ -30,5 +19,16 @@
     "pub_iso": "2026-09-29T06:59:02-04:00",
     "guid": "2026-09-29-bio-acc-basket",
     "slug": "2026-09-29-bio-acc-basket"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "HIMS Isn't Telemedicine — Max vs Lena (Special)",
+    "description": "A one-off special. Max (bull) and Lena (skeptic) talk through \"HIMS No Es Telemedicina\", a Substack piece by Hernán Jaramillo and Antonio Linares of 10ampro. The piece argues that the market prices HIMS like a call center that hands out prescriptions, and that this is a category error. Its case rests on Linares's \"closed loop\" idea, with Spotify and Duolingo as comparisons: intake, treatment, follow-up and outcome, all owned by one company. Lena pushes back on the customer-service horror story, the FTC case (including the health-data sharing allegations the article leaves out), acquired versus organic growth, competition from Novo, Amazon and OpenAI, and the empty \"sold with margin\" box: negative free cash flow and a shrinking gross margin.\n\nSource article (credit): Hernán Jaramillo & Antonio Linares, \"HIMS No Es Telemedicina\", 10ampro on Substack, Sep 27, 2026, https://substack.com/home/post/p-217692613. The framework comes from Antonio Linares's \"The State of the Ontology Velocity\" (Sep 15, 2026).\nAlso referenced: the Hims & Hers Q2 2026 results and earnings call (Aug 10, 2026), the FTC complaint and press release (Jul 29, 2026), Teladoc's Q2 2026 results, and public HIMS price data as of the Sep 25, 2026 close. Numbers are rounded. Claims the hosts couldn't verify are flagged on air. This is not investment advice.\n\nChapters: 1. The double charge; 2. Loop, not data; 3. Teladoc's graveyard and the four links; 4. The FTC and the anecdote; 5. Who copies it, and the empty box.",
+    "file": "2026-09-28-hims-no-es-telemedicina-v2.mp3",
+    "length": 9837029,
+    "duration": "00:16:24",
+    "pub_iso": "2026-09-28T18:52:00-04:00",
+    "guid": "2026-09-28-hims-no-es-telemedicina",
+    "slug": "2026-09-28-hims-no-es-telemedicina"
   }
 ]
