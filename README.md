@@ -1,6 +1,6 @@
-# Adam and Eve FM — private Apple Podcasts feed
+# Signal & Noise — private Apple Podcasts feed
 
-**Show:** Adam and Eve FM (Adam (bull) vs Eve (skeptic))
+**Show:** Signal & Noise Private (Max (bull) vs Lena (skeptic))
 **GitHub account:** augustorpo (free plan → **public** repo with unguessable name)
 **Repo:** https://github.com/augustorpo/wtr-bb1b9267bc824433
 **Feed URL (subscribe in Apple Podcasts / any podcast app):**
@@ -8,8 +8,8 @@ https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml
 
 `<itunes:block>Yes</itunes:block>` keeps it out of the public Apple directory; anyone with the URL can still subscribe.
 
-**Description:** Adam (bull) and Eve (skeptic) debate markets, theses, articles and big ideas, casual and fun.
-**Cover:** `cover-v3.jpg` (3000×3000 JPG, bull art; `cover.jpg` is a copy). Set via `"cover"` in config.json (publisher default is also `cover-v3.jpg`).
+**Description:** Max (bull) and Lena (skeptic) debate markets, theses, articles and big ideas.
+**Cover:** `cover-v4.jpg` (3000×3000 JPG, red bull art with a "PRIVATE" badge; `cover.jpg` is a copy). Set via `"cover"` in config.json (publisher default is also `cover-v4.jpg`).
 
 ## One-command weekly publish
 
@@ -23,7 +23,7 @@ python3 /home/box/podcast/publish_episode.py \
 Optional flags: `--title`, `--description`, `--pubdate "YYYY-MM-DD HH:MM"` (America/New_York), `--replace`, `--no-push`.
 
 Config: `/home/box/podcast/config.json` (repo, base_url, clone path).
-The script copies the MP3 into `episodes/`, updates `episodes.json`, regenerates `feed.xml` with the Adam and Eve FM branding, commits, and pushes to `main` (GitHub Pages).
+The script copies the MP3 into `episodes/`, updates `episodes.json`, regenerates `feed.xml` with the Signal & Noise Private branding, commits, and pushes to `main` (GitHub Pages).
 
 ## One-off / special episodes
 
@@ -33,7 +33,7 @@ Specials are keyed by `--slug` so they never collide with (or replace) the weekl
 python3 /home/box/podcast/publish_episode.py \
   --mp3 /workspace/hims-2026-09-28/hims-isnt-telemedicine-2026-09-28.mp3 \
   --date 2026-09-28 --slug 2026-09-28-hims-no-es-telemedicina \
-  --title "HIMS Isn't Telemedicine — Adan vs Eve (Special)" \
+  --title "HIMS Isn't Telemedicine — Max vs Lena (Special)" \
   --description-file /workspace/hims-2026-09-28/show-notes.txt \
   --chapters /workspace/hims-2026-09-28/chapters.json --append-chapters
 ```
@@ -43,10 +43,12 @@ python3 /home/box/podcast/publish_episode.py \
 - `--replace` now replaces the entry with the same slug (= same date for weekly episodes). The MP3 is copied only after the duplicate check passes.
 
 ## Specials published
-- 2026-09-28 — HIMS Isn't Telemedicine — Adan vs Eve (Special). Source: `/workspace/hims-2026-09-28/`
+- 2026-09-28 — HIMS Isn't Telemedicine — Max vs Lena (Special). Source: `/workspace/hims-2026-09-28/`
+- 2026-09-29 — Biology Eats the Market — Max vs Lena (Special). Source: `/workspace/x-alc2022-2026-09-29/`
+- Both specials re-voiced with Gemini TTS on 2026-09-29 (`-v2.mp3` files, same GUIDs).
 
 ## Episode 1 render (box)
 
 Source: `/workspace/weekly-audio-2026-09-28/`
 Re-render: `rm -rf segments && .venv/bin/python render.py`
-Hosts: Adan=en-US-AndrewNeural, Eve=en-US-AvaNeural.
+Hosts (legacy edge-tts render): Adan=en-US-AndrewNeural, Eve=en-US-AvaNeural. Now Max/Lena on Gemini TTS (Puck/Kore).
