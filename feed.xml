@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 11:07:04 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:31:42 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,30 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thesis Episode Zero: The Map — Max vs Lena</title>
+      <description>Episode zero of the Thesis Check series: the map. A from-scratch tour of Augusto's whole investment-thesis framework for a smart listener who's new to it. Max (bull) and Lena (skeptic) cover every bucket (Ballast, Legacy Colombia, AI Verticals, AI Infrastructure, Musk, Apple, Electricity, and the new Crypto lines: Bitcoin, the on-chain engine with Solana and XRP, and a small speculative bet), each with its core idea, its tickers and its rough weight as a share of the portfolio. They also explain how the follow-up works: the C1/C2/C3 stop lights with the starred anchor, the overall-light logic, kill-committee memos, hold-and-harvest, quarterly re-scores and the weekly rotation. Current scoreboard: 17 green, 3 yellow, 2 red.
+
+Made-up call-ins, invented for this episode: Rosalind, a fictional East Coast private-wealth advisor, and Sipho, a fictional Cape Town on-chain analyst.
+
+Sources: Augusto's thesis tracker and crypto thresholds (both updated Oct 1, 2026) and the Tesis &amp; Exits master map v0.6 (bucket weights are a mid-September snapshot, rounded). Not investment advice.
+
+Chapters: 1. Episode zero: the map; 2. How the stop lights work; 3. Ballast and Legacy Colombia; 4. AI Verticals; 5. AI Infrastructure; 6. Musk; 7. Apple: hold and harvest; 8. Electricity; 9. Crypto: the new lines; 10. Scoreboard and wrap-up.</description>
+      <itunes:summary>Episode zero of the Thesis Check series: the map. A from-scratch tour of Augusto's whole investment-thesis framework for a smart listener who's new to it. Max (bull) and Lena (skeptic) cover every bucket (Ballast, Legacy Colombia, AI Verticals, AI Infrastructure, Musk, Apple, Electricity, and the new Crypto lines: Bitcoin, the on-chain engine with Solana and XRP, and a small speculative bet), each with its core idea, its tickers and its rough weight as a share of the portfolio. They also explain how the follow-up works: the C1/C2/C3 stop lights with the starred anchor, the overall-light logic, kill-committee memos, hold-and-harvest, quarterly re-scores and the weekly rotation. Current scoreboard: 17 green, 3 yellow, 2 red.
+
+Made-up call-ins, invented for this episode: Rosalind, a fictional East Coast private-wealth advisor, and Sipho, a fictional Cape Town on-chain analyst.
+
+Sources: Augusto's thesis tracker and crypto thresholds (both updated Oct 1, 2026) and the Tesis &amp; Exits master map v0.6 (bucket weights are a mid-September snapshot, rounded). Not investment advice.
+
+Chapters: 1. Episode zero: the map; 2. How the stop lights work; 3. Ballast and Legacy Colombia; 4. AI Verticals; 5. AI Infrastructure; 6. Musk; 7. Apple: hold and harvest; 8. Electricity; 9. Crypto: the new lines; 10. Scoreboard and wrap-up.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-episode-zero-2026-10-01.mp3" length="16857802" type="audio/mpeg"/>
+      <guid isPermaLink="false">thesis-episode-zero-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 16:31:41 -0400</pubDate>
+      <itunes:duration>00:28:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Thesis Check: AI Verticals — Five Green, Duolingo on Trial — Max vs Lena</title>
       <description>Pilot of the new weekly Thesis Check: one investment thesis per week, scored against the news. This week, Thesis #1, AI Verticals (Palantir, Robinhood, Hims &amp; Hers, Duolingo, Palo Alto Networks, Alphabet), covering news from about Sep 1 to Oct 1, 2026. Max (bull) and Lena (skeptic) go ticker by ticker through what changed and walk each C1/C2/C3 stop-light condition. The scoreboard is unchanged at five green and one red. Duolingo gets extra time as the first kill-committee candidate, with a look at what to watch at its next earnings (Nov 4, tentative).
