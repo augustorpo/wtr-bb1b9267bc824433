@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 18:11:06 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:07:04 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,32 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thesis Check: AI Verticals — Five Green, Duolingo on Trial — Max vs Lena</title>
+      <description>Pilot of the new weekly Thesis Check: one investment thesis per week, scored against the news. This week, Thesis #1, AI Verticals (Palantir, Robinhood, Hims &amp; Hers, Duolingo, Palo Alto Networks, Alphabet), covering news from about Sep 1 to Oct 1, 2026. Max (bull) and Lena (skeptic) go ticker by ticker through what changed and walk each C1/C2/C3 stop-light condition. The scoreboard is unchanged at five green and one red. Duolingo gets extra time as the first kill-committee candidate, with a look at what to watch at its next earnings (Nov 4, tentative).
+
+
+Made-up guest: Shivaun, a fictional Dublin French teacher, joins briefly in the Duolingo chapter. She was invented for this episode.
+
+Sources: Augusto's thesis tracker (scores as of Oct 1), the Robinhood market data connector (prices, analyst ratings, earnings calendar), company releases and filings, and reputable news coverage, plus the 10am.pro group chat. Earnings dates are tentative. Stop-light changes are only suggestions; the tracker is unchanged. Numbers are rounded. Not investment advice.
+
+Chapters: 1. Five green, one red; 2. Palantir: flat month, loud headlines; 3. Robinhood: summit, SEC and a sell-the-news; 4. Hims: the AI clinic and the courtroom; 5. Duolingo: the kill-committee candidate; 6. Palo Alto: the security tax on agents; 7. Alphabet: cloud on fire, cash on fire; 8. Health check and the dates.</description>
+      <itunes:summary>Pilot of the new weekly Thesis Check: one investment thesis per week, scored against the news. This week, Thesis #1, AI Verticals (Palantir, Robinhood, Hims &amp; Hers, Duolingo, Palo Alto Networks, Alphabet), covering news from about Sep 1 to Oct 1, 2026. Max (bull) and Lena (skeptic) go ticker by ticker through what changed and walk each C1/C2/C3 stop-light condition. The scoreboard is unchanged at five green and one red. Duolingo gets extra time as the first kill-committee candidate, with a look at what to watch at its next earnings (Nov 4, tentative).
+
+
+Made-up guest: Shivaun, a fictional Dublin French teacher, joins briefly in the Duolingo chapter. She was invented for this episode.
+
+Sources: Augusto's thesis tracker (scores as of Oct 1), the Robinhood market data connector (prices, analyst ratings, earnings calendar), company releases and filings, and reputable news coverage, plus the 10am.pro group chat. Earnings dates are tentative. Stop-light changes are only suggestions; the tracker is unchanged. Numbers are rounded. Not investment advice.
+
+Chapters: 1. Five green, one red; 2. Palantir: flat month, loud headlines; 3. Robinhood: summit, SEC and a sell-the-news; 4. Hims: the AI clinic and the courtroom; 5. Duolingo: the kill-committee candidate; 6. Palo Alto: the security tax on agents; 7. Alphabet: cloud on fire, cash on fire; 8. Health check and the dates.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-ai-verticals-2026-10-01.mp3" length="21272660" type="audio/mpeg"/>
+      <guid isPermaLink="false">thesis-ai-verticals-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 11:07:04 -0400</pubDate>
+      <itunes:duration>00:35:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>All-In This Week: Anthropic's IPO Wobble and the Open-Source Flood — Max vs Lena</title>
       <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 21–29, 2026. Max (bull) and Lena (skeptic) go topic by topic through all six episodes released that week: the main show, episode 290 ("Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails", Sep 25), plus the Summit and interview episodes with Naveen Rao (Sep 21), Blake Scholl (Sep 22), Steve Hilton &amp; Spencer Pratt (Sep 22), Luca Ferrari (Sep 23) and Daniel Ek (Sep 28).
