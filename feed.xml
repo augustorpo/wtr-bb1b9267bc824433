@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:31:42 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:20:05 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,34 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>All-In This Week: White House AI Accord — Max vs Lena</title>
+      <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 30–Oct 2, 2026. Max (bull) and Lena (skeptic) go topic by topic through both episodes released after last week's Daniel Ek interview: the Summit interview "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs" (Sep 30), and the main show, episode 291, "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions" (Oct 2).
+
+Topics: the White House Super Intelligence Summit and voluntary AI safety accord (six frontier labs, external audits, board fiduciary duty, D&amp;O teeth); cybersecurity arms race and data centers as national security; America.gov and coordinated "doomer" messaging; GDP/jobs/inflation beats versus diesel, rates and a late-October bank-impairment warning; midterm and 2028 predictions; media coverage of the attempted Dubai–Tel Aviv hijacking; Jake Paul's attention-as-capital thesis, MVP vs UFC, and politics ambitions; The Chainsmokers on music-to-venture, sixth-man investing, DPI and bubble tells.
+
+Made-up guests: Mara, a fictional Vancouver AI governance lawyer, joins in the Accord chapter. Finn, a fictional Auckland creator-economy investor, joins in the Jake Paul chapter. Both are invented for this episode and speak for no real firm.
+
+Sources: the official All-In episode descriptions and timestamps (Apple Podcasts / iTunes lookup), and published episode transcripts (Podscripts) for both episodes, cross-checked against a public write-up of episode 291. Hosts only describe what the besties said, and they don't imitate their voices. Where a transcript didn't make clear who said something, we say "one of them". Numbers are rounded and are the speakers' claims unless we say otherwise. This is not affiliated with All-In and is not investment advice.
+
+Chapters: 1. This week on All-In; 2. The White House Accord; 3. Cyber arms race and data centers; 4. America.gov and the doomer war; 5. GDP beats and the rate problem; 6. Midterms and 2028; 7. The Dubai flight and the media; 8. Jake Paul and attention as capital; 9. Chainsmokers, sixth men, and bubble tells; 10. What we'd watch next.</description>
+      <itunes:summary>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 30–Oct 2, 2026. Max (bull) and Lena (skeptic) go topic by topic through both episodes released after last week's Daniel Ek interview: the Summit interview "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs" (Sep 30), and the main show, episode 291, "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions" (Oct 2).
+
+Topics: the White House Super Intelligence Summit and voluntary AI safety accord (six frontier labs, external audits, board fiduciary duty, D&amp;O teeth); cybersecurity arms race and data centers as national security; America.gov and coordinated "doomer" messaging; GDP/jobs/inflation beats versus diesel, rates and a late-October bank-impairment warning; midterm and 2028 predictions; media coverage of the attempted Dubai–Tel Aviv hijacking; Jake Paul's attention-as-capital thesis, MVP vs UFC, and politics ambitions; The Chainsmokers on music-to-venture, sixth-man investing, DPI and bubble tells.
+
+Made-up guests: Mara, a fictional Vancouver AI governance lawyer, joins in the Accord chapter. Finn, a fictional Auckland creator-economy investor, joins in the Jake Paul chapter. Both are invented for this episode and speak for no real firm.
+
+Sources: the official All-In episode descriptions and timestamps (Apple Podcasts / iTunes lookup), and published episode transcripts (Podscripts) for both episodes, cross-checked against a public write-up of episode 291. Hosts only describe what the besties said, and they don't imitate their voices. Where a transcript didn't make clear who said something, we say "one of them". Numbers are rounded and are the speakers' claims unless we say otherwise. This is not affiliated with All-In and is not investment advice.
+
+Chapters: 1. This week on All-In; 2. The White House Accord; 3. Cyber arms race and data centers; 4. America.gov and the doomer war; 5. GDP beats and the rate problem; 6. Midterms and 2028; 7. The Dubai flight and the media; 8. Jake Paul and attention as capital; 9. Chainsmokers, sixth men, and bubble tells; 10. What we'd watch next.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/all-in-weekly-2026-10-03.mp3" length="36290477" type="audio/mpeg"/>
+      <guid isPermaLink="false">all-in-weekly-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 08:20:05 -0400</pubDate>
+      <itunes:duration>01:00:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Thesis Episode Zero: The Map — Max vs Lena</title>
       <description>Episode zero of the Thesis Check series: the map. A from-scratch tour of Augusto's whole investment-thesis framework for a smart listener who's new to it. Max (bull) and Lena (skeptic) cover every bucket (Ballast, Legacy Colombia, AI Verticals, AI Infrastructure, Musk, Apple, Electricity, and the new Crypto lines: Bitcoin, the on-chain engine with Solana and XRP, and a small speculative bet), each with its core idea, its tickers and its rough weight as a share of the portfolio. They also explain how the follow-up works: the C1/C2/C3 stop lights with the starred anchor, the overall-light logic, kill-committee memos, hold-and-harvest, quarterly re-scores and the weekly rotation. Current scoreboard: 17 green, 3 yellow, 2 red.

@@ -74,5 +74,16 @@
     "pub_iso": "2026-10-01T16:31:41-04:00",
     "guid": "thesis-episode-zero-2026-10-01",
     "slug": "thesis-episode-zero-2026-10-01"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "All-In This Week: White House AI Accord — Max vs Lena",
+    "description": "An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 30–Oct 2, 2026. Max (bull) and Lena (skeptic) go topic by topic through both episodes released after last week's Daniel Ek interview: the Summit interview \"Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs\" (Sep 30), and the main show, episode 291, \"Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions\" (Oct 2).\n\nTopics: the White House Super Intelligence Summit and voluntary AI safety accord (six frontier labs, external audits, board fiduciary duty, D&O teeth); cybersecurity arms race and data centers as national security; America.gov and coordinated \"doomer\" messaging; GDP/jobs/inflation beats versus diesel, rates and a late-October bank-impairment warning; midterm and 2028 predictions; media coverage of the attempted Dubai–Tel Aviv hijacking; Jake Paul's attention-as-capital thesis, MVP vs UFC, and politics ambitions; The Chainsmokers on music-to-venture, sixth-man investing, DPI and bubble tells.\n\nMade-up guests: Mara, a fictional Vancouver AI governance lawyer, joins in the Accord chapter. Finn, a fictional Auckland creator-economy investor, joins in the Jake Paul chapter. Both are invented for this episode and speak for no real firm.\n\nSources: the official All-In episode descriptions and timestamps (Apple Podcasts / iTunes lookup), and published episode transcripts (Podscripts) for both episodes, cross-checked against a public write-up of episode 291. Hosts only describe what the besties said, and they don't imitate their voices. Where a transcript didn't make clear who said something, we say \"one of them\". Numbers are rounded and are the speakers' claims unless we say otherwise. This is not affiliated with All-In and is not investment advice.\n\nChapters: 1. This week on All-In; 2. The White House Accord; 3. Cyber arms race and data centers; 4. America.gov and the doomer war; 5. GDP beats and the rate problem; 6. Midterms and 2028; 7. The Dubai flight and the media; 8. Jake Paul and attention as capital; 9. Chainsmokers, sixth men, and bubble tells; 10. What we'd watch next.",
+    "file": "all-in-weekly-2026-10-03.mp3",
+    "length": 36290477,
+    "duration": "01:00:29",
+    "pub_iso": "2026-10-03T08:20:05-04:00",
+    "guid": "all-in-weekly-2026-10-03",
+    "slug": "all-in-weekly-2026-10-03"
   }
 ]
