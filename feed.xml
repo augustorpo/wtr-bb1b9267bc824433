@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:20:05 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:58:25 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,30 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thesis Episode 0.5: Reading the Scorecard — Max vs Lena</title>
+      <description>Thesis Episode 0.5: a from-scratch walkthrough of the new "timing light" being drafted for Augusto's thesis tracker, borrowed from Hernán's (10AMPRO) method on his Biology is Code page. Max (bull) and Lena (skeptic) explain each metric (the seven trend checks with moving averages, MACD and RSI; the "stretched" RSI rule; volume confirmation; retest vs breakout; the single daily-close trigger), how the thesis light and timing light combine into a tier (full add, half add, hold, no new money, harvest), the earnings blackout and the "rally without use" and "chart not paying for it yet" flags, and the per-thesis counts on Oct 2 data. They close with keep / drop / simplify suggestions for Augusto and the advisor to decide, and how the weekly Thesis Check episodes will mention these numbers lightly.
+
+Made-up call-ins, invented for this episode: Hank, a fictional Chicago quant who builds scoring models, and Tess, a fictional San Francisco fundamental analyst who distrusts scorecards.
+
+Sources: the Investment advisor's draft files dated Oct 2, 2026 (Hernán method notes, the TSLA/GEV scorecard example, the Thesis Validator mockup v0.1) and Hernán's public page mercados.10am.pro/biology-is-code. The timing-light mapping, blackout days and sizing rules are the advisor's proposals, not yet signed off. Not investment advice.
+
+Chapters: 1. Episode zero point five; 2. Hernán's two layers; 3. The seven checks; 4. Call-in: the quant; 5. Stretched, volume, and the single trigger; 6. From two lights to one action; 7. Call-in: the skeptic; 8. Keep, drop, simplify; 9. How we'll use it every week.</description>
+      <itunes:summary>Thesis Episode 0.5: a from-scratch walkthrough of the new "timing light" being drafted for Augusto's thesis tracker, borrowed from Hernán's (10AMPRO) method on his Biology is Code page. Max (bull) and Lena (skeptic) explain each metric (the seven trend checks with moving averages, MACD and RSI; the "stretched" RSI rule; volume confirmation; retest vs breakout; the single daily-close trigger), how the thesis light and timing light combine into a tier (full add, half add, hold, no new money, harvest), the earnings blackout and the "rally without use" and "chart not paying for it yet" flags, and the per-thesis counts on Oct 2 data. They close with keep / drop / simplify suggestions for Augusto and the advisor to decide, and how the weekly Thesis Check episodes will mention these numbers lightly.
+
+Made-up call-ins, invented for this episode: Hank, a fictional Chicago quant who builds scoring models, and Tess, a fictional San Francisco fundamental analyst who distrusts scorecards.
+
+Sources: the Investment advisor's draft files dated Oct 2, 2026 (Hernán method notes, the TSLA/GEV scorecard example, the Thesis Validator mockup v0.1) and Hernán's public page mercados.10am.pro/biology-is-code. The timing-light mapping, blackout days and sizing rules are the advisor's proposals, not yet signed off. Not investment advice.
+
+Chapters: 1. Episode zero point five; 2. Hernán's two layers; 3. The seven checks; 4. Call-in: the quant; 5. Stretched, volume, and the single trigger; 6. From two lights to one action; 7. Call-in: the skeptic; 8. Keep, drop, simplify; 9. How we'll use it every week.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-episode-0-5-2026-10-03.mp3" length="14512075" type="audio/mpeg"/>
+      <guid isPermaLink="false">thesis-episode-0-5-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 11:58:25 -0400</pubDate>
+      <itunes:duration>00:24:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>All-In This Week: White House AI Accord — Max vs Lena</title>
       <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Sep 30–Oct 2, 2026. Max (bull) and Lena (skeptic) go topic by topic through both episodes released after last week's Daniel Ek interview: the Summit interview "Jake Paul &amp; The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? &amp; Venture Bubble Signs" (Sep 30), and the main show, episode 291, "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions" (Oct 2).
