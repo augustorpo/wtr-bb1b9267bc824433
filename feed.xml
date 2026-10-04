@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:30:24 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:22:59 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,34 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thesis Check: AI Infrastructure — Five greens, three yellows underneath — Max vs Lena</title>
+      <description>Weekly Thesis Check #2: AI Infrastructure (Broadcom, Taiwan Semi, Nvidia, EWY, ARTY), covering news from about Sep 6 to Oct 4, 2026. Max (bull) and Lena (skeptic) walk each ticker's price path and C1/C2/C3 stop-lights. Scoreboard stays five overall greens; three criteria underneath are yellow (Broadcom operating-margin trend, Nvidia gross-margin guide, EWY memory-price momentum). Buy-rules v3 one-liner: Taiwan Semi and Arty BUY; Broadcom, Nvidia, and EWY HOLD.
+
+Chapters: Open; Broadcom; Taiwan Semi; Nvidia; EWY; Arty; Close.
+
+Made-up call-ins, invented for this episode: Priya, a fictional Bangalore semiconductor supply-chain analyst; Callum, a fictional Glasgow memory-markets desk analyst.
+
+Sources: Augusto's thesis tracker (scores as of the Oct 2 tracker file), Robinhood market data (quotes, historicals, analyst ratings, earnings calendar as of Oct 2–4), company IR (Broadcom FQ3, TSMC monthly revenue and Q3 calendar, Nvidia Q2 commentary), TrendForce memory PRs (Sep 7/29/30), Reuters/CNBC on the Sep 14 AI-safety selloff, Reuters on the Broadcom–Anthropic financing report (Oct 1), iShares ARTY product page, and the 10am.pro group chat (paraphrased). Earnings dates marked company-verified where Robinhood says so; otherwise tentative. Stop-light changes are suggestions only; the tracker is unchanged. Numbers rounded. Not investment advice.
+
+Chapters: 1. Five greens, three yellows underneath; 2. Broadcom — green with a soft margin; 3. Taiwan Semi — all green into October fifteenth; 4. Nvidia — beat-and-raise, softer gross margin; 5. E-W-Y — memory still rising, just slower; 6. Arty — base layer still healthy; 7. Healthy picks and shovels, watch the yellows.</description>
+      <itunes:summary>Weekly Thesis Check #2: AI Infrastructure (Broadcom, Taiwan Semi, Nvidia, EWY, ARTY), covering news from about Sep 6 to Oct 4, 2026. Max (bull) and Lena (skeptic) walk each ticker's price path and C1/C2/C3 stop-lights. Scoreboard stays five overall greens; three criteria underneath are yellow (Broadcom operating-margin trend, Nvidia gross-margin guide, EWY memory-price momentum). Buy-rules v3 one-liner: Taiwan Semi and Arty BUY; Broadcom, Nvidia, and EWY HOLD.
+
+Chapters: Open; Broadcom; Taiwan Semi; Nvidia; EWY; Arty; Close.
+
+Made-up call-ins, invented for this episode: Priya, a fictional Bangalore semiconductor supply-chain analyst; Callum, a fictional Glasgow memory-markets desk analyst.
+
+Sources: Augusto's thesis tracker (scores as of the Oct 2 tracker file), Robinhood market data (quotes, historicals, analyst ratings, earnings calendar as of Oct 2–4), company IR (Broadcom FQ3, TSMC monthly revenue and Q3 calendar, Nvidia Q2 commentary), TrendForce memory PRs (Sep 7/29/30), Reuters/CNBC on the Sep 14 AI-safety selloff, Reuters on the Broadcom–Anthropic financing report (Oct 1), iShares ARTY product page, and the 10am.pro group chat (paraphrased). Earnings dates marked company-verified where Robinhood says so; otherwise tentative. Stop-light changes are suggestions only; the tracker is unchanged. Numbers rounded. Not investment advice.
+
+Chapters: 1. Five greens, three yellows underneath; 2. Broadcom — green with a soft margin; 3. Taiwan Semi — all green into October fifteenth; 4. Nvidia — beat-and-raise, softer gross margin; 5. E-W-Y — memory still rising, just slower; 6. Arty — base layer still healthy; 7. Healthy picks and shovels, watch the yellows.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-ai-infrastructure-2026-10-04.mp3" length="18931656" type="audio/mpeg"/>
+      <guid isPermaLink="false">thesis-ai-infrastructure-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 07:22:59 -0400</pubDate>
+      <itunes:duration>00:31:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Thesis Episode 0.5: The Buy Rules — Max vs Lena</title>
       <description>Thesis Episode 0.5, take two: Augusto's new buy rules (version 3, locked Oct 3, 2026), explained from scratch. This replaces the earlier Episode 0.5, which was built on Friday's draft timing light. Max (bull) and Lena (skeptic) cover why the rules changed (what the stress test, the red-team and the full 22-position backtest found), then the eight rules in plain words: "add-worthy" means a green thesis with all three criteria green; above the 200-day simple moving average you buy, below it you re-check the thesis first; crypto and speculative names have a hard floor and wait in SGOV; new listings get a half ticket; the rules never sell; ticket size and caps are still to be decided; and there's no earnings blackout, just no resting limit orders through a report. They also go over what was cut from the draft (the seven checks, RSI, volume breakouts, tiers, event blackouts), what survived from Hernán's (10AMPRO) method, a worked example board from Friday's close, and how the weekly Thesis Check episodes will mention it.

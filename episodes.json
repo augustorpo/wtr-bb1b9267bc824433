@@ -96,5 +96,16 @@
     "pub_iso": "2026-10-03T11:58:00-04:00",
     "guid": "thesis-episode-0-5-2026-10-03",
     "slug": "thesis-episode-0-5-2026-10-03"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Thesis Check: AI Infrastructure — Five greens, three yellows underneath — Max vs Lena",
+    "description": "Weekly Thesis Check #2: AI Infrastructure (Broadcom, Taiwan Semi, Nvidia, EWY, ARTY), covering news from about Sep 6 to Oct 4, 2026. Max (bull) and Lena (skeptic) walk each ticker's price path and C1/C2/C3 stop-lights. Scoreboard stays five overall greens; three criteria underneath are yellow (Broadcom operating-margin trend, Nvidia gross-margin guide, EWY memory-price momentum). Buy-rules v3 one-liner: Taiwan Semi and Arty BUY; Broadcom, Nvidia, and EWY HOLD.\n\nChapters: Open; Broadcom; Taiwan Semi; Nvidia; EWY; Arty; Close.\n\nMade-up call-ins, invented for this episode: Priya, a fictional Bangalore semiconductor supply-chain analyst; Callum, a fictional Glasgow memory-markets desk analyst.\n\nSources: Augusto's thesis tracker (scores as of the Oct 2 tracker file), Robinhood market data (quotes, historicals, analyst ratings, earnings calendar as of Oct 2–4), company IR (Broadcom FQ3, TSMC monthly revenue and Q3 calendar, Nvidia Q2 commentary), TrendForce memory PRs (Sep 7/29/30), Reuters/CNBC on the Sep 14 AI-safety selloff, Reuters on the Broadcom–Anthropic financing report (Oct 1), iShares ARTY product page, and the 10am.pro group chat (paraphrased). Earnings dates marked company-verified where Robinhood says so; otherwise tentative. Stop-light changes are suggestions only; the tracker is unchanged. Numbers rounded. Not investment advice.\n\nChapters: 1. Five greens, three yellows underneath; 2. Broadcom — green with a soft margin; 3. Taiwan Semi — all green into October fifteenth; 4. Nvidia — beat-and-raise, softer gross margin; 5. E-W-Y — memory still rising, just slower; 6. Arty — base layer still healthy; 7. Healthy picks and shovels, watch the yellows.",
+    "file": "thesis-ai-infrastructure-2026-10-04.mp3",
+    "length": 18931656,
+    "duration": "00:31:33",
+    "pub_iso": "2026-10-04T07:22:59-04:00",
+    "guid": "thesis-ai-infrastructure-2026-10-04",
+    "slug": "thesis-ai-infrastructure-2026-10-04"
   }
 ]
