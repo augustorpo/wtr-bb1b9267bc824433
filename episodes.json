@@ -107,5 +107,16 @@
     "pub_iso": "2026-10-04T07:22:59-04:00",
     "guid": "thesis-ai-infrastructure-2026-10-04",
     "slug": "thesis-ai-infrastructure-2026-10-04"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "All-In This Week: Is Claude Conscious? — Max vs Lena",
+    "description": "An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 3–10, 2026. Only one All-In episode was released since last week's recap: the main show, episode 292, \"Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots\" (released Oct 9, 10:06 PM ET). Max (bull) and Lena (skeptic) go topic by topic.\n\nTopics: the New York Times report on Anthropic hosting religious leaders on Claude's possible consciousness and the Vatican episode; Friedberg's \"birth of a new religion\" view and Chamath's Descartes steelman; Sacks on the Claude Constitution's \"conscientious objector\" language and a played Mustafa Suleyman clip (the \"epistemic hall of mirrors\"); market vs. externalities, Chamath's three goals of alignment, and Roko's Basilisk; OpenAI's 700+ math papers, the \"loops\" idea, verifiability, and Chamath's pushback; the missing cryptography results (speculation) and expert gatekeeping; France's strikes and riots, Friedberg's \"socialism point of guaranteed return\", Sacks on subsidies; bond vigilantes, debt-to-GDP and yields; headless agents (Grok Bot, Dots), and Chamath's \"software IP is worthless\" claim.\n\nMade-up call-ins: Callum, a fictional Dublin philosophy-of-mind researcher, and Graham, a fictional Manchester bond strategist. Both are invented for this episode and speak for no real person or firm.\n\nSources: the official All-In episode description and timestamps (libsyn RSS / Apple Podcasts), our own machine transcript of the episode audio (no public transcript was available yet), cross-checked against a public write-up. Speaker attributions are inferred from context; where unclear we say \"one of them\". Numbers are rounded and are the speakers' claims. Hosts don't imitate the besties' voices. Not affiliated with All-In; not investment advice.\n\nChapters: 1. This week on All-In; 2. Anthropic, the Pope and a new religion; 3. The conscientious objector clause; 4. Call-in: Callum on minds and machines; 5. Let the market sort it? And Roko's Basilisk; 6. OpenAI's math dump; 7. The missing crypto proofs, and who guards the frontier; 8. France and the socialism point of guaranteed return; 9. Bond vigilantes, plus a call-in; 10. Headless agents and the end of software IP?; 11. What it all means.",
+    "file": "all-in-weekly-2026-10-10.mp3",
+    "length": 33977272,
+    "duration": "00:56:38",
+    "pub_iso": "2026-10-10T08:20:12-04:00",
+    "guid": "all-in-weekly-2026-10-10",
+    "slug": "all-in-weekly-2026-10-10"
   }
 ]
