@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 08:20:12 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:23:48 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,42 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thesis Check: Musk — Merger talk, no paperwork — Max vs Lena</title>
+      <description>Weekly Thesis Check #3: Musk (Tesla, SpaceX), covering news from about Sep 12 to Oct 11, 2026 (first coverage). Max (bull) and Lena (skeptic) walk each ticker's price path and C1/C2/C3 stop-lights. Scoreboard unchanged: Tesla YELLOW (merger leg is talk, no process), SpaceX GREEN. Buy-rules v3: Tesla NO NEW MONEY (yellow thesis); SpaceX HOLD (one yellow; new listing = half ticket).
+
+Suggestions (not applied to the tracker): Tesla C3 energy storage green→yellow (growth ~41%→~10% y/y); re-check SpaceX C1★ given Starlink ARPU down ~22% y/y vs the 10% yellow clause; SpaceX C3 launch cadence at risk of red at next report; Tesla C2 stays yellow, add the Oct 30 NHTSA Cybercab answers and "Dallas soon" as milestones.
+
+Dates: Tesla Q3 earnings Oct 21 after close (company-confirmed); NHTSA Cybercab answers due Oct 30; SpaceX Q3 earnings late Oct–Nov 17 (tentative); Starship Flight 15 NET ~Nov 8 (FAA planning slides, unconfirmed).
+
+Chapters: Two names, one man; Tesla, the merger leg; Tesla without a deal; SpaceX, rockets and rented chips; Health check and dates.
+
+Made-up call-ins, invented for this episode: Ruth, a fictional Kansas City corporate governance lawyer; Owen, a fictional Sydney launch-range operations researcher. Not real people, not advice.
+
+Sources: Augusto's thesis tracker (scores as of Oct 1), Robinhood market data (closes through Oct 9, analyst ratings, earnings calendar), Tesla Q3 production/deliveries 8-K (Oct 2), 24/7 Wall St, Electrek, TeslaNorth, TxDMV registry reports, TipRanks/FT on SpaceX debt plan, MarketDash, TheStreet, Deutsche Bank launch tracker (Oct 8), FAA planning slides via AI Shift News, Polymarket, Antonio Linares on X, and the 10am.pro group chat through ~Oct 4 (paraphrased). Numbers rounded. Not investment advice.
+
+Chapters: 1. Two names, one man; 2. Tesla, the merger leg; 3. Tesla without a deal; 4. SpaceX, rockets and rented chips; 5. Health check and dates.</description>
+      <itunes:summary>Weekly Thesis Check #3: Musk (Tesla, SpaceX), covering news from about Sep 12 to Oct 11, 2026 (first coverage). Max (bull) and Lena (skeptic) walk each ticker's price path and C1/C2/C3 stop-lights. Scoreboard unchanged: Tesla YELLOW (merger leg is talk, no process), SpaceX GREEN. Buy-rules v3: Tesla NO NEW MONEY (yellow thesis); SpaceX HOLD (one yellow; new listing = half ticket).
+
+Suggestions (not applied to the tracker): Tesla C3 energy storage green→yellow (growth ~41%→~10% y/y); re-check SpaceX C1★ given Starlink ARPU down ~22% y/y vs the 10% yellow clause; SpaceX C3 launch cadence at risk of red at next report; Tesla C2 stays yellow, add the Oct 30 NHTSA Cybercab answers and "Dallas soon" as milestones.
+
+Dates: Tesla Q3 earnings Oct 21 after close (company-confirmed); NHTSA Cybercab answers due Oct 30; SpaceX Q3 earnings late Oct–Nov 17 (tentative); Starship Flight 15 NET ~Nov 8 (FAA planning slides, unconfirmed).
+
+Chapters: Two names, one man; Tesla, the merger leg; Tesla without a deal; SpaceX, rockets and rented chips; Health check and dates.
+
+Made-up call-ins, invented for this episode: Ruth, a fictional Kansas City corporate governance lawyer; Owen, a fictional Sydney launch-range operations researcher. Not real people, not advice.
+
+Sources: Augusto's thesis tracker (scores as of Oct 1), Robinhood market data (closes through Oct 9, analyst ratings, earnings calendar), Tesla Q3 production/deliveries 8-K (Oct 2), 24/7 Wall St, Electrek, TeslaNorth, TxDMV registry reports, TipRanks/FT on SpaceX debt plan, MarketDash, TheStreet, Deutsche Bank launch tracker (Oct 8), FAA planning slides via AI Shift News, Polymarket, Antonio Linares on X, and the 10am.pro group chat through ~Oct 4 (paraphrased). Numbers rounded. Not investment advice.
+
+Chapters: 1. Two names, one man; 2. Tesla, the merger leg; 3. Tesla without a deal; 4. SpaceX, rockets and rented chips; 5. Health check and dates.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-musk-2026-10-11.mp3" length="18776579" type="audio/mpeg"/>
+      <guid isPermaLink="false">thesis-musk-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 07:23:48 -0400</pubDate>
+      <itunes:duration>00:31:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>All-In This Week: Is Claude Conscious? — Max vs Lena</title>
       <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 3–10, 2026. Only one All-In episode was released since last week's recap: the main show, episode 292, "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots" (released Oct 9, 10:06 PM ET). Max (bull) and Lena (skeptic) go topic by topic.
