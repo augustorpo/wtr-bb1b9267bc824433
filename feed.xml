@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 07:23:48 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:20:40 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,22 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Siri AI: Good Now, or Gemini 2023? — Max vs Lena (Special)</title>
+      <description>Max (bull) and Lena (skeptic) on the new Siri AI in iOS 27 (released Sept 14, 2026, still labeled beta), using only takes published after the release: John Gruber (Daring Fireball Sept 21 &amp; Oct 8; The Talk Show ep. 455, Sept 25), Nilay Patel (assumed for "Mikey Patel"; The Vergecast, Oct 9), ATP (episodes 709-712; only Siri-adjacent topic: Apple Watch Rewind/Recap, Oct 1), and Joanna Stern (no post-September Siri take found). Background: 9to5Mac Sept 20 and Oct 2. Call-in Rupert is a fictional character.
+
+Chapters: 1. Cold open: is Siri good now?; 2. What people are actually complaining about; 3. John Gruber: it got useful, then got slower; 4. Call-in: Rupert on scaling the cloud; 5. Nilay Patel: Gemini 2023, in your pocket; 6. ATP and Joanna Stern: the quiet chairs; 7. Verdict and the Apple thesis.</description>
+      <itunes:summary>Max (bull) and Lena (skeptic) on the new Siri AI in iOS 27 (released Sept 14, 2026, still labeled beta), using only takes published after the release: John Gruber (Daring Fireball Sept 21 &amp; Oct 8; The Talk Show ep. 455, Sept 25), Nilay Patel (assumed for "Mikey Patel"; The Vergecast, Oct 9), ATP (episodes 709-712; only Siri-adjacent topic: Apple Watch Rewind/Recap, Oct 1), and Joanna Stern (no post-September Siri take found). Background: 9to5Mac Sept 20 and Oct 2. Call-in Rupert is a fictional character.
+
+Chapters: 1. Cold open: is Siri good now?; 2. What people are actually complaining about; 3. John Gruber: it got useful, then got slower; 4. Call-in: Rupert on scaling the cloud; 5. Nilay Patel: Gemini 2023, in your pocket; 6. ATP and Joanna Stern: the quiet chairs; 7. Verdict and the Apple thesis.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/siri-ai-ios27-2026-10-14.mp3" length="7683972" type="audio/mpeg"/>
+      <guid isPermaLink="false">siri-ai-ios27-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 19:20:40 -0400</pubDate>
+      <itunes:duration>00:12:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Thesis Check: Musk — Merger talk, no paperwork — Max vs Lena</title>
       <description>Weekly Thesis Check #3: Musk (Tesla, SpaceX), covering news from about Sep 12 to Oct 11, 2026 (first coverage). Max (bull) and Lena (skeptic) walk each ticker's price path and C1/C2/C3 stop-lights. Scoreboard unchanged: Tesla YELLOW (merger leg is talk, no process), SpaceX GREEN. Buy-rules v3: Tesla NO NEW MONEY (yellow thesis); SpaceX HOLD (one yellow; new listing = half ticket).
