@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:20:40 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:56:46 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,22 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Tech Digest: Apple Moves Into Your House — Sam &amp; Nora</title>
+      <description>The first weekly Tech Digest (Oct 8-15, 2026). Sam and Nora on gadget quick hits (HomeView, HomePod mini 2, Apple TV 4K, Alexa tablets, Surface Laptop Ultra, Googlebooks, Galaxy S26 price bump, iPhone Duo), a deep dive on Apple's smart home push with a refurb/trade-in angle, and a roundup of The Vergecast, Joanna Stern's The New Things, MKBHD and Waveform, Mark Gurman, and John Gruber's Daring Fireball posts. Free voices; self-made music.
+
+Chapters: 1. Cold open; 2. New gadgets: quick hits; 3. Deep dive: Apple moves into your house; 4. Deep dive: the call-in; 5. Source roundup: The Vergecast; 6. Source roundup: Joanna Stern; 7. Source roundup: MKBHD and Waveform; 8. Source roundup: Gurman and Gruber; 9. Wrap.</description>
+      <itunes:summary>The first weekly Tech Digest (Oct 8-15, 2026). Sam and Nora on gadget quick hits (HomeView, HomePod mini 2, Apple TV 4K, Alexa tablets, Surface Laptop Ultra, Googlebooks, Galaxy S26 price bump, iPhone Duo), a deep dive on Apple's smart home push with a refurb/trade-in angle, and a roundup of The Vergecast, Joanna Stern's The New Things, MKBHD and Waveform, Mark Gurman, and John Gruber's Daring Fireball posts. Free voices; self-made music.
+
+Chapters: 1. Cold open; 2. New gadgets: quick hits; 3. Deep dive: Apple moves into your house; 4. Deep dive: the call-in; 5. Source roundup: The Vergecast; 6. Source roundup: Joanna Stern; 7. Source roundup: MKBHD and Waveform; 8. Source roundup: Gurman and Gruber; 9. Wrap.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/techdigest-2026-10-15.mp3" length="9810860" type="audio/mpeg"/>
+      <guid isPermaLink="false">techdigest-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 13:56:46 -0400</pubDate>
+      <itunes:duration>00:20:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Siri AI: Good Now, or Gemini 2023? — Max vs Lena (Special)</title>
       <description>Max (bull) and Lena (skeptic) on the new Siri AI in iOS 27 (released Sept 14, 2026, still labeled beta), using only takes published after the release: John Gruber (Daring Fireball Sept 21 &amp; Oct 8; The Talk Show ep. 455, Sept 25), Nilay Patel (assumed for "Mikey Patel"; The Vergecast, Oct 9), ATP (episodes 709-712; only Siri-adjacent topic: Apple Watch Rewind/Recap, Oct 1), and Joanna Stern (no post-September Siri take found). Background: 9to5Mac Sept 20 and Oct 2. Call-in Rupert is a fictional character.
