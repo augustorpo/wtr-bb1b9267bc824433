@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 08:09:14 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:03:14 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,22 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Tech Digest: Sold Out Till January — Sam &amp; Nora</title>
+      <description>Tech Digest, week of Oct 10-17, 2026. Sam and Nora on gadget quick hits (iPhone Duo pre-orders sold out to January, Ray-Ban Meta's camera-free audio glasses, Fitbit Edge, Google's Gemini 4 Argon, Tesla's new Roadster), a deep dive on Counterpoint's 20% drop in Q3 phone shipments, rising device prices and what that means for used and refurbished phones, and a roundup of The Vergecast (HomeView's app problem), Joanna Stern's The New Things (her Satya Nadella interview), MKBHD and Waveform (Apple home gear pricing), Mark Gurman (Oct 28 Mac event, Apple Intelligence in China) and John Gruber's Daring Fireball posts. Callers Rosa (refurb grading-floor manager) and Declan (home-theater installer) are made-up characters, not real people. Politics skipped on purpose. Paywalled items came via re-reports. Free voices; self-made music.
+
+Chapters: 1. Cold open; 2. New gadgets: quick hits; 3. Deep dive: new is scarce and pricey, used gets interesting; 4. Deep dive: the call-in; 5. Source roundup: The Vergecast; 6. Source roundup: Joanna Stern; 7. Source roundup: MKBHD and Waveform; 8. Source roundup: Gurman and Gruber; 9. The second call-in; 10. Wrap.</description>
+      <itunes:summary>Tech Digest, week of Oct 10-17, 2026. Sam and Nora on gadget quick hits (iPhone Duo pre-orders sold out to January, Ray-Ban Meta's camera-free audio glasses, Fitbit Edge, Google's Gemini 4 Argon, Tesla's new Roadster), a deep dive on Counterpoint's 20% drop in Q3 phone shipments, rising device prices and what that means for used and refurbished phones, and a roundup of The Vergecast (HomeView's app problem), Joanna Stern's The New Things (her Satya Nadella interview), MKBHD and Waveform (Apple home gear pricing), Mark Gurman (Oct 28 Mac event, Apple Intelligence in China) and John Gruber's Daring Fireball posts. Callers Rosa (refurb grading-floor manager) and Declan (home-theater installer) are made-up characters, not real people. Politics skipped on purpose. Paywalled items came via re-reports. Free voices; self-made music.
+
+Chapters: 1. Cold open; 2. New gadgets: quick hits; 3. Deep dive: new is scarce and pricey, used gets interesting; 4. Deep dive: the call-in; 5. Source roundup: The Vergecast; 6. Source roundup: Joanna Stern; 7. Source roundup: MKBHD and Waveform; 8. Source roundup: Gurman and Gruber; 9. The second call-in; 10. Wrap.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/techdigest-2026-10-17.mp3" length="14880620" type="audio/mpeg"/>
+      <guid isPermaLink="false">techdigest-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 10:03:14 -0400</pubDate>
+      <itunes:duration>00:31:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>All-In This Week: CoreWeave's Bond Scare — Max vs Lena</title>
       <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 10–17, 2026. It covers all three All-In episodes released since last week's recap: the main show, episode 293, "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer" (released Oct 16, 9:51 PM ET; Ben Horowitz fills in for Friedberg), and two All-In Summit interviews: "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum &amp; What Prison Taught Him" (Oct 12, 11:49 AM ET) and "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison &amp; Nathan Fielder's Documentary" with Friedberg (Oct 14, 9:54 PM ET). Max (bull) and Lena (skeptic) go topic by topic.
