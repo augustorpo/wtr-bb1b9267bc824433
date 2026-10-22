@@ -173,5 +173,16 @@
     "pub_iso": "2026-10-17T10:03:14-04:00",
     "guid": "techdigest-2026-10-17",
     "slug": "techdigest-2026-10-17"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Special: Tesla Q3 + Musk Merger — Committees, Cash, Leaps — Max vs Lena",
+    "description": "Special edition (private): Tesla Q3 2026 results plus the SpaceX–Tesla special-committee merger news from the Oct 20 SpaceX call.\n\nMax (bull) vs Lena (skeptic). Guests: Clive (M&A advisor voice), Dana (autos/AI desk voice).\n\nChapters cover market reaction (TSLA/SPCX tape, AH, analysts, prediction markets), the committee process vs C1★, Tesla's quarter vs C2/C3, and what it means for Tesla and SpaceX LEAPs / the two-stock book.\n\nSources: Tesla Q3 Update Exhibit 99.1 (SEC 8-K 2026-10-21), Reuters/TechCrunch/Axios on Musk committee comments, Robinhood quotes/historicals (read-only), Polymarket/Kalshi summaries, JPMorgan and RBC notes via financial press. Suggestion-only on thesis lights; tracker not edited. Mac offline — no WhatsApp / no iCloud copy this run. Tom Nash X handle unavailable (suspended).\n\nVoice note: Rendered with edge-tts (Max=Andrew, Lena=Jenny, Clive=Ryan GB, Dana=Aria) because Gemini TTS returned FAILED_PRECONDITION \"User location is not supported\" from the box's Hong Kong Cloudflare egress. Warmer intro/sting/outro beds mixed in at 55% volume. Re-voice with Gemini Puck/Kore when a supported-region egress or the Mac is available.\n\nChapters: 1. Special edition; 2. How the tape took it; 3. Special committees; 4. Call-in, the premium; 5. Tesla's quarter; 6. Leaps and the two-stock book; 7. Call-in, cash versus story; 8. What to watch.",
+    "file": "tesla-q3-merger-special-2026-10-22.mp3",
+    "length": 13843293,
+    "duration": "00:28:50",
+    "pub_iso": "2026-10-22T01:33:00-04:00",
+    "guid": "tesla-q3-merger-special-2026-10-22",
+    "slug": "tesla-q3-merger-special-2026-10-22"
   }
 ]

@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:03:14 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:33:00 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,38 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Special: Tesla Q3 + Musk Merger — Committees, Cash, Leaps — Max vs Lena</title>
+      <description>Special edition (private): Tesla Q3 2026 results plus the SpaceX–Tesla special-committee merger news from the Oct 20 SpaceX call.
+
+Max (bull) vs Lena (skeptic). Guests: Clive (M&amp;A advisor voice), Dana (autos/AI desk voice).
+
+Chapters cover market reaction (TSLA/SPCX tape, AH, analysts, prediction markets), the committee process vs C1★, Tesla's quarter vs C2/C3, and what it means for Tesla and SpaceX LEAPs / the two-stock book.
+
+Sources: Tesla Q3 Update Exhibit 99.1 (SEC 8-K 2026-10-21), Reuters/TechCrunch/Axios on Musk committee comments, Robinhood quotes/historicals (read-only), Polymarket/Kalshi summaries, JPMorgan and RBC notes via financial press. Suggestion-only on thesis lights; tracker not edited. Mac offline — no WhatsApp / no iCloud copy this run. Tom Nash X handle unavailable (suspended).
+
+Voice note: Rendered with edge-tts (Max=Andrew, Lena=Jenny, Clive=Ryan GB, Dana=Aria) because Gemini TTS returned FAILED_PRECONDITION "User location is not supported" from the box's Hong Kong Cloudflare egress. Warmer intro/sting/outro beds mixed in at 55% volume. Re-voice with Gemini Puck/Kore when a supported-region egress or the Mac is available.
+
+Chapters: 1. Special edition; 2. How the tape took it; 3. Special committees; 4. Call-in, the premium; 5. Tesla's quarter; 6. Leaps and the two-stock book; 7. Call-in, cash versus story; 8. What to watch.</description>
+      <itunes:summary>Special edition (private): Tesla Q3 2026 results plus the SpaceX–Tesla special-committee merger news from the Oct 20 SpaceX call.
+
+Max (bull) vs Lena (skeptic). Guests: Clive (M&amp;A advisor voice), Dana (autos/AI desk voice).
+
+Chapters cover market reaction (TSLA/SPCX tape, AH, analysts, prediction markets), the committee process vs C1★, Tesla's quarter vs C2/C3, and what it means for Tesla and SpaceX LEAPs / the two-stock book.
+
+Sources: Tesla Q3 Update Exhibit 99.1 (SEC 8-K 2026-10-21), Reuters/TechCrunch/Axios on Musk committee comments, Robinhood quotes/historicals (read-only), Polymarket/Kalshi summaries, JPMorgan and RBC notes via financial press. Suggestion-only on thesis lights; tracker not edited. Mac offline — no WhatsApp / no iCloud copy this run. Tom Nash X handle unavailable (suspended).
+
+Voice note: Rendered with edge-tts (Max=Andrew, Lena=Jenny, Clive=Ryan GB, Dana=Aria) because Gemini TTS returned FAILED_PRECONDITION "User location is not supported" from the box's Hong Kong Cloudflare egress. Warmer intro/sting/outro beds mixed in at 55% volume. Re-voice with Gemini Puck/Kore when a supported-region egress or the Mac is available.
+
+Chapters: 1. Special edition; 2. How the tape took it; 3. Special committees; 4. Call-in, the premium; 5. Tesla's quarter; 6. Leaps and the two-stock book; 7. Call-in, cash versus story; 8. What to watch.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/tesla-q3-merger-special-2026-10-22.mp3" length="13843293" type="audio/mpeg"/>
+      <guid isPermaLink="false">tesla-q3-merger-special-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 01:33:00 -0400</pubDate>
+      <itunes:duration>00:28:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Tech Digest: Sold Out Till January — Sam &amp; Nora</title>
       <description>Tech Digest, week of Oct 10-17, 2026. Sam and Nora on gadget quick hits (iPhone Duo pre-orders sold out to January, Ray-Ban Meta's camera-free audio glasses, Fitbit Edge, Google's Gemini 4 Argon, Tesla's new Roadster), a deep dive on Counterpoint's 20% drop in Q3 phone shipments, rising device prices and what that means for used and refurbished phones, and a roundup of The Vergecast (HomeView's app problem), Joanna Stern's The New Things (her Satya Nadella interview), MKBHD and Waveform (Apple home gear pricing), Mark Gurman (Oct 28 Mac event, Apple Intelligence in China) and John Gruber's Daring Fireball posts. Callers Rosa (refurb grading-floor manager) and Declan (home-theater installer) are made-up characters, not real people. Politics skipped on purpose. Paywalled items came via re-reports. Free voices; self-made music.
