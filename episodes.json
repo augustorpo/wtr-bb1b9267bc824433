@@ -184,5 +184,16 @@
     "pub_iso": "2026-10-22T01:33:00-04:00",
     "guid": "tesla-q3-merger-special-2026-10-22",
     "slug": "tesla-q3-merger-special-2026-10-22"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "All-In This Week: Cyber Panic, Griffin's Bubble, France at Five Percent — Max vs Lena",
+    "description": "An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 17–24, 2026. It covers all three All-In releases since last week's recap: the main show, episode 294, \"AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?\" (released Oct 23, 7:08 PM ET), and two interviews: Figma CEO Dylan Field (Oct 19, 4:43 PM ET) and IBM's Arvind Krishna with Palo Alto Networks' Nikesh Arora (Oct 21, 7:42 PM ET). Max (bull) and Lena (skeptic) go topic by topic.\n\nTopics: Ken Griffin's bubble warning and Chamath's \"negative free cash flow\" AI spend argument, the Ramp spend data and the early-AWS analogy; open-weight versus frontier models, explainability and resilient inference; the PHP vulnerability scare (only CVE IDs leaked, per the PHP Foundation) and what defenders should do; agents, banks and who carries liability, including \"abliterated\" models; tech debt, security budgets, Mythos, Arvind's three war lessons and pooled vulnerability sharing; the quantum clock; Dylan Field on whether AI is killing SaaS, vertical integration, Figma's growth, the \"AI psychosis moment\" and the OpenAI math result; data-center bans and labor versus capital; France's riots, the 10-year above 5% and the spread versus Germany; the fixes, a SpaceX share for every kid, and the minimum wage fight.\n\nMade-up call-ins: Walt, a fictional incident responder, and Colette, a fictional bond strategist. Both are invented for this episode and speak for no real person or firm.\n\nSources: public Podscripts transcripts of all three episodes; official episode titles and release times (All-In RSS); public PHP Foundation, Wiz and CISA notices on the PHP vulnerabilities; public market coverage of French bond yields, spreads and Moody's. Speaker attributions are inferred from context; where unclear we say \"one of them\". Numbers are rounded and are the speakers' claims unless flagged. Hosts don't imitate the besties' voices. Not affiliated with All-In; not investment advice.\n\nChapters: 1. This week on All-In; 2. Ken Griffin's bubble warning; 3. Open weights versus frontier models; 4. Cyber panic: the PHP bugs; 5. Call-in: Walt, a fictional incident responder; 6. Agents, banks and who pays; 7. Tech debt, budgets and the narrative problem; 8. The quantum clock; 9. Is AI killing software? Dylan Field and the SaaS question; 10. Data center bans and labor versus capital; 11. France: riots and the bond market; 12. Call-in: Colette, a fictional bond strategist; 13. The fixes, a SpaceX share for every kid, and the minimum wage fight; 14. Wrap and what to watch.",
+    "file": "all-in-weekly-2026-10-24.mp3",
+    "length": 56707186,
+    "duration": "00:59:04",
+    "pub_iso": "2026-10-24T08:12:45-04:00",
+    "guid": "all-in-weekly-2026-10-24",
+    "slug": "all-in-weekly-2026-10-24"
   }
 ]

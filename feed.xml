@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:33:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:12:45 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,34 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>All-In This Week: Cyber Panic, Griffin's Bubble, France at Five Percent — Max vs Lena</title>
+      <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 17–24, 2026. It covers all three All-In releases since last week's recap: the main show, episode 294, "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?" (released Oct 23, 7:08 PM ET), and two interviews: Figma CEO Dylan Field (Oct 19, 4:43 PM ET) and IBM's Arvind Krishna with Palo Alto Networks' Nikesh Arora (Oct 21, 7:42 PM ET). Max (bull) and Lena (skeptic) go topic by topic.
+
+Topics: Ken Griffin's bubble warning and Chamath's "negative free cash flow" AI spend argument, the Ramp spend data and the early-AWS analogy; open-weight versus frontier models, explainability and resilient inference; the PHP vulnerability scare (only CVE IDs leaked, per the PHP Foundation) and what defenders should do; agents, banks and who carries liability, including "abliterated" models; tech debt, security budgets, Mythos, Arvind's three war lessons and pooled vulnerability sharing; the quantum clock; Dylan Field on whether AI is killing SaaS, vertical integration, Figma's growth, the "AI psychosis moment" and the OpenAI math result; data-center bans and labor versus capital; France's riots, the 10-year above 5% and the spread versus Germany; the fixes, a SpaceX share for every kid, and the minimum wage fight.
+
+Made-up call-ins: Walt, a fictional incident responder, and Colette, a fictional bond strategist. Both are invented for this episode and speak for no real person or firm.
+
+Sources: public Podscripts transcripts of all three episodes; official episode titles and release times (All-In RSS); public PHP Foundation, Wiz and CISA notices on the PHP vulnerabilities; public market coverage of French bond yields, spreads and Moody's. Speaker attributions are inferred from context; where unclear we say "one of them". Numbers are rounded and are the speakers' claims unless flagged. Hosts don't imitate the besties' voices. Not affiliated with All-In; not investment advice.
+
+Chapters: 1. This week on All-In; 2. Ken Griffin's bubble warning; 3. Open weights versus frontier models; 4. Cyber panic: the PHP bugs; 5. Call-in: Walt, a fictional incident responder; 6. Agents, banks and who pays; 7. Tech debt, budgets and the narrative problem; 8. The quantum clock; 9. Is AI killing software? Dylan Field and the SaaS question; 10. Data center bans and labor versus capital; 11. France: riots and the bond market; 12. Call-in: Colette, a fictional bond strategist; 13. The fixes, a SpaceX share for every kid, and the minimum wage fight; 14. Wrap and what to watch.</description>
+      <itunes:summary>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 17–24, 2026. It covers all three All-In releases since last week's recap: the main show, episode 294, "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?" (released Oct 23, 7:08 PM ET), and two interviews: Figma CEO Dylan Field (Oct 19, 4:43 PM ET) and IBM's Arvind Krishna with Palo Alto Networks' Nikesh Arora (Oct 21, 7:42 PM ET). Max (bull) and Lena (skeptic) go topic by topic.
+
+Topics: Ken Griffin's bubble warning and Chamath's "negative free cash flow" AI spend argument, the Ramp spend data and the early-AWS analogy; open-weight versus frontier models, explainability and resilient inference; the PHP vulnerability scare (only CVE IDs leaked, per the PHP Foundation) and what defenders should do; agents, banks and who carries liability, including "abliterated" models; tech debt, security budgets, Mythos, Arvind's three war lessons and pooled vulnerability sharing; the quantum clock; Dylan Field on whether AI is killing SaaS, vertical integration, Figma's growth, the "AI psychosis moment" and the OpenAI math result; data-center bans and labor versus capital; France's riots, the 10-year above 5% and the spread versus Germany; the fixes, a SpaceX share for every kid, and the minimum wage fight.
+
+Made-up call-ins: Walt, a fictional incident responder, and Colette, a fictional bond strategist. Both are invented for this episode and speak for no real person or firm.
+
+Sources: public Podscripts transcripts of all three episodes; official episode titles and release times (All-In RSS); public PHP Foundation, Wiz and CISA notices on the PHP vulnerabilities; public market coverage of French bond yields, spreads and Moody's. Speaker attributions are inferred from context; where unclear we say "one of them". Numbers are rounded and are the speakers' claims unless flagged. Hosts don't imitate the besties' voices. Not affiliated with All-In; not investment advice.
+
+Chapters: 1. This week on All-In; 2. Ken Griffin's bubble warning; 3. Open weights versus frontier models; 4. Cyber panic: the PHP bugs; 5. Call-in: Walt, a fictional incident responder; 6. Agents, banks and who pays; 7. Tech debt, budgets and the narrative problem; 8. The quantum clock; 9. Is AI killing software? Dylan Field and the SaaS question; 10. Data center bans and labor versus capital; 11. France: riots and the bond market; 12. Call-in: Colette, a fictional bond strategist; 13. The fixes, a SpaceX share for every kid, and the minimum wage fight; 14. Wrap and what to watch.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/all-in-weekly-2026-10-24.mp3" length="56707186" type="audio/mpeg"/>
+      <guid isPermaLink="false">all-in-weekly-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 08:12:45 -0400</pubDate>
+      <itunes:duration>00:59:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Special: Tesla Q3 + Musk Merger — Committees, Cash, Leaps — Max vs Lena</title>
       <description>Special edition (private): Tesla Q3 2026 results plus the SpaceX–Tesla special-committee merger news from the Oct 20 SpaceX call.
