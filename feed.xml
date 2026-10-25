@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 08:12:45 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 08:00:03 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,38 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Tech Digest: The iPhone Duo's Split Verdict, Launch-Day Cracks &amp; a Touch Mac Wednesday — Sam &amp; Nora</title>
+      <description>Sam and Nora on Apple's iPhone Duo launch week. Reviewers are split: Gruber calls the outer phone "a miserable fat little thing" and the inner screen "a splendid, joyful, beautiful tablet." The Verge gave it a 7 and then argued about that score on the Vergecast. Marques Brownlee calls it "first generation fun," and Joanna Stern's robot Hingey folded it 32,640 times. Plus inner-screen cracks along the hinge on launch day, the pre-order mess Gurman calls a mistake, and stock that won't come until January.
+
+Quick hits: Apple's "Pro and Tell" event on Oct 28 (touchscreen MacBook Pro expected), Gurman's Nov 6 retail reset, a HomeView with a robotic arm, Claude Duet, the Downloads-folder AI agent attack, the PHP flaw, Tesla's Model 3 update and the Roadster, and Birdbuddy. Mashable joins the source list this week.
+
+Sequoia angle: Duo trade-ins will come in slowly through the winter, refurb Pros are an easy pitch against a $2,000 phone, and grading used Duos will need a close look at the hinge and inner screen.
+
+Call-in guests Fintan and Marisol share views based only on reported facts.
+
+Sources: The Vergecast, Joanna Stern (The New Things), MKBHD/Waveform, Mark Gurman (Bloomberg Power On, paywalled; re-reports), Daring Fireball, Mashable.
+
+Chapters: 1. Cold open; 2. Quick hits; 3. Deep dive: the iPhone Duo, reviewed; 4. Call-in: Fintan, iOS developer; 5. Launch day: cracks and shortages; 6. Call-in: Marisol, repair bench; 7. The shortage and the Sequoia angle; 8. Source roundup: The Vergecast; 9. Source roundup: Joanna Stern; 10. Source roundup: MKBHD and Waveform; 11. Source roundup: Gurman and Gruber; 12. Source roundup: Mashable; 13. Wrap.</description>
+      <itunes:summary>Sam and Nora on Apple's iPhone Duo launch week. Reviewers are split: Gruber calls the outer phone "a miserable fat little thing" and the inner screen "a splendid, joyful, beautiful tablet." The Verge gave it a 7 and then argued about that score on the Vergecast. Marques Brownlee calls it "first generation fun," and Joanna Stern's robot Hingey folded it 32,640 times. Plus inner-screen cracks along the hinge on launch day, the pre-order mess Gurman calls a mistake, and stock that won't come until January.
+
+Quick hits: Apple's "Pro and Tell" event on Oct 28 (touchscreen MacBook Pro expected), Gurman's Nov 6 retail reset, a HomeView with a robotic arm, Claude Duet, the Downloads-folder AI agent attack, the PHP flaw, Tesla's Model 3 update and the Roadster, and Birdbuddy. Mashable joins the source list this week.
+
+Sequoia angle: Duo trade-ins will come in slowly through the winter, refurb Pros are an easy pitch against a $2,000 phone, and grading used Duos will need a close look at the hinge and inner screen.
+
+Call-in guests Fintan and Marisol share views based only on reported facts.
+
+Sources: The Vergecast, Joanna Stern (The New Things), MKBHD/Waveform, Mark Gurman (Bloomberg Power On, paywalled; re-reports), Daring Fireball, Mashable.
+
+Chapters: 1. Cold open; 2. Quick hits; 3. Deep dive: the iPhone Duo, reviewed; 4. Call-in: Fintan, iOS developer; 5. Launch day: cracks and shortages; 6. Call-in: Marisol, repair bench; 7. The shortage and the Sequoia angle; 8. Source roundup: The Vergecast; 9. Source roundup: Joanna Stern; 10. Source roundup: MKBHD and Waveform; 11. Source roundup: Gurman and Gruber; 12. Source roundup: Mashable; 13. Wrap.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/techdigest-2026-10-25.mp3" length="27065516" type="audio/mpeg"/>
+      <guid isPermaLink="false">techdigest-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:02 -0400</pubDate>
+      <itunes:duration>00:28:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>All-In This Week: Cyber Panic, Griffin's Bubble, France at Five Percent — Max vs Lena</title>
       <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 17–24, 2026. It covers all three All-In releases since last week's recap: the main show, episode 294, "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?" (released Oct 23, 7:08 PM ET), and two interviews: Figma CEO Dylan Field (Oct 19, 4:43 PM ET) and IBM's Arvind Krishna with Palo Alto Networks' Nikesh Arora (Oct 21, 7:42 PM ET). Max (bull) and Lena (skeptic) go topic by topic.

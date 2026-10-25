@@ -195,5 +195,16 @@
     "pub_iso": "2026-10-24T08:12:45-04:00",
     "guid": "all-in-weekly-2026-10-24",
     "slug": "all-in-weekly-2026-10-24"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Tech Digest: The iPhone Duo's Split Verdict, Launch-Day Cracks & a Touch Mac Wednesday — Sam & Nora",
+    "description": "Sam and Nora on Apple's iPhone Duo launch week. Reviewers are split: Gruber calls the outer phone \"a miserable fat little thing\" and the inner screen \"a splendid, joyful, beautiful tablet.\" The Verge gave it a 7 and then argued about that score on the Vergecast. Marques Brownlee calls it \"first generation fun,\" and Joanna Stern's robot Hingey folded it 32,640 times. Plus inner-screen cracks along the hinge on launch day, the pre-order mess Gurman calls a mistake, and stock that won't come until January.\n\nQuick hits: Apple's \"Pro and Tell\" event on Oct 28 (touchscreen MacBook Pro expected), Gurman's Nov 6 retail reset, a HomeView with a robotic arm, Claude Duet, the Downloads-folder AI agent attack, the PHP flaw, Tesla's Model 3 update and the Roadster, and Birdbuddy. Mashable joins the source list this week.\n\nSequoia angle: Duo trade-ins will come in slowly through the winter, refurb Pros are an easy pitch against a $2,000 phone, and grading used Duos will need a close look at the hinge and inner screen.\n\nCall-in guests Fintan and Marisol share views based only on reported facts.\n\nSources: The Vergecast, Joanna Stern (The New Things), MKBHD/Waveform, Mark Gurman (Bloomberg Power On, paywalled; re-reports), Daring Fireball, Mashable.\n\nChapters: 1. Cold open; 2. Quick hits; 3. Deep dive: the iPhone Duo, reviewed; 4. Call-in: Fintan, iOS developer; 5. Launch day: cracks and shortages; 6. Call-in: Marisol, repair bench; 7. The shortage and the Sequoia angle; 8. Source roundup: The Vergecast; 9. Source roundup: Joanna Stern; 10. Source roundup: MKBHD and Waveform; 11. Source roundup: Gurman and Gruber; 12. Source roundup: Mashable; 13. Wrap.",
+    "file": "techdigest-2026-10-25.mp3",
+    "length": 27065516,
+    "duration": "00:28:12",
+    "pub_iso": "2026-10-25T08:00:02-04:00",
+    "guid": "techdigest-2026-10-25",
+    "slug": "techdigest-2026-10-25"
   }
 ]
