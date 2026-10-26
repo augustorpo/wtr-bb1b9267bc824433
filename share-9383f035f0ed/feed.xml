@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Tech Digest — Shared Episode</title>
+<link>https://augustorpo.github.io/wtr-bb1b9267bc824433/share-9383f035f0ed/</link>
+<atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/share-9383f035f0ed/feed.xml" rel="self" type="application/rss+xml"/>
+<language>en-us</language>
+<description>A single shared episode of Tech Digest: hosts Sam and Nora break down the week in consumer tech.</description>
+<itunes:summary>A single shared episode of Tech Digest: hosts Sam and Nora break down the week in consumer tech.</itunes:summary>
+<itunes:author>Tech Digest</itunes:author>
+<itunes:owner><itunes:name>Tech Digest</itunes:name></itunes:owner>
+<itunes:image href="https://augustorpo.github.io/wtr-bb1b9267bc824433/cover-v4.jpg"/>
+<image><url>https://augustorpo.github.io/wtr-bb1b9267bc824433/cover-v4.jpg</url><title>Tech Digest — Shared Episode</title><link>https://augustorpo.github.io/wtr-bb1b9267bc824433/share-9383f035f0ed/</link></image>
+<itunes:category text="Technology"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:block>Yes</itunes:block>
+<item>
+<title>Tech Digest: The iPhone Duo's Split Verdict, Launch-Day Cracks &amp; a Touch Mac Wednesday — Sam &amp; Nora</title>
+<description>Sam and Nora on Apple's iPhone Duo launch week. Reviewers are split: Gruber calls the outer phone "a miserable fat little thing" and the inner screen "a splendid, joyful, beautiful tablet." The Verge gave it a 7 and then argued about that score on the Vergecast. Marques Brownlee calls it "first generation fun," and Joanna Stern's robot Hingey folded it 32,640 times. Plus inner-screen cracks along the hinge on launch day, the pre-order mess Gurman calls a mistake, and stock that won't come until January.
+
+Quick hits: Apple's "Pro and Tell" event on Oct 28 (touchscreen MacBook Pro expected), Gurman's Nov 6 retail reset, a HomeView with a robotic arm, Claude Duet, the Downloads-folder AI agent attack, the PHP flaw, Tesla's Model 3 update and the Roadster, and Birdbuddy. Mashable joins the source list this week.
+
+Call-in guests Fintan and Marisol share views based only on reported facts.
+
+Sources: The Vergecast, Joanna Stern (The New Things), MKBHD/Waveform, Mark Gurman (Bloomberg Power On, paywalled; re-reports), Daring Fireball, Mashable.
+
+Chapters: 1. Cold open; 2. Quick hits; 3. Deep dive: the iPhone Duo, reviewed; 4. Call-in: Fintan, iOS developer; 5. Launch day: cracks and shortages; 6. Call-in: Marisol, repair bench; 7. The shortage and the Sequoia angle; 8. Source roundup: The Vergecast; 9. Source roundup: Joanna Stern; 10. Source roundup: MKBHD and Waveform; 11. Source roundup: Gurman and Gruber; 12. Source roundup: Mashable; 13. Wrap.</description>
+<itunes:summary>Sam and Nora on Apple's iPhone Duo launch week. Reviewers are split: Gruber calls the outer phone "a miserable fat little thing" and the inner screen "a splendid, joyful, beautiful tablet." The Verge gave it a 7 and then argued about that score on the Vergecast. Marques Brownlee calls it "first generation fun," and Joanna Stern's robot Hingey folded it 32,640 times. Plus inner-screen cracks along the hinge on launch day, the pre-order mess Gurman calls a mistake, and stock that won't come until January.
+
+Quick hits: Apple's "Pro and Tell" event on Oct 28 (touchscreen MacBook Pro expected), Gurman's Nov 6 retail reset, a HomeView with a robotic arm, Claude Duet, the Downloads-folder AI agent attack, the PHP flaw, Tesla's Model 3 update and the Roadster, and Birdbuddy. Mashable joins the source list this week.
+
+Call-in guests Fintan and Marisol share views based only on reported facts.
+
+Sources: The Vergecast, Joanna Stern (The New Things), MKBHD/Waveform, Mark Gurman (Bloomberg Power On, paywalled; re-reports), Daring Fireball, Mashable.
+
+Chapters: 1. Cold open; 2. Quick hits; 3. Deep dive: the iPhone Duo, reviewed; 4. Call-in: Fintan, iOS developer; 5. Launch day: cracks and shortages; 6. Call-in: Marisol, repair bench; 7. The shortage and the Sequoia angle; 8. Source roundup: The Vergecast; 9. Source roundup: Joanna Stern; 10. Source roundup: MKBHD and Waveform; 11. Source roundup: Gurman and Gruber; 12. Source roundup: Mashable; 13. Wrap.</itunes:summary>
+<enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/techdigest-2026-10-25.mp3" length="27065516" type="audio/mpeg"/>
+<guid isPermaLink="false">share-techdigest-2026-10-25</guid>
+<pubDate>Sun, 25 Oct 2026 08:00:02 -0400</pubDate>
+<itunes:duration>00:28:12</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
