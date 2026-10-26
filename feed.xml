@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 20:57:47 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:06:53 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,24 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Special: Anthropic Files Its S-1 — $16B Revenue, an $81B Paper Loss &amp; a One-Share Founder Vote — Max &amp; Lena</title>
+      <description>Special edition: Anthropic publicly filed its S-1 on Oct 26, 2026 (Nasdaq: ANT; Goldman Sachs and Morgan Stanley lead). Max (bull) and Lena (skeptic) go through the filing: $16.3B H1 revenue (+1,304%), the $80.7B GAAP loss (mostly convertible-note revaluation), Q2 operating profit, $265.6B in purchase commitments and $321.4B in leases, the SpaceX, Microsoft, Amazon and Google deals, the LTBT, Founder LLC (50.1% vote) governance, market reaction, OpenAI, and read-across to the AI Infrastructure, AI Verticals and Musk theses. There is no price range or share count yet. Valuation ($1.5–2T) and timing (~Nov 19–20) come from press reports, not the filing. Graham and Wanjiru are fictional call-in characters.
+Sources: SEC EDGAR S-1, Anthropic, CNBC live, Reuters/Investing.com, CoinDesk, Yahoo Finance, Stock Titan.
+
+Chapters: 1. Special edition: Anthropic files; 2. The numbers; 3. Compute, partners and the bill; 4. Who owns it, who controls it; 5. Call-in: the capital markets desk; 6. Market view and feedback; 7. Versus OpenAI; 8. Read-across to the theses; 9. Call-in: the data center desk; 10. Verdict.</description>
+      <itunes:summary>Special edition: Anthropic publicly filed its S-1 on Oct 26, 2026 (Nasdaq: ANT; Goldman Sachs and Morgan Stanley lead). Max (bull) and Lena (skeptic) go through the filing: $16.3B H1 revenue (+1,304%), the $80.7B GAAP loss (mostly convertible-note revaluation), Q2 operating profit, $265.6B in purchase commitments and $321.4B in leases, the SpaceX, Microsoft, Amazon and Google deals, the LTBT, Founder LLC (50.1% vote) governance, market reaction, OpenAI, and read-across to the AI Infrastructure, AI Verticals and Musk theses. There is no price range or share count yet. Valuation ($1.5–2T) and timing (~Nov 19–20) come from press reports, not the filing. Graham and Wanjiru are fictional call-in characters.
+Sources: SEC EDGAR S-1, Anthropic, CNBC live, Reuters/Investing.com, CoinDesk, Yahoo Finance, Stock Titan.
+
+Chapters: 1. Special edition: Anthropic files; 2. The numbers; 3. Compute, partners and the bill; 4. Who owns it, who controls it; 5. Call-in: the capital markets desk; 6. Market view and feedback; 7. Versus OpenAI; 8. Read-across to the theses; 9. Call-in: the data center desk; 10. Verdict.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/anthropic-s1-special-2026-10-26.mp3" length="11530004" type="audio/mpeg"/>
+      <guid isPermaLink="false">anthropic-s1-special-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 12:06:53 -0400</pubDate>
+      <itunes:duration>00:19:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>bonus</itunes:episodeType>
+    </item>
     <item>
       <title>Tech Digest: The iPhone Duo's Split Verdict, Launch-Day Cracks &amp; a Touch Mac Wednesday — Sam &amp; Nora</title>
       <description>Sam and Nora on Apple's iPhone Duo launch week. Reviewers are split: Gruber calls the outer phone "a miserable fat little thing" and the inner screen "a splendid, joyful, beautiful tablet." The Verge gave it a 7 and then argued about that score on the Vergecast. Marques Brownlee calls it "first generation fun," and Joanna Stern's robot Hingey folded it 32,640 times. Plus inner-screen cracks along the hinge on launch day, the pre-order mess Gurman calls a mistake, and stock that won't come until January.

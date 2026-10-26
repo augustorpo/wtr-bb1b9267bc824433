@@ -206,5 +206,17 @@
     "pub_iso": "2026-10-25T08:00:02-04:00",
     "guid": "techdigest-2026-10-25",
     "slug": "techdigest-2026-10-25"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Special: Anthropic Files Its S-1 — $16B Revenue, an $81B Paper Loss & a One-Share Founder Vote — Max & Lena",
+    "description": "Special edition: Anthropic publicly filed its S-1 on Oct 26, 2026 (Nasdaq: ANT; Goldman Sachs and Morgan Stanley lead). Max (bull) and Lena (skeptic) go through the filing: $16.3B H1 revenue (+1,304%), the $80.7B GAAP loss (mostly convertible-note revaluation), Q2 operating profit, $265.6B in purchase commitments and $321.4B in leases, the SpaceX, Microsoft, Amazon and Google deals, the LTBT, Founder LLC (50.1% vote) governance, market reaction, OpenAI, and read-across to the AI Infrastructure, AI Verticals and Musk theses. There is no price range or share count yet. Valuation ($1.5–2T) and timing (~Nov 19–20) come from press reports, not the filing. Graham and Wanjiru are fictional call-in characters.\nSources: SEC EDGAR S-1, Anthropic, CNBC live, Reuters/Investing.com, CoinDesk, Yahoo Finance, Stock Titan.\n\nChapters: 1. Special edition: Anthropic files; 2. The numbers; 3. Compute, partners and the bill; 4. Who owns it, who controls it; 5. Call-in: the capital markets desk; 6. Market view and feedback; 7. Versus OpenAI; 8. Read-across to the theses; 9. Call-in: the data center desk; 10. Verdict.",
+    "file": "anthropic-s1-special-2026-10-26.mp3",
+    "length": 11530004,
+    "duration": "00:19:13",
+    "pub_iso": "2026-10-26T12:06:53-04:00",
+    "guid": "anthropic-s1-special-2026-10-26",
+    "slug": "anthropic-s1-special-2026-10-26",
+    "episode_type": "bonus"
   }
 ]
