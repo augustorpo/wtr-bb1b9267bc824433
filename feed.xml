@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 18:16:38 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:03:25 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,46 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Robinhood Q3 2026: Record Revenue, Red Screen</title>
+      <description>Robinhood (HOOD) reported Q3 2026 results on October 27: record revenue of $1.424B, but GAAP EPS and net deposits came in below estimates, and the stock fell about 7% after hours. Max (bull) and Lena (skeptic) go through the numbers, the product drivers, cost guidance, and the investor call Q&amp;A: who asked what, what management committed to, and what it dodged.
+
+In this episode:
+- Headline numbers vs consensus: revenue $1.424B (+12% YoY; in line to slightly light depending on source), GAAP EPS $0.51 (vs $0.56 LSEG est.) including a $67M markdown on Robinhood Ventures Fund I, new adjusted EPS $0.60, record adjusted EBITDA $808M (beat), net deposits $15.7B (vs ~$17.4B est.)
+- Drivers: event contracts $173M (6x+ YoY), options $399M (+31%), equities $121M (+41%), crypto $120M (-55%), net interest $415M (-9%), Gold subscribers 5.2M (+34%)
+- New products: Rothera (with Susquehanna) crosses $100M annualized, Robinhood Chain, agentic trading, a live peer-to-peer payments demo, international expansion
+- Guidance: 2026 adjusted opex + SBC trimmed to $2.675-2.75B; October net deposits over $13B month to date, including $6B from the Dell family's Trump Accounts gift
+- Call Q&amp;A: Barclays, Wolfe, Evercore, BTIG, Piper Sandler, Goldman Sachs, Truist, Citizens, JPMorgan and others on deposits, MAUs ("we don't goal on it"), prediction-market venue ownership, take rates, chain monetization, and a $300 ARPU target (declined)
+- A call-in on options spreads and market structure, analyst and X reactions, and the after-hours move
+
+Sources: Robinhood Q3 2026 press release and results (Oct 27, 2026); the official earnings webcast; CNBC (LSEG and StreetAccount estimates); Investing.com; TipRanks; Decrypt; Seeking Alpha; posts on X by @garyblack00, @JohnTinsmanAOT and others; after-hours quote from Robinhood market data as of 6:43 PM ET. Consensus figures differ by source, and each is attributed on air. Management quotes come from an automated transcription of the official webcast audio, since no published transcript was available at production time; analyst names were checked against their firms where possible. Social posts are paraphrased.
+
+Caller Priya is a fictional character, and her comments are illustrative. This is not investment advice.
+
+Chapters: 1. Record quarter, red screen; 2. The headline numbers; 3. What drove the quarter; 4. New products; 5. Guidance and costs; 6. The call Q and A; 7. Call-in; 8. Reactions and verdict.</description>
+      <itunes:summary>Robinhood (HOOD) reported Q3 2026 results on October 27: record revenue of $1.424B, but GAAP EPS and net deposits came in below estimates, and the stock fell about 7% after hours. Max (bull) and Lena (skeptic) go through the numbers, the product drivers, cost guidance, and the investor call Q&amp;A: who asked what, what management committed to, and what it dodged.
+
+In this episode:
+- Headline numbers vs consensus: revenue $1.424B (+12% YoY; in line to slightly light depending on source), GAAP EPS $0.51 (vs $0.56 LSEG est.) including a $67M markdown on Robinhood Ventures Fund I, new adjusted EPS $0.60, record adjusted EBITDA $808M (beat), net deposits $15.7B (vs ~$17.4B est.)
+- Drivers: event contracts $173M (6x+ YoY), options $399M (+31%), equities $121M (+41%), crypto $120M (-55%), net interest $415M (-9%), Gold subscribers 5.2M (+34%)
+- New products: Rothera (with Susquehanna) crosses $100M annualized, Robinhood Chain, agentic trading, a live peer-to-peer payments demo, international expansion
+- Guidance: 2026 adjusted opex + SBC trimmed to $2.675-2.75B; October net deposits over $13B month to date, including $6B from the Dell family's Trump Accounts gift
+- Call Q&amp;A: Barclays, Wolfe, Evercore, BTIG, Piper Sandler, Goldman Sachs, Truist, Citizens, JPMorgan and others on deposits, MAUs ("we don't goal on it"), prediction-market venue ownership, take rates, chain monetization, and a $300 ARPU target (declined)
+- A call-in on options spreads and market structure, analyst and X reactions, and the after-hours move
+
+Sources: Robinhood Q3 2026 press release and results (Oct 27, 2026); the official earnings webcast; CNBC (LSEG and StreetAccount estimates); Investing.com; TipRanks; Decrypt; Seeking Alpha; posts on X by @garyblack00, @JohnTinsmanAOT and others; after-hours quote from Robinhood market data as of 6:43 PM ET. Consensus figures differ by source, and each is attributed on air. Management quotes come from an automated transcription of the official webcast audio, since no published transcript was available at production time; analyst names were checked against their firms where possible. Social posts are paraphrased.
+
+Caller Priya is a fictional character, and her comments are illustrative. This is not investment advice.
+
+Chapters: 1. Record quarter, red screen; 2. The headline numbers; 3. What drove the quarter; 4. New products; 5. Guidance and costs; 6. The call Q and A; 7. Call-in; 8. Reactions and verdict.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/hood-q3-2026-earnings-2026-10-27.mp3" length="13241047" type="audio/mpeg"/>
+      <guid isPermaLink="false">hood-q3-2026-earnings-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 19:03:25 -0400</pubDate>
+      <itunes:duration>00:18:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Thesis Check: Crypto — Price Weak, Plumbing Fine</title>
       <description>Thesis Check: Crypto. This is the first full crypto review, covering Bitcoin, Solana, XRP and the SOLT call. It is checked against the stop-light framework locked on Oct 1, 2026. News window: Sep 29 to Oct 27, 2026. Max (bull) vs Lena (skeptic).
