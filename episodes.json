@@ -218,5 +218,16 @@
     "guid": "anthropic-s1-special-2026-10-26",
     "slug": "anthropic-s1-special-2026-10-26",
     "episode_type": "bonus"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Nautilus Q3: Foundation Year, Raise Pending",
+    "description": "Nautilus Biotechnology (NAUT) reported Q3 2026 results on October 27. Max (bull) and Lena (skeptic) go through the numbers, the Voyager launch timeline, and the analyst Q&A: who asked what, what management committed to, and what it dodged.\n\nIn this episode:\n- Q3: revenue $234K (grant $208K + service $26K), net loss $15.6M ($0.12/share), cash and investments $114.3M, runway guided into Q1 2028\n- Roadmap: first beta instrument this year, AKT1 Early Access late 2026, pre-orders early 2027, instrument shipments mid-2027\n- Oncology assays (AKT1, EGFR, P53) matching tau-level reproducibility after about a year of development\n- Q&A with Guggenheim, TD Cowen, Roth Capital and a fourth analyst: customer counts not disclosed, instrument price not final, \"27 is a year where we set the foundation and 28 is a year where we really go and scale the business\"\n- Not asked by any analyst: the planned capital raise before mid-2027, and Early Access pricing and margins\n- Call-ins on instrument buying and on financing\n\nSources: Nautilus press release (Oct 27, 2026), Benzinga call transcript, Form 8-K (Sep 11, 2026), Investing.com, market quotes as of about 10 AM ET. Management quotes are verbatim from the transcript. Social posts are paraphrased.\n\nCallers Ruth and Kit are fictional characters, and their comments are illustrative. This is not investment advice.\n\nChapters: 1. Beat, dip, rip; 2. The numbers; 3. The roadmap; 4. The Q&A; 5. Call-ins: the lab and the money; 6. The tape and the chatter; 7. Verdict.",
+    "file": "naut-q3-2026-earnings-2026-10-27.mp3",
+    "length": 12148891,
+    "duration": "00:16:52",
+    "pub_iso": "2026-10-27T10:14:41-04:00",
+    "guid": "naut-q3-2026-earnings-2026-10-27",
+    "slug": "naut-q3-2026-earnings-2026-10-27"
   }
 ]

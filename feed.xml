@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:06:53 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:14:41 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,46 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Nautilus Q3: Foundation Year, Raise Pending</title>
+      <description>Nautilus Biotechnology (NAUT) reported Q3 2026 results on October 27. Max (bull) and Lena (skeptic) go through the numbers, the Voyager launch timeline, and the analyst Q&amp;A: who asked what, what management committed to, and what it dodged.
+
+In this episode:
+- Q3: revenue $234K (grant $208K + service $26K), net loss $15.6M ($0.12/share), cash and investments $114.3M, runway guided into Q1 2028
+- Roadmap: first beta instrument this year, AKT1 Early Access late 2026, pre-orders early 2027, instrument shipments mid-2027
+- Oncology assays (AKT1, EGFR, P53) matching tau-level reproducibility after about a year of development
+- Q&amp;A with Guggenheim, TD Cowen, Roth Capital and a fourth analyst: customer counts not disclosed, instrument price not final, "27 is a year where we set the foundation and 28 is a year where we really go and scale the business"
+- Not asked by any analyst: the planned capital raise before mid-2027, and Early Access pricing and margins
+- Call-ins on instrument buying and on financing
+
+Sources: Nautilus press release (Oct 27, 2026), Benzinga call transcript, Form 8-K (Sep 11, 2026), Investing.com, market quotes as of about 10 AM ET. Management quotes are verbatim from the transcript. Social posts are paraphrased.
+
+Callers Ruth and Kit are fictional characters, and their comments are illustrative. This is not investment advice.
+
+Chapters: 1. Beat, dip, rip; 2. The numbers; 3. The roadmap; 4. The Q&amp;A; 5. Call-ins: the lab and the money; 6. The tape and the chatter; 7. Verdict.</description>
+      <itunes:summary>Nautilus Biotechnology (NAUT) reported Q3 2026 results on October 27. Max (bull) and Lena (skeptic) go through the numbers, the Voyager launch timeline, and the analyst Q&amp;A: who asked what, what management committed to, and what it dodged.
+
+In this episode:
+- Q3: revenue $234K (grant $208K + service $26K), net loss $15.6M ($0.12/share), cash and investments $114.3M, runway guided into Q1 2028
+- Roadmap: first beta instrument this year, AKT1 Early Access late 2026, pre-orders early 2027, instrument shipments mid-2027
+- Oncology assays (AKT1, EGFR, P53) matching tau-level reproducibility after about a year of development
+- Q&amp;A with Guggenheim, TD Cowen, Roth Capital and a fourth analyst: customer counts not disclosed, instrument price not final, "27 is a year where we set the foundation and 28 is a year where we really go and scale the business"
+- Not asked by any analyst: the planned capital raise before mid-2027, and Early Access pricing and margins
+- Call-ins on instrument buying and on financing
+
+Sources: Nautilus press release (Oct 27, 2026), Benzinga call transcript, Form 8-K (Sep 11, 2026), Investing.com, market quotes as of about 10 AM ET. Management quotes are verbatim from the transcript. Social posts are paraphrased.
+
+Callers Ruth and Kit are fictional characters, and their comments are illustrative. This is not investment advice.
+
+Chapters: 1. Beat, dip, rip; 2. The numbers; 3. The roadmap; 4. The Q&amp;A; 5. Call-ins: the lab and the money; 6. The tape and the chatter; 7. Verdict.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/naut-q3-2026-earnings-2026-10-27.mp3" length="12148891" type="audio/mpeg"/>
+      <guid isPermaLink="false">naut-q3-2026-earnings-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 10:14:41 -0400</pubDate>
+      <itunes:duration>00:16:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Special: Anthropic Files Its S-1 — $16B Revenue, an $81B Paper Loss &amp; a One-Share Founder Vote — Max &amp; Lena</title>
       <description>Special edition: Anthropic publicly filed its S-1 on Oct 26, 2026 (Nasdaq: ANT; Goldman Sachs and Morgan Stanley lead). Max (bull) and Lena (skeptic) go through the filing: $16.3B H1 revenue (+1,304%), the $80.7B GAAP loss (mostly convertible-note revaluation), Q2 operating profit, $265.6B in purchase commitments and $321.4B in leases, the SpaceX, Microsoft, Amazon and Google deals, the LTBT, Founder LLC (50.1% vote) governance, market reaction, OpenAI, and read-across to the AI Infrastructure, AI Verticals and Musk theses. There is no price range or share count yet. Valuation ($1.5–2T) and timing (~Nov 19–20) come from press reports, not the filing. Graham and Wanjiru are fictional call-in characters.
