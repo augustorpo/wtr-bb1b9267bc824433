@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:14:41 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:16:38 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,70 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thesis Check: Crypto — Price Weak, Plumbing Fine</title>
+      <description>Thesis Check: Crypto. This is the first full crypto review, covering Bitcoin, Solana, XRP and the SOLT call. It is checked against the stop-light framework locked on Oct 1, 2026. News window: Sep 29 to Oct 27, 2026. Max (bull) vs Lena (skeptic).
+
+Chapters:
+- Four names, no earnings, plenty of noise
+- Bitcoin: green, but the holders are fidgeting
+- Call-in: How loud is the quantum clock? (Graham)
+- Solana: the upgrade finally shipped
+- Call-in: Who's eating Solana's lunch? (Fiona)
+- XRP: green, waiting on the lending switch
+- The SOLT call: the clock starts ticking
+- Verdict, biggest risk, dates to watch
+
+Suggested light changes (suggestions only; the tracker is unchanged):
+- BTC: GREEN, no change. C1★ is on watch because the LTH share is ~81.6% vs the 84.2% peak (yellow at −3pp).
+- SOL: YELLOW → GREEN. C2 Alpenglow went live on Oct 21. C3 stays yellow (Hyperliquid ~44%).
+- XRP: GREEN, no change. C1★ has a stablecoin warning (−11% QTD). C2 lending is not live (~52% of validators).
+- SOLT call: GREEN → YELLOW. The C2 tripwire touched (the mark is ~50% of cost).
+
+Health verdict: the thesis is intact. Price is weak and the plumbing is fine, but the Q4 stablecoin anchors and BTC long-term holders are drifting the wrong way.
+
+Dates: Oct 28 FOMC · Oct 30 October ETF month-end · early Nov XRPL fixCleanup3_4_0 · Nov 5–12 metric re-check · Dec 3 formal review · Dec 31 Q4 end · Jan 18, 2027 GENIUS takes effect · Jan 21, 2027 SOLT time-stop · Jun 30, 2027 XRP lending deadline · Nov 19, 2027 SOLT backstop.
+
+Sources: Farside / SoSoValue / TFTC (ETF flows), CheckOnChain and Axel Adler (LTH supply), Strategy 8-K filings, DefiLlama (stablecoins), Solana mainnet data and Firedancer GitHub (Alpenglow), Hyperliquid announcements, XRPScan (amendments), CoinGecko (prices), Quantinuum/Google research posts, bitcoin/bips (BIP-360), the Fed calendar and Bitget (FOMC odds), CoinDesk (market news), and Raoul Pal via Cointelegraph (Oct 3). The Tom Nash view is his general long-term stance, not an October statement.
+
+Caveats: Graham and Fiona are fictional call-in guests. The 10am.pro WhatsApp group was skipped this week because the Mac is offline. Sources disagree on October BTC ETF flows (about −$200M to −$315M) and XRP weekly flows; ranges are used. This is not investment advice.
+
+Chapters: 1. Four names, no earnings, plenty of noise; 2. Bitcoin: green, but the holders are fidgeting; 3. Call-in: How loud is the quantum clock?; 4. Solana: the upgrade finally shipped; 5. Call-in: Who's eating Solana's lunch?; 6. XRP: green, waiting on the lending switch; 7. The SOLT call: the clock starts ticking; 8. Verdict, biggest risk, dates to watch.</description>
+      <itunes:summary>Thesis Check: Crypto. This is the first full crypto review, covering Bitcoin, Solana, XRP and the SOLT call. It is checked against the stop-light framework locked on Oct 1, 2026. News window: Sep 29 to Oct 27, 2026. Max (bull) vs Lena (skeptic).
+
+Chapters:
+- Four names, no earnings, plenty of noise
+- Bitcoin: green, but the holders are fidgeting
+- Call-in: How loud is the quantum clock? (Graham)
+- Solana: the upgrade finally shipped
+- Call-in: Who's eating Solana's lunch? (Fiona)
+- XRP: green, waiting on the lending switch
+- The SOLT call: the clock starts ticking
+- Verdict, biggest risk, dates to watch
+
+Suggested light changes (suggestions only; the tracker is unchanged):
+- BTC: GREEN, no change. C1★ is on watch because the LTH share is ~81.6% vs the 84.2% peak (yellow at −3pp).
+- SOL: YELLOW → GREEN. C2 Alpenglow went live on Oct 21. C3 stays yellow (Hyperliquid ~44%).
+- XRP: GREEN, no change. C1★ has a stablecoin warning (−11% QTD). C2 lending is not live (~52% of validators).
+- SOLT call: GREEN → YELLOW. The C2 tripwire touched (the mark is ~50% of cost).
+
+Health verdict: the thesis is intact. Price is weak and the plumbing is fine, but the Q4 stablecoin anchors and BTC long-term holders are drifting the wrong way.
+
+Dates: Oct 28 FOMC · Oct 30 October ETF month-end · early Nov XRPL fixCleanup3_4_0 · Nov 5–12 metric re-check · Dec 3 formal review · Dec 31 Q4 end · Jan 18, 2027 GENIUS takes effect · Jan 21, 2027 SOLT time-stop · Jun 30, 2027 XRP lending deadline · Nov 19, 2027 SOLT backstop.
+
+Sources: Farside / SoSoValue / TFTC (ETF flows), CheckOnChain and Axel Adler (LTH supply), Strategy 8-K filings, DefiLlama (stablecoins), Solana mainnet data and Firedancer GitHub (Alpenglow), Hyperliquid announcements, XRPScan (amendments), CoinGecko (prices), Quantinuum/Google research posts, bitcoin/bips (BIP-360), the Fed calendar and Bitget (FOMC odds), CoinDesk (market news), and Raoul Pal via Cointelegraph (Oct 3). The Tom Nash view is his general long-term stance, not an October statement.
+
+Caveats: Graham and Fiona are fictional call-in guests. The 10am.pro WhatsApp group was skipped this week because the Mac is offline. Sources disagree on October BTC ETF flows (about −$200M to −$315M) and XRP weekly flows; ranges are used. This is not investment advice.
+
+Chapters: 1. Four names, no earnings, plenty of noise; 2. Bitcoin: green, but the holders are fidgeting; 3. Call-in: How loud is the quantum clock?; 4. Solana: the upgrade finally shipped; 5. Call-in: Who's eating Solana's lunch?; 6. XRP: green, waiting on the lending switch; 7. The SOLT call: the clock starts ticking; 8. Verdict, biggest risk, dates to watch.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-crypto-2026-10-27.mp3" length="22843201" type="audio/mpeg"/>
+      <guid isPermaLink="false">thesis-crypto-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 18:16:38 -0400</pubDate>
+      <itunes:duration>00:31:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Nautilus Q3: Foundation Year, Raise Pending</title>
       <description>Nautilus Biotechnology (NAUT) reported Q3 2026 results on October 27. Max (bull) and Lena (skeptic) go through the numbers, the Voyager launch timeline, and the analyst Q&amp;A: who asked what, what management committed to, and what it dodged.

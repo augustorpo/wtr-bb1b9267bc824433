@@ -229,5 +229,16 @@
     "pub_iso": "2026-10-27T10:14:41-04:00",
     "guid": "naut-q3-2026-earnings-2026-10-27",
     "slug": "naut-q3-2026-earnings-2026-10-27"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Thesis Check: Crypto — Price Weak, Plumbing Fine",
+    "description": "Thesis Check: Crypto. This is the first full crypto review, covering Bitcoin, Solana, XRP and the SOLT call. It is checked against the stop-light framework locked on Oct 1, 2026. News window: Sep 29 to Oct 27, 2026. Max (bull) vs Lena (skeptic).\n\nChapters:\n- Four names, no earnings, plenty of noise\n- Bitcoin: green, but the holders are fidgeting\n- Call-in: How loud is the quantum clock? (Graham)\n- Solana: the upgrade finally shipped\n- Call-in: Who's eating Solana's lunch? (Fiona)\n- XRP: green, waiting on the lending switch\n- The SOLT call: the clock starts ticking\n- Verdict, biggest risk, dates to watch\n\nSuggested light changes (suggestions only; the tracker is unchanged):\n- BTC: GREEN, no change. C1★ is on watch because the LTH share is ~81.6% vs the 84.2% peak (yellow at −3pp).\n- SOL: YELLOW → GREEN. C2 Alpenglow went live on Oct 21. C3 stays yellow (Hyperliquid ~44%).\n- XRP: GREEN, no change. C1★ has a stablecoin warning (−11% QTD). C2 lending is not live (~52% of validators).\n- SOLT call: GREEN → YELLOW. The C2 tripwire touched (the mark is ~50% of cost).\n\nHealth verdict: the thesis is intact. Price is weak and the plumbing is fine, but the Q4 stablecoin anchors and BTC long-term holders are drifting the wrong way.\n\nDates: Oct 28 FOMC · Oct 30 October ETF month-end · early Nov XRPL fixCleanup3_4_0 · Nov 5–12 metric re-check · Dec 3 formal review · Dec 31 Q4 end · Jan 18, 2027 GENIUS takes effect · Jan 21, 2027 SOLT time-stop · Jun 30, 2027 XRP lending deadline · Nov 19, 2027 SOLT backstop.\n\nSources: Farside / SoSoValue / TFTC (ETF flows), CheckOnChain and Axel Adler (LTH supply), Strategy 8-K filings, DefiLlama (stablecoins), Solana mainnet data and Firedancer GitHub (Alpenglow), Hyperliquid announcements, XRPScan (amendments), CoinGecko (prices), Quantinuum/Google research posts, bitcoin/bips (BIP-360), the Fed calendar and Bitget (FOMC odds), CoinDesk (market news), and Raoul Pal via Cointelegraph (Oct 3). The Tom Nash view is his general long-term stance, not an October statement.\n\nCaveats: Graham and Fiona are fictional call-in guests. The 10am.pro WhatsApp group was skipped this week because the Mac is offline. Sources disagree on October BTC ETF flows (about −$200M to −$315M) and XRP weekly flows; ranges are used. This is not investment advice.\n\nChapters: 1. Four names, no earnings, plenty of noise; 2. Bitcoin: green, but the holders are fidgeting; 3. Call-in: How loud is the quantum clock?; 4. Solana: the upgrade finally shipped; 5. Call-in: Who's eating Solana's lunch?; 6. XRP: green, waiting on the lending switch; 7. The SOLT call: the clock starts ticking; 8. Verdict, biggest risk, dates to watch.",
+    "file": "thesis-crypto-2026-10-27.mp3",
+    "length": 22843201,
+    "duration": "00:31:43",
+    "pub_iso": "2026-10-27T18:16:38-04:00",
+    "guid": "thesis-crypto-2026-10-27",
+    "slug": "thesis-crypto-2026-10-27"
   }
 ]
