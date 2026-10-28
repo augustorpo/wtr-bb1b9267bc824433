@@ -251,5 +251,16 @@
     "pub_iso": "2026-10-27T19:03:25-04:00",
     "guid": "hood-q3-2026-earnings-2026-10-27",
     "slug": "hood-q3-2026-earnings-2026-10-27"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Tech Digest: Crackgate, a $699 iPad mini & the $2,899 Touch Mac — Sam & Nora",
+    "description": "Apple's two-day product flood before Wednesday's \"Pro and Tell\" event, and the iPhone Duo's cracked-screen problem. Sam and Nora go through Bloomberg's reporting on Duo inner screens cracking along the crease, Apple's statement that \"a small number\" of units are affected and owners should contact AppleCare, iFixit's theory about the hinge, and JerryRigEverything's bend test. Then the appetizers: the new OLED iPad mini ($699, about 17% more than the old model after June's price hike), the M6 14-inch MacBook Pro (still $1,999), the M6 iMac (it comes in pink), Creator Studio's new AI tools, and Mark Gurman's report that the touchscreen MacBook Pro could start at $2,899.\n\nQuick hits: iOS 27.2 brings Siri AI to five more languages, adds Siri memory and SynthID checks in Photos; OpenAI claims three new research discoveries; an unverified Samsung TV microphone claim; Firefox's meme-celebrity ad campaign; and an iPhone 18e rumor. In the source roundup: Paul Ford's links-as-documents TinyLittleOffice and Kevin Roose's early-AI history on The Vergecast, Gurman's in-box checker and executive moves, Gruber on \"prestructured WYSIWYG,\" Portrait Mode at 10, and Mashable's week.\n\nCall-in guests Callum and Imogen share views based only on reported facts.\n\nSources: The Vergecast, Joanna Stern (posts on X; no new New Things issue this window), Marques Brownlee (post on X; no new video or Waveform episode this window), Mark Gurman / Bloomberg (Power On via re-reports), Daring Fireball (written posts), Mashable, The Verge, iFixit, Apple Newsroom.\n\nChapters: 1. Cold open; 2. Quick hits; 3. Deep dive: crackgate; 4. Call-in: Callum, materials engineer; 5. Deep dive: the Pro and Tell appetizers; 6. Call-in: Imogen, video editor; 7. Source roundup: The Vergecast; 8. Source roundup: Joanna Stern; 9. Source roundup: MKBHD and Waveform; 10. Source roundup: Gurman and Gruber; 11. Source roundup: Mashable; 12. Wrap.",
+    "file": "techdigest-2026-10-27.mp3",
+    "length": 30066092,
+    "duration": "00:31:19",
+    "pub_iso": "2026-10-27T20:38:07-04:00",
+    "guid": "techdigest-2026-10-27",
+    "slug": "techdigest-2026-10-27"
   }
 ]

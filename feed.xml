@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:03:25 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 20:38:07 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,34 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Tech Digest: Crackgate, a $699 iPad mini &amp; the $2,899 Touch Mac — Sam &amp; Nora</title>
+      <description>Apple's two-day product flood before Wednesday's "Pro and Tell" event, and the iPhone Duo's cracked-screen problem. Sam and Nora go through Bloomberg's reporting on Duo inner screens cracking along the crease, Apple's statement that "a small number" of units are affected and owners should contact AppleCare, iFixit's theory about the hinge, and JerryRigEverything's bend test. Then the appetizers: the new OLED iPad mini ($699, about 17% more than the old model after June's price hike), the M6 14-inch MacBook Pro (still $1,999), the M6 iMac (it comes in pink), Creator Studio's new AI tools, and Mark Gurman's report that the touchscreen MacBook Pro could start at $2,899.
+
+Quick hits: iOS 27.2 brings Siri AI to five more languages, adds Siri memory and SynthID checks in Photos; OpenAI claims three new research discoveries; an unverified Samsung TV microphone claim; Firefox's meme-celebrity ad campaign; and an iPhone 18e rumor. In the source roundup: Paul Ford's links-as-documents TinyLittleOffice and Kevin Roose's early-AI history on The Vergecast, Gurman's in-box checker and executive moves, Gruber on "prestructured WYSIWYG," Portrait Mode at 10, and Mashable's week.
+
+Call-in guests Callum and Imogen share views based only on reported facts.
+
+Sources: The Vergecast, Joanna Stern (posts on X; no new New Things issue this window), Marques Brownlee (post on X; no new video or Waveform episode this window), Mark Gurman / Bloomberg (Power On via re-reports), Daring Fireball (written posts), Mashable, The Verge, iFixit, Apple Newsroom.
+
+Chapters: 1. Cold open; 2. Quick hits; 3. Deep dive: crackgate; 4. Call-in: Callum, materials engineer; 5. Deep dive: the Pro and Tell appetizers; 6. Call-in: Imogen, video editor; 7. Source roundup: The Vergecast; 8. Source roundup: Joanna Stern; 9. Source roundup: MKBHD and Waveform; 10. Source roundup: Gurman and Gruber; 11. Source roundup: Mashable; 12. Wrap.</description>
+      <itunes:summary>Apple's two-day product flood before Wednesday's "Pro and Tell" event, and the iPhone Duo's cracked-screen problem. Sam and Nora go through Bloomberg's reporting on Duo inner screens cracking along the crease, Apple's statement that "a small number" of units are affected and owners should contact AppleCare, iFixit's theory about the hinge, and JerryRigEverything's bend test. Then the appetizers: the new OLED iPad mini ($699, about 17% more than the old model after June's price hike), the M6 14-inch MacBook Pro (still $1,999), the M6 iMac (it comes in pink), Creator Studio's new AI tools, and Mark Gurman's report that the touchscreen MacBook Pro could start at $2,899.
+
+Quick hits: iOS 27.2 brings Siri AI to five more languages, adds Siri memory and SynthID checks in Photos; OpenAI claims three new research discoveries; an unverified Samsung TV microphone claim; Firefox's meme-celebrity ad campaign; and an iPhone 18e rumor. In the source roundup: Paul Ford's links-as-documents TinyLittleOffice and Kevin Roose's early-AI history on The Vergecast, Gurman's in-box checker and executive moves, Gruber on "prestructured WYSIWYG," Portrait Mode at 10, and Mashable's week.
+
+Call-in guests Callum and Imogen share views based only on reported facts.
+
+Sources: The Vergecast, Joanna Stern (posts on X; no new New Things issue this window), Marques Brownlee (post on X; no new video or Waveform episode this window), Mark Gurman / Bloomberg (Power On via re-reports), Daring Fireball (written posts), Mashable, The Verge, iFixit, Apple Newsroom.
+
+Chapters: 1. Cold open; 2. Quick hits; 3. Deep dive: crackgate; 4. Call-in: Callum, materials engineer; 5. Deep dive: the Pro and Tell appetizers; 6. Call-in: Imogen, video editor; 7. Source roundup: The Vergecast; 8. Source roundup: Joanna Stern; 9. Source roundup: MKBHD and Waveform; 10. Source roundup: Gurman and Gruber; 11. Source roundup: Mashable; 12. Wrap.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/techdigest-2026-10-27.mp3" length="30066092" type="audio/mpeg"/>
+      <guid isPermaLink="false">techdigest-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 20:38:07 -0400</pubDate>
+      <itunes:duration>00:31:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Robinhood Q3 2026: Record Revenue, Red Screen</title>
       <description>Robinhood (HOOD) reported Q3 2026 results on October 27: record revenue of $1.424B, but GAAP EPS and net deposits came in below estimates, and the stock fell about 7% after hours. Max (bull) and Lena (skeptic) go through the numbers, the product drivers, cost guidance, and the investor call Q&amp;A: who asked what, what management committed to, and what it dodged.
