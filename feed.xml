@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:55:30 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:12:03 -0400</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,34 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>All-In This Week: Anthropic's S-1 and Google's $500B Day — Max vs Lena</title>
+      <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 24–31, 2026. It covers both All-In releases since last week's recap: the main show, episode 295, "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions" (released Oct 30, 5:44 PM ET), and Jason's interview with WHOOP CEO Will Ahmed, "50B Hours of Health Data, a 4 Million Member Data Moat, &amp; the FDA Fight" (Oct 29, 5:26 PM ET). Max (bull) and Lena (skeptic) go topic by topic.
+
+Topics: the Anthropic S-1 headline numbers (first-half revenue, retention, founder voting control, IPO size versus the record); the "phantom" $80B loss and the jump in gross margin; Friedberg's value-stack chart; customer tiers and whether big companies can prove ROI; cash, raise size and Chamath's price range; AI giants competing with the Treasury for capital; the politics of data centers and lobbying; recursive self-improvement, the pacing essay and a possible Anthropic–safety-movement split; open models, a reported Q3 slowdown and Jevons; Alphabet's worst day ever, search falling below half of revenue, Cloud's profit surge and the ad-auction claims; WHOOP's growth, subscription model, health catches, AI coach, GLP-1s, the FDA blood-pressure fight and athletes; and the midterms, polls versus Polymarket.
+
+Made-up call-ins: Thandi, a fictional former IPO banker, and Boone, a fictional paid-search agency owner. Both are invented for this episode and speak for no real person or firm.
+
+Sources: own transcript of episode 295 (made from the public audio) and the public Podscripts transcript of the WHOOP interview; official episode titles and release times (All-In RSS); public coverage of the Anthropic S-1 (CNBC) and Anthropic's own research post; Alphabet's Q3 results and market coverage; Google Ads help documentation and public antitrust-trial reporting. Speaker attributions are inferred from context; where unclear we say "one of them". Numbers are rounded and are the speakers' claims unless flagged. Hosts don't imitate the besties' voices. Not affiliated with All-In; not investment advice.
+
+Chapters: 1. This week on All-In; 2. The Anthropic S-1: the headline numbers; 3. The $80B loss and the margin story; 4. Who is actually paying?; 5. Call-in: Thandi, a fictional IPO banker; 6. The cash pile and the price tag; 7. When seven companies compete with the Treasury; 8. The politics of compute; 9. Recursive self-improvement and the doomer split; 10. Greatest business ever?; 11. Google's $500B day; 12. Call-in: Boone, a fictional paid search buyer; 13. Search below half, and Jason buys the dip; 14. WHOOP: from a $500 band to 4 million members; 15. WHOOP: the AI coach, the FDA fight, and the lightning round; 16. Midterms: polls, Polymarket and the pendulum; 17. Wrap and what to watch.</description>
+      <itunes:summary>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 24–31, 2026. It covers both All-In releases since last week's recap: the main show, episode 295, "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions" (released Oct 30, 5:44 PM ET), and Jason's interview with WHOOP CEO Will Ahmed, "50B Hours of Health Data, a 4 Million Member Data Moat, &amp; the FDA Fight" (Oct 29, 5:26 PM ET). Max (bull) and Lena (skeptic) go topic by topic.
+
+Topics: the Anthropic S-1 headline numbers (first-half revenue, retention, founder voting control, IPO size versus the record); the "phantom" $80B loss and the jump in gross margin; Friedberg's value-stack chart; customer tiers and whether big companies can prove ROI; cash, raise size and Chamath's price range; AI giants competing with the Treasury for capital; the politics of data centers and lobbying; recursive self-improvement, the pacing essay and a possible Anthropic–safety-movement split; open models, a reported Q3 slowdown and Jevons; Alphabet's worst day ever, search falling below half of revenue, Cloud's profit surge and the ad-auction claims; WHOOP's growth, subscription model, health catches, AI coach, GLP-1s, the FDA blood-pressure fight and athletes; and the midterms, polls versus Polymarket.
+
+Made-up call-ins: Thandi, a fictional former IPO banker, and Boone, a fictional paid-search agency owner. Both are invented for this episode and speak for no real person or firm.
+
+Sources: own transcript of episode 295 (made from the public audio) and the public Podscripts transcript of the WHOOP interview; official episode titles and release times (All-In RSS); public coverage of the Anthropic S-1 (CNBC) and Anthropic's own research post; Alphabet's Q3 results and market coverage; Google Ads help documentation and public antitrust-trial reporting. Speaker attributions are inferred from context; where unclear we say "one of them". Numbers are rounded and are the speakers' claims unless flagged. Hosts don't imitate the besties' voices. Not affiliated with All-In; not investment advice.
+
+Chapters: 1. This week on All-In; 2. The Anthropic S-1: the headline numbers; 3. The $80B loss and the margin story; 4. Who is actually paying?; 5. Call-in: Thandi, a fictional IPO banker; 6. The cash pile and the price tag; 7. When seven companies compete with the Treasury; 8. The politics of compute; 9. Recursive self-improvement and the doomer split; 10. Greatest business ever?; 11. Google's $500B day; 12. Call-in: Boone, a fictional paid search buyer; 13. Search below half, and Jason buys the dip; 14. WHOOP: from a $500 band to 4 million members; 15. WHOOP: the AI coach, the FDA fight, and the lightning round; 16. Midterms: polls, Polymarket and the pendulum; 17. Wrap and what to watch.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/all-in-weekly-2026-10-31.mp3" length="56193601" type="audio/mpeg"/>
+      <guid isPermaLink="false">all-in-weekly-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 08:12:03 -0400</pubDate>
+      <itunes:duration>00:58:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Robinhood Q3 2026: Record Revenue, Red Screen</title>
       <description>Robinhood (HOOD) reported Q3 2026 results on October 27: record revenue of $1.424B, but GAAP EPS and net deposits came in below estimates, and the stock fell about 7% after hours. Max (bull) and Lena (skeptic) go through the numbers, the product drivers, cost guidance, and the investor call Q&amp;A: who asked what, what management committed to, and what it dodged.
