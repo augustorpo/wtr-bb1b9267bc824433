@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 08:12:03 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 20:27:56 -0500</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,80 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thesis Check: Apple — Record Quarter, Red Thesis</title>
+      <description>Thesis Check: Apple (AAPL). This is the first full Apple episode, recorded hours after Apple's fiscal Q4 2026 report (Nov 2, after the close). The thesis is checked against the stop-light framework in the tracker. News window: Oct 5 to Nov 2, 2026. Max (bull) vs Lena (skeptic).
+
+Chapters:
+- Apple reported tonight, and the stock blinked
+- The numbers: a record September, carried by iPhone and Mac
+- The guide and the after-hours dip
+- C-one star: a new category, or just more phone?
+- Call-in: Russ on why glasses are hard (Russ)
+- C-two: builder or customer? The Siri question
+- C-three and the App Store: is the phone becoming optional?
+- Verdict, biggest risk and dates to watch
+
+Results: revenue $114.5B, up 12% (vs ~$113.4B expected). EPS $2.10, up 14% (vs ~$1.99), including about $0.05 of tariff refunds. iPhone $57.6B, up 17.5%. Mac $10.8B, up 24%. iPad $6.2B, down 10%. Wearables/Home $8.3B, down 8%. Services $31.6B, up about 10% (the slowest since 2022). Gross margin 47.9%, with about 1 point from tariff refunds. Greater China up 21%.
+December-quarter guide: revenue up 7–10% (Street ~6%), Services up 8–9% (Street ~10%), gross margin 45–46% (below the Street, because of memory and Siri AI inference costs).
+Stock: closed at $338.32 (−1.8%), then traded around $329 after hours (about −2.6%). Since Sep 30 it is up ~1.6%, while QQQ is down ~8%.
+
+Suggested light changes (suggestions only; the tracker is unchanged):
+- C1★, a new mainstream category: RED, no change. HomeView is a home hub and the Duo is an iPhone. Glasses (N50) are reported for late 2027 and could slip to 2028.
+- C2, a seat at the AI table: YELLOW, no change. Apple's own foundation models are trained with Google Gemini technology, and the top model runs in Google Cloud. Siri AI is still beta, with a waitlist and limits, and is not available in the EU or China.
+- C3, the phone becoming optional: YELLOW, no change. Every Meta, Google/Samsung and OpenAI device is still tethered to the phone or not yet shipping.
+- Overall: RED / REVISIT (one red; the starred condition is red).
+
+Health verdict: the business is strong and the thesis is unchanged. Apple is harvesting the current platform very well but shows no new category, and it rents part of its AI stack.
+Biggest risk: Apple's glasses slip again while Meta and Google put their assistants on people's faces. Near term, there is valuation risk (&gt;35x forward) as memory and AI costs squeeze margins.
+
+Dates: ~Nov 9 kill-committee keep/sell memo (ER+7) · Nov 13 HomeView ships · November Android XR glasses (Google/Samsung) · Nov 24 tracker re-score · year-end Siri AI adds 4 more languages · late Jan 2027 Duo backorders · Jan 28, 2027 next ER (tentative) · end-Feb 2027 earliest OpenAI device · June 2027 WWDC · Jul 19, 2027 Apple v. OpenAI/io trial.
+
+Sources: Apple press release and 8-K, CNBC and CNBC Investing Club (Nov 2), LSEG/FactSet consensus, Robinhood (quotes, earnings, analyst ratings), Reuters (iPhone Duo launch), Apple Newsroom (HomeView), Bloomberg/Mark Gurman (glasses roadmap, China), Apple ML Research and Expansión (Apple Foundation Models), Six Colors/Manifold (call transcript checks), EssilorLuxottica Q3, Meta Connect, Samsung, Morgan Stanley/UBS (App Store), and Barclays/Bernstein/Needham notes as reported. There was no fresh Apple-specific Tom Nash statement; his 2021 bull case is cited only as a general stance.
+
+Caveats: Russ is a fictional call-in guest. The 10am.pro WhatsApp group had no Apple discussion in the window. Wording of the consensus gross-margin guide differs by source (~46.3–46.9%). After-hours prices are as of ~8 PM ET. This is not investment advice.
+
+Chapters: 1. Apple reported tonight, and the stock blinked; 2. The numbers: a record September, carried by iPhone and Mac; 3. The guide and the after-hours dip; 4. C-one star: a new category, or just more phone?; 5. Call-in: Russ on why glasses are hard; 6. C-two: builder or customer? The Siri question; 7. C-three and the App Store: is the phone becoming optional?; 8. Verdict, biggest risk and dates to watch.</description>
+      <itunes:summary>Thesis Check: Apple (AAPL). This is the first full Apple episode, recorded hours after Apple's fiscal Q4 2026 report (Nov 2, after the close). The thesis is checked against the stop-light framework in the tracker. News window: Oct 5 to Nov 2, 2026. Max (bull) vs Lena (skeptic).
+
+Chapters:
+- Apple reported tonight, and the stock blinked
+- The numbers: a record September, carried by iPhone and Mac
+- The guide and the after-hours dip
+- C-one star: a new category, or just more phone?
+- Call-in: Russ on why glasses are hard (Russ)
+- C-two: builder or customer? The Siri question
+- C-three and the App Store: is the phone becoming optional?
+- Verdict, biggest risk and dates to watch
+
+Results: revenue $114.5B, up 12% (vs ~$113.4B expected). EPS $2.10, up 14% (vs ~$1.99), including about $0.05 of tariff refunds. iPhone $57.6B, up 17.5%. Mac $10.8B, up 24%. iPad $6.2B, down 10%. Wearables/Home $8.3B, down 8%. Services $31.6B, up about 10% (the slowest since 2022). Gross margin 47.9%, with about 1 point from tariff refunds. Greater China up 21%.
+December-quarter guide: revenue up 7–10% (Street ~6%), Services up 8–9% (Street ~10%), gross margin 45–46% (below the Street, because of memory and Siri AI inference costs).
+Stock: closed at $338.32 (−1.8%), then traded around $329 after hours (about −2.6%). Since Sep 30 it is up ~1.6%, while QQQ is down ~8%.
+
+Suggested light changes (suggestions only; the tracker is unchanged):
+- C1★, a new mainstream category: RED, no change. HomeView is a home hub and the Duo is an iPhone. Glasses (N50) are reported for late 2027 and could slip to 2028.
+- C2, a seat at the AI table: YELLOW, no change. Apple's own foundation models are trained with Google Gemini technology, and the top model runs in Google Cloud. Siri AI is still beta, with a waitlist and limits, and is not available in the EU or China.
+- C3, the phone becoming optional: YELLOW, no change. Every Meta, Google/Samsung and OpenAI device is still tethered to the phone or not yet shipping.
+- Overall: RED / REVISIT (one red; the starred condition is red).
+
+Health verdict: the business is strong and the thesis is unchanged. Apple is harvesting the current platform very well but shows no new category, and it rents part of its AI stack.
+Biggest risk: Apple's glasses slip again while Meta and Google put their assistants on people's faces. Near term, there is valuation risk (&gt;35x forward) as memory and AI costs squeeze margins.
+
+Dates: ~Nov 9 kill-committee keep/sell memo (ER+7) · Nov 13 HomeView ships · November Android XR glasses (Google/Samsung) · Nov 24 tracker re-score · year-end Siri AI adds 4 more languages · late Jan 2027 Duo backorders · Jan 28, 2027 next ER (tentative) · end-Feb 2027 earliest OpenAI device · June 2027 WWDC · Jul 19, 2027 Apple v. OpenAI/io trial.
+
+Sources: Apple press release and 8-K, CNBC and CNBC Investing Club (Nov 2), LSEG/FactSet consensus, Robinhood (quotes, earnings, analyst ratings), Reuters (iPhone Duo launch), Apple Newsroom (HomeView), Bloomberg/Mark Gurman (glasses roadmap, China), Apple ML Research and Expansión (Apple Foundation Models), Six Colors/Manifold (call transcript checks), EssilorLuxottica Q3, Meta Connect, Samsung, Morgan Stanley/UBS (App Store), and Barclays/Bernstein/Needham notes as reported. There was no fresh Apple-specific Tom Nash statement; his 2021 bull case is cited only as a general stance.
+
+Caveats: Russ is a fictional call-in guest. The 10am.pro WhatsApp group had no Apple discussion in the window. Wording of the consensus gross-margin guide differs by source (~46.3–46.9%). After-hours prices are as of ~8 PM ET. This is not investment advice.
+
+Chapters: 1. Apple reported tonight, and the stock blinked; 2. The numbers: a record September, carried by iPhone and Mac; 3. The guide and the after-hours dip; 4. C-one star: a new category, or just more phone?; 5. Call-in: Russ on why glasses are hard; 6. C-two: builder or customer? The Siri question; 7. C-three and the App Store: is the phone becoming optional?; 8. Verdict, biggest risk and dates to watch.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-aapl-2026-11-02.mp3" length="23740373" type="audio/mpeg"/>
+      <guid isPermaLink="false">thesis-aapl-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 20:27:56 -0500</pubDate>
+      <itunes:duration>00:32:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>All-In This Week: Anthropic's S-1 and Google's $500B Day — Max vs Lena</title>
       <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 24–31, 2026. It covers both All-In releases since last week's recap: the main show, episode 295, "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions" (released Oct 30, 5:44 PM ET), and Jason's interview with WHOOP CEO Will Ahmed, "50B Hours of Health Data, a 4 Million Member Data Moat, &amp; the FDA Fight" (Oct 29, 5:26 PM ET). Max (bull) and Lena (skeptic) go topic by topic.
