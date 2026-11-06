@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:12:42 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:12:46 -0500</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -128,6 +128,48 @@ Chapters: 1. Apple reported tonight, and the stock blinked; 2. The numbers: a re
       <itunes:duration>00:32:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Palantir Q3 2026: Ninety-Six Percent, Red Screen</title>
+      <description>Palantir grew revenue 96% to $2.31B in Q3 2026, beat on EPS ($0.44 vs $0.41), raised guidance again, and U.S. commercial passed U.S. government for the first time. The stock still slipped after hours. Max (bull) and Lena (skeptic) debate the record quarter, the soft spots (bookings +6%, backlog flat quarter over quarter, international commercial +1% Q/Q, costs +20% Q/Q), the best lines from Alex Karp's letter and call, a call-in from a former enterprise data buyer, and how a prominent bull's pre-earnings checklist scored.
+
+Chapters: cold open and the after-hours move; headline numbers; U.S. commercial; government and the rest; guidance; the cracks; best of the call; call-in; what a prominent bull expected; valuation and the tape; verdict.
+
+After-hours price: about $173.55 at 6:40 PM ET Nov 2, 2026 (Yahoo Finance), vs a $178.34 regular-session close.
+
+Sources:
+- Palantir Q3 2026 press release and investor presentation (investors.palantir.com)
+- Alex Karp, Q3 2026 letter to shareholders
+- Q3 2026 earnings call transcript (Investing.com)
+- Fortune, CNBC, Investing.com and Yahoo Finance earnings coverage
+- Antonio Linares on X (@alc2022)
+- Tom Nash, "Palantir Could Hit $1,000 (But ONLY If This Happens TODAY)" (YouTube, Nov 2, 2026): https://youtu.be/zBkrl2oASXw
+
+Company customer examples are Palantir's own claims. Not investment advice.</description>
+      <itunes:summary>Palantir grew revenue 96% to $2.31B in Q3 2026, beat on EPS ($0.44 vs $0.41), raised guidance again, and U.S. commercial passed U.S. government for the first time. The stock still slipped after hours. Max (bull) and Lena (skeptic) debate the record quarter, the soft spots (bookings +6%, backlog flat quarter over quarter, international commercial +1% Q/Q, costs +20% Q/Q), the best lines from Alex Karp's letter and call, a call-in from a former enterprise data buyer, and how a prominent bull's pre-earnings checklist scored.
+
+Chapters: cold open and the after-hours move; headline numbers; U.S. commercial; government and the rest; guidance; the cracks; best of the call; call-in; what a prominent bull expected; valuation and the tape; verdict.
+
+After-hours price: about $173.55 at 6:40 PM ET Nov 2, 2026 (Yahoo Finance), vs a $178.34 regular-session close.
+
+Sources:
+- Palantir Q3 2026 press release and investor presentation (investors.palantir.com)
+- Alex Karp, Q3 2026 letter to shareholders
+- Q3 2026 earnings call transcript (Investing.com)
+- Fortune, CNBC, Investing.com and Yahoo Finance earnings coverage
+- Antonio Linares on X (@alc2022)
+- Tom Nash, "Palantir Could Hit $1,000 (But ONLY If This Happens TODAY)" (YouTube, Nov 2, 2026): https://youtu.be/zBkrl2oASXw
+
+Company customer examples are Palantir's own claims. Not investment advice.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/pltr-q3-2026-11-02.mp3" length="17123682" type="audio/mpeg"/>
+      <guid isPermaLink="false">pltr-q3-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 18:55:00 -0500</pubDate>
+      <itunes:duration>00:23:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/pltr-q3-2026-11-02.transcript.txt" type="text/plain" language="en"/>
+      <podcast:chapters url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/pltr-q3-2026-11-02.chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>All-In This Week: Anthropic's S-1 and Google's $500B Day — Max vs Lena</title>

@@ -1,0 +1,165 @@
+Max: Signal and Noise, special edition. Lena, Palantir just grew revenue ninety-six percent. In one year. At a two-billion-dollar-a-quarter scale.
+Lena: And the stock is down after hours. Again. Max, I feel like we record this exact cold open every quarter.
+Max: We kind of do. Let me set the scene. Regular session today, Palantir closed at about one seventy-eight thirty-four. That's down about three percent from Friday's close of one eighty-four eleven. And the whole Nasdaq was down more than one percent.
+Lena: Then the numbers dropped after the close. Fortune says the stock popped about one and a half percent right away, then flipped. Investing dot com had it at one seventy-one fifty-two around six P-M Eastern, down almost four percent after hours. And as of six-forty P-M Eastern, Yahoo Finance's after-hours quote is about one seventy-three fifty-five.
+Max: So down about two point seven percent from today's close, and roughly six percent below where it was on Friday.
+Lena: For context, the options market was pricing a move of about thirteen percent either way, per Investing dot com. So this is a shrug, not a crash.
+
+Max: Here's the plan. Headline numbers versus the Street. The big story, U.S. commercial. Guidance. Then Lena gets her segment on the cracks.
+Lena: I always get a segment on the cracks.
+Max: Then the best moments from the call, a caller who has actually bought this kind of software, what one very prominent Palantir bull expected this morning versus what actually happened, and a verdict.
+Lena: Sources: Palantir's press release, its investor presentation, Alex Karp's shareholder letter, the earnings call transcript from Investing dot com, plus coverage from Fortune, CNBC, and Investing dot com. Quotes from management are word for word from those. Everything else, we'll say who said it.
+
+Max: Revenue. Two point three one billion dollars. Up ninety-six percent from one point one eight billion a year ago. And up twenty percent from the second quarter, in just three months.
+Lena: Versus expectations?
+Max: Palantir's own guidance was about two point one six. So they beat their own guide by about seven percent. And the Street, LSEG via CNBC, expected two point one eight. Beat by about six percent.
+Lena: Earnings per share?
+Max: Adjusted E-P-S, forty-four cents, versus forty-one expected. About a seven percent beat. A year ago it was twenty-one cents, so it more than doubled. And here's a fun one, GAAP E-P-S was also forty-four cents. Same number.
+Lena: That part I actually like. When the adjusted number and the real number match, there's less to argue about.
+Max: Profit. GAAP net income, one point one three billion dollars. Adjusted operating income, one point four three billion, a sixty-two percent margin. Adjusted free cash flow, one point two two billion, a fifty-three percent margin.
+
+Lena: And the balance sheet?
+Max: Ten point four billion in cash and short-term securities. No debt.
+Lena: Okay. Before you get too excited. Growth over the last eight quarters went thirty-six, thirty-nine, forty-eight, sixty-three, seventy, eighty-five, ninety-three, and now ninety-six. That's from Palantir's own deck.
+Max: Every single quarter faster than the last.
+Lena: Yes. But ninety-three to ninety-six is three points. Eighty-five to ninety-three was eight. The acceleration is still there, it's just getting smaller.
+Max: Lena, at this size, any acceleration is ridiculous. The CFO, David Glazer, called it the highest year-over-year growth rate and the highest sequential growth rate they have ever reported.
+Lena: I'm not saying it's bad. I'm saying the curve is bending, and the stock is priced as if it won't.
+Max: Noted. Rule of forty, which is growth plus margin, hit one fifty-eight. Last quarter was one fifty-five. Most great software companies are happy at forty.
+Lena: One fifty-eight is a silly number. I'll give you silly.
+
+Max: Now the headline inside the headline. For the first time ever, Palantir made more money from U.S. companies than from the U.S. government.
+Lena: Say the numbers.
+Max: U.S. commercial revenue, nine hundred eighty-four million dollars. Up one hundred forty-eight percent from three ninety-seven million a year ago. Up twenty-nine percent from the second quarter. U.S. government, nine hundred fifty-three million, up ninety-six percent.
+
+Lena: Twenty-nine percent in one quarter for U.S. commercial. Karp's letter says, and I'm quoting, "our sequential growth in U.S. commercial of 29% would be an astonishing annual growth rate of any public software company in America."
+Max: And he's not wrong. U.S. commercial customers, six hundred eighty-six, up twenty-nine percent. Total customers, one thousand ninety, up twenty percent.
+Lena: And net dollar retention?
+Max: One sixty-five percent. Up eight points from one fifty-seven last quarter. Meaning the average customer from a year ago is now spending sixty-five percent more.
+Lena: That's the number that matters most to me, honestly. It means the growth isn't just new logos. Existing customers are expanding.
+Max: And the call had some wild examples. Ryan Taylor, the chief revenue officer, walked through pilots turning into big deals. An industrial materials company went from about a three-million-dollar contract to twenty-nine million in annual value. An athletic company went from one point six million to about twenty-one million. An apparel company, two and a half million to eleven and a half.
+Lena: Those are company examples, they didn't name the customers. So, take them as the best stories they chose to tell.
+Max: Of course. But Karp's letter describes this exact thing. Quote, "What may have taken months and years—a slow, coy, and theatrical dance towards a contract—can now take days and weeks. Consummation happens quickly."
+Lena: Only Alex Karp puts the word consummation in a shareholder letter.
+Max: He also said on the call, quote, "we really cannot satiate demand."
+Lena: Which is a great problem to have, and also a sentence I want to come back to in my segment.
+
+Lena: Before we get to guidance, don't skip government. It didn't lose the crown because it got weak.
+Max: Not at all. Total government revenue, one point one five billion, crossing a billion dollars for the first time. Up eighty-one percent. U.S. government alone, nine fifty-three million, up ninety-six percent from a year ago and eighteen percent from last quarter.
+Lena: Eighteen percent in a quarter for a government business is wild. Government budgets don't usually move that fast.
+Max: Glazer credited continued execution on existing programs plus new awards. International government was one hundred ninety-two million, up thirty-one percent, up six percent from last quarter.
+Lena: So abroad, governments are buying faster than companies.
+Max: Interesting, right? And billings, which is what they invoiced, two point four five billion. Up from two point oh seven last quarter, about eighteen percent.
+Lena: That one I like, because billings are harder to dress up than adjusted anything.
+Max: And on the commercial side, Taylor rattled off customer results. These are Palantir's own claims, not audited. He said L3Harris cut a cost by ninety-five percent, the builder McCarthy is saving thirty thousand hours, and Tampa General, the hospital, got a seven percent performance gain.
+Lena: Every software vendor has a slide of happy customers. What's unusual here is the number of big deals. The deck says two hundred twelve deals of at least one million dollars this quarter, one hundred seven of at least five million, and sixty-four of at least ten million.
+Max: Sixty-four ten-million-dollar deals. In one quarter.
+Lena: That's the strongest bull number in the deck, honestly. It's not one whale. It's a lot of big fish.
+Max: Lena, did you just make a bull argument?
+Lena: Don't get used to it.
+
+Max: Guidance. Fourth quarter revenue, about two point six five billion. Fortune says the Street was at about two point four six. So that's roughly eight percent above expectations, and about eighty-eight percent growth.
+Lena: And the full year?
+Max: Full year twenty twenty-six revenue, about eight point five three billion. Last quarter's guide topped out around eight point one six. So that's up about four and a half percent in three months. Glazer said the midpoint implies growth nine points higher than they guided last quarter.
+Lena: U.S. commercial for the full year?
+Max: More than three point five six billion, at least one hundred forty-three percent growth. CNBC says the prior guide was three point four two, so up about four percent. And full year adjusted free cash flow, four point eight to five billion.
+Lena: Okay. This is the part that makes the after-hours drop look weird, right? Beat, beat, raise, raise.
+Max: Thank you! Somebody tell the tape!
+Lena: But this is Palantir. Beat-and-raise is the price of admission. The question for the market is always, by how much.
+
+Lena: My segment. Five things, quickly. Number one, bookings. Total contract value, that's new deals signed, was two point nine two billion. Up only six percent from a year ago.
+Max: Six percent.
+Lena: Six. Against revenue growing ninety-six. U.S. commercial contract value was one point four six billion, up eleven percent. Commercial overall, one point six five billion, up seventeen.
+Max: The CFO did address that. He said they signed, quote, "multiple eight-figure deals in the quarter that were shorter in duration than usual," because customers are rushing to adopt what Palantir now calls Sovereign AI. Shorter contracts mean smaller total contract value per deal, even if the yearly spend is big.
+Lena: That's a fair explanation. It's also exactly what you'd say if bookings were cooling. We'll know which one it is in a couple of quarters.
+Max: Fair.
+Lena: Number two, backlog. Remaining performance obligations, the contracted revenue not yet recognized, four point nine billion. Up eighty-eight percent from a year ago, but flat from last quarter. The deck actually shows it dipping a hair, four point nine oh to four point eight eight.
+Max: But remember, R-P-O mostly ignores government work, because government contracts usually have termination clauses or terms under a year.
+Lena: Sure. And total remaining deal value, the broader measure, was thirteen point four billion. Up fifty-five percent, but only two percent from last quarter. U.S. commercial deal value, six point five two billion, up four percent from last quarter.
+Max: So the backlog is growing slower than revenue. I'll give you that one.
+Lena: Number three, international. International commercial revenue, one hundred eighty-four million. Up twenty-one percent from a year ago, and one percent from last quarter.
+Max: One.
+Lena: One percent. In the quarter of the century. The U.S. was about eighty-four percent of total revenue, per Taylor on the call.
+
+Max: Europe remains, let's say, a work in progress.
+Lena: Number four, concentration. Taylor said the top twenty customers now average one hundred forty-six million dollars each over the last twelve months, up seventy-six percent. Great for upsell. But twenty customers, at that size, is a lot of eggs.
+Max: And number five, I'm guessing costs.
+Lena: Costs. Adjusted operating expenses, eight hundred eighty-seven million, up fifty-three percent from a year ago, and up about twenty percent from seven forty-one million last quarter. So this quarter, spending grew about as fast as revenue, sequentially.
+Max: They're hiring into demand. Karp basically said they don't have enough people. On the call his words were, quote, "we don't have even the bandwidth."
+Lena: Right, and that's what I meant earlier. "We cannot satiate demand" sounds amazing, until you realize the limit is now people, and people cost money. And stock-based compensation was three hundred nineteen million, about fourteen percent of revenue.
+Max: Margins still went up, Lena. Sixty-two percent adjusted operating margin.
+Lena: They did. I'm not calling it a problem yet. I'm calling it the thing to watch.
+
+Max: Let's do the call. Karp opened in classic form. Quote, "Our somewhat crazy aspiration to take the whole market doesn't look that crazy right now."
+Lena: And the letter is even bolder. Quote, "It is our firm and unwavering intent to take the entire market, the whole thing."
+Max: The whole thing.
+Lena: The whole thing. Then Dan Ives asked why customers come to Palantir, and Karp went full dating metaphor. Fortune quoted him: "We've gone from being the most attractive person in the physics department to being the captain of the football team kind of thing." And then he added, "I mean, not that I did that."
+
+Max: The self-awareness is real. He also said, quote, "once you go Palantir, you do not go back."
+Lena: Shyam Sankar, the chief technology officer, had the line I'd actually put on a slide. Quote, "The fundamental unit of the enterprise is the workflow." His point is, the language models are commodities, the value is wiring them into how a business actually runs.
+Max: Which matches the letter. Karp wrote that a language model on its own, without that grounding, has "a blast radius that tends towards infinity."
+Lena: That's his pitch against the A-I labs. Palantir as the safety layer between the model and your company.
+Max: And the deck leaned into partnerships. They showcased work with NVIDIA on its Nemotron models, including a small fine-tuned Nemotron model that Palantir says beat frontier models on a specific task. And Sankar said a thirty-billion-parameter model they post-trained did better than a frontier model in a military exercise.
+Lena: Company claims, specific tasks, no independent benchmark. Interesting, not proof.
+Max: Agreed. Also on government, Sankar said Maven, the military targeting and intelligence system, has more than one hundred thousand users.
+Lena: And one more from the letter, because it got attention. Karp wrote that Palantir sees itself as, quote, "the pioneers of a genuine and viable antiwar movement."
+Max: An analyst from Deutsche Bank actually brought up that line on the call.
+Lena: From a company whose biggest customer is the U.S. military. I'll just leave that one there.
+
+Max: We've got a caller. Gareth spent fifteen years running data and analytics for a big industrial manufacturer, and he's sat on the buying side of exactly these kinds of software deals. Gareth, welcome.
+Gareth: Cheers, thanks for having me. Lovely to be on.
+Lena: Gareth, the pilot stories. Three million to twenty-nine million, one point six to twenty-one. From the buyer's chair, is that believable?
+Gareth: Honestly, yes, that's how these things go when they work. You start with one plant, one painful workflow, scheduling or quality or supply chain. If it works in six weeks, the operations people start shouting for it, and the budget conversation changes completely. You're not buying software anymore, you're buying a result.
+Max: So the land-and-expand is real.
+Gareth: It's real. But here's what I'd watch, and Lena will like this. When a buyer is moving fast and isn't sure where the technology is going, you sign shorter. You don't lock in five years. So when the C-F-O says the big deals were shorter than usual, that fits what I'd do. It's not necessarily a red flag. It's a buyer keeping their options open.
+Lena: But that cuts both ways, doesn't it? Shorter contracts are easier to walk away from.
+Gareth: Absolutely. That's the honest version. If the results stay this good, those contracts get renewed bigger. If an A-I lab or a cheaper vendor offers eighty percent of the result for half the price, the shorter contract is your exit door.
+Max: And the one hundred sixty-five percent net retention?
+Gareth: That's the bit I'd frame. Customers don't expand spending sixty-five percent in a year on something that isn't working. Procurement simply wouldn't let you.
+Lena: Last one. International commercial up one percent from last quarter. Why can't they crack Europe?
+Gareth: Partly politics, partly culture. A lot of European buyers are wary of an American defence-linked vendor touching their core data. And they're slower to sign, full stop. I wouldn't expect that to flip quickly.
+Max: Gareth, thank you. Great call.
+Gareth: Pleasure. Good luck with the tape tomorrow.
+
+Max: Now a fun one. This morning, before the numbers, Tom Nash, a well-known long-term Palantir bull on YouTube, posted a pre-earnings video. We transcribed it, so these are his words.
+Lena: Let's score him. What was the setup?
+Max: He laid out what he called a "triple beat." His words: "guidance, consensus, acceleration." Beat Palantir's own guide. Beat the Street, about two point one eight billion and forty-one cents. And grow faster than the ninety-three percent in Q2, so ninety-four or higher.
+Lena: And?
+Max: All three. Two point three one billion versus a two point one six guide. Versus two point one eight consensus. Ninety-six percent growth. He even said the real bar for a short-term spike was about two point two eight billion. They cleared that too.
+
+Lena: But he also said, quote, "If you beat those three, the stock price is gonna go up." And it went down.
+Max: To be fair, earlier in the same video he said it's more likely than not that Palantir beats and still drops five, ten, even fifteen percent.
+Lena: So he called both outcomes. Half a point.
+Max: Then specific numbers. He wanted U.S. commercial revenue at nine hundred fifty million. It came in at nine eighty-four, about four percent better. Hit.
+Lena: He wanted full-year U.S. commercial guidance of three point six billion. They guided to more than three point five six. So about one percent short. I'll call that a near miss.
+Max: He wanted Q4 guidance of two point five billion. They guided about two point six five, about six percent better. Hit.
+Lena: He wanted net dollar retention above one fifty-seven. It hit one sixty-five. Hit. U.S. commercial deal value above six point two four billion, it's six point five two, up four percent. Hit. Rule of forty up, it went up. Hit.
+Max: The one miss is bookings. He said U.S. commercial contract value of two point one three billion "needs to go up." This quarter it was one point four six billion.
+Lena: That's down about thirty percent from the figure he cited. Clear miss. And that's the shorter-deals issue again.
+Max: And his worries were right on. He flagged client concentration, and he said more than eighty-five percent of revenue comes from the U.S. and they need Europe. Both still true.
+Lena: And the price targets?
+Max: He said his old five-hundred-dollar target is now his bear case, the floor. Base case seven seventeen. Bull case about nine seventy-eight, call it a thousand-dollar stock, by twenty thirty in his model.
+Lena: Against a stock at about one seventy-three after hours. So even his "floor" is almost three times today's price.
+Max: Optimism, one to ten?
+Lena: Nine. He's honest about the risks, but a five-hundred-dollar floor is about as bullish as it gets. On the actual business calls, he was mostly right. On the stock's next move, the market didn't play along.
+
+Max: And quickly, the other bulls. Antonio Linares posted on X tonight, simply, "Rule of 40 hit 158 percent." That's his whole reaction so far.
+Lena: We didn't find a reaction from Raoul Pal on Palantir tonight, so we're not going to guess one.
+
+Lena: So why is it down? Three reasons. First, the backdrop. Fortune points out Alphabet just had its worst one-day drop on record last week, Intel fell about twenty-nine percent last week, and the Nasdaq is down about four percent in five days. The A-I trade is nervous.
+Max: Palantir as the bellwether for A-I software, and the whole sector's in a mood.
+Lena: Second, valuation. Investing dot com puts it at around one hundred fourteen times this year's earnings. Before the print, RBC had a Sell rating and a ninety-dollar target, saying it traded around sixty-one times this year's revenue.
+Max: And the other side. Before earnings Oppenheimer raised its target to two thirty-five, Citi has two fifty, Rosenblatt two sixty, Baird two fifty. The average target was around two nineteen, per a pre-earnings roundup on Yahoo Finance.
+Lena: So from about one seventy-three after hours, the average analyst sees about twenty-six percent upside, and RBC sees about forty-eight percent downside.
+Max: That's a wide range.
+Lena: That's the whole story of this stock. Third reason, the bookings and backlog numbers we talked about. When the stock is priced for perfection, people go hunting for the one soft number. They found two.
+Max: And Fortune's headline basically says it: investors' patience "rests on a hair trigger."
+
+Max: Verdict time. My bull case. The best quarter in the company's history. Ninety-six percent growth, still accelerating. U.S. commercial passed government. One sixty-five net retention. Real profits and real cash. A guide that went up again. Tonight's move is noise.
+Lena: My skeptic case. The business is incredible, no argument. But bookings up six percent, backlog flat from last quarter, international up one percent, and costs growing as fast as revenue this quarter. None of those are bad yet. All of them are what the first cracks look like, if cracks come. And at more than a hundred times earnings, you don't get credit for a great quarter. You get questions.
+Max: Score?
+Lena: Business, A. Stock reaction, deserved caution. What to watch next quarter: does contract value bounce back, does the backlog grow again, and do costs stay below revenue growth.
+Max: And for me, does U.S. commercial keep adding twenty-plus percent a quarter. If it does, nobody will remember tonight.
+Lena: And if it doesn't, everyone will.
+Max: That's the special. Thanks for listening to Signal and Noise.
+Lena: Not investment advice. We'll see you next time.
