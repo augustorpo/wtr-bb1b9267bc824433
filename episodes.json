@@ -299,5 +299,18 @@
     "slug": "pltr-q3-2026-11-02",
     "chapters_url": "https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/pltr-q3-2026-11-02.chapters.json",
     "transcript_url": "https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/pltr-q3-2026-11-02.transcript.txt"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Blue Wave, Green Tape, Then the AI Bonfire",
+    "description": "Two sessions, one whiplash. Wednesday Nov 4, 2026: Dow +3.03% to 53,356 after a Democratic midterm sweep and an 8%+ oil crash; VIX fell 20% to 16.61. Thursday Nov 5: Dow −3.44%, S&P −4.36%, Nasdaq −5.52% into correction as chips and AI data-center names liquidated; VIX spiked to 28.09. Max (bull) and Lena (skeptic) debate gridlock relief vs an AI-capex regime scare, with a call-in from fictional flow risk manager Priya Desai.\n\nChapters: cold open; Wednesday's blue wave; Thursday's AI bonfire; fear/bonds/oil/bitcoin; flow call-in; Asia spillover; is the AI trade broken; verdict.\n\nKey closes used: CNBC, Cboe, Reuters, AP, Xinhua. Cross-asset: WTI $88.12 Wed / $90.52 Thu; Bitcoin roughly mid-$70ks Thu; 10-year near 4.84%; Dec Fed hike odds eased on CME FedWatch.\n\nUnverified on air: Anthropic IPO delay chatter; exact Mag7 $900B was a late-session CNBC running tally; Bitcoin prints varied ~$75k–$76k.\n\nNot investment advice.",
+    "file": "market-whiplash-2026-11-05.mp3",
+    "length": 10627990,
+    "duration": "00:14:46",
+    "pub_iso": "2026-11-05T20:08:00-05:00",
+    "guid": "market-whiplash-2026-11-05",
+    "slug": "market-whiplash-2026-11-05",
+    "chapters_url": "https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/market-whiplash-2026-11-05.chapters.json",
+    "transcript_url": "https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/market-whiplash-2026-11-05.transcript.txt"
   }
 ]

@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:12:46 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:12:52 -0500</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,36 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Blue Wave, Green Tape, Then the AI Bonfire</title>
+      <description>Two sessions, one whiplash. Wednesday Nov 4, 2026: Dow +3.03% to 53,356 after a Democratic midterm sweep and an 8%+ oil crash; VIX fell 20% to 16.61. Thursday Nov 5: Dow −3.44%, S&amp;P −4.36%, Nasdaq −5.52% into correction as chips and AI data-center names liquidated; VIX spiked to 28.09. Max (bull) and Lena (skeptic) debate gridlock relief vs an AI-capex regime scare, with a call-in from fictional flow risk manager Priya Desai.
+
+Chapters: cold open; Wednesday's blue wave; Thursday's AI bonfire; fear/bonds/oil/bitcoin; flow call-in; Asia spillover; is the AI trade broken; verdict.
+
+Key closes used: CNBC, Cboe, Reuters, AP, Xinhua. Cross-asset: WTI $88.12 Wed / $90.52 Thu; Bitcoin roughly mid-$70ks Thu; 10-year near 4.84%; Dec Fed hike odds eased on CME FedWatch.
+
+Unverified on air: Anthropic IPO delay chatter; exact Mag7 $900B was a late-session CNBC running tally; Bitcoin prints varied ~$75k–$76k.
+
+Not investment advice.</description>
+      <itunes:summary>Two sessions, one whiplash. Wednesday Nov 4, 2026: Dow +3.03% to 53,356 after a Democratic midterm sweep and an 8%+ oil crash; VIX fell 20% to 16.61. Thursday Nov 5: Dow −3.44%, S&amp;P −4.36%, Nasdaq −5.52% into correction as chips and AI data-center names liquidated; VIX spiked to 28.09. Max (bull) and Lena (skeptic) debate gridlock relief vs an AI-capex regime scare, with a call-in from fictional flow risk manager Priya Desai.
+
+Chapters: cold open; Wednesday's blue wave; Thursday's AI bonfire; fear/bonds/oil/bitcoin; flow call-in; Asia spillover; is the AI trade broken; verdict.
+
+Key closes used: CNBC, Cboe, Reuters, AP, Xinhua. Cross-asset: WTI $88.12 Wed / $90.52 Thu; Bitcoin roughly mid-$70ks Thu; 10-year near 4.84%; Dec Fed hike odds eased on CME FedWatch.
+
+Unverified on air: Anthropic IPO delay chatter; exact Mag7 $900B was a late-session CNBC running tally; Bitcoin prints varied ~$75k–$76k.
+
+Not investment advice.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/market-whiplash-2026-11-05.mp3" length="10627990" type="audio/mpeg"/>
+      <guid isPermaLink="false">market-whiplash-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 20:08:00 -0500</pubDate>
+      <itunes:duration>00:14:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/market-whiplash-2026-11-05.transcript.txt" type="text/plain" language="en"/>
+      <podcast:chapters url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/market-whiplash-2026-11-05.chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Duolingo Q3 2026: Users Surge, EPS Slips, Stock Pops</title>
       <description>Duolingo's Q3 2026: revenue $309.0M (+14%) beat the ~$303M consensus, adjusted EPS $0.54 missed the $0.57 estimate, daily active users accelerated to 64.9M (+29%), and full-year guidance went up. The stock fell 5.4% in the regular session to $128, then jumped about 11% after hours. Max (bull) and Lena (skeptic) debate the user comeback, bookings vs revenue, guidance, and the cracks: lower EBITDA and free cash flow, a DAU bonus accrual, and a gross margin guided down.
