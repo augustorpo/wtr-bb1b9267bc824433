@@ -28,6 +28,8 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 from xml.sax.saxutils import escape
 import xml.etree.ElementTree as ET
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from feed_extras import PODCAST_NS, chapters_json, clean_transcript, item_tags
 
 TZ = ZoneInfo("America/New_York")
 CONFIG = Path(os.environ.get("WTR_CONFIG", "/home/box/podcast/config.json"))
@@ -77,11 +79,11 @@ def build_feed(cfg, episodes):
       <pubDate>{pub}</pubDate>
       <itunes:duration>{ep['duration']}</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>{escape(ep.get('episode_type', 'full'))}</itunes:episodeType>
+      <itunes:episodeType>{escape(ep.get('episode_type', 'full'))}</itunes:episodeType>{item_tags(ep)}
     </item>""")
     last = format_datetime(datetime.now(TZ))
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" {PODCAST_NS}>
   <channel>
     <title>{escape(show['title'])}</title>
     <link>{escape(base)}/</link>
@@ -121,6 +123,8 @@ def main():
     ap.add_argument("--file", help="MP3 file name in episodes/ (default <slug>.mp3). Use a new name such as "
                     "<slug>-v2.mp3 with --replace to cache-bust re-voiced audio; the guid is unchanged and the "
                     "replaced episode's old MP3 is removed from the repo")
+    ap.add_argument("--transcript", help="script.md/.txt -> cleaned episodes/<slug>.transcript.txt + <podcast:transcript> tag")
+    ap.add_argument("--no-feed-chapters", action="store_true", help="don't write episodes/<slug>.chapters.json / <podcast:chapters> tag")
     ap.add_argument("--no-push", action="store_true")
     a = ap.parse_args()
 
@@ -173,6 +177,14 @@ def main():
         entry["slug"] = slug
     if a.episode_type != "full":
         entry["episode_type"] = a.episode_type
+    base_url = cfg["base_url"].rstrip("/")
+    stem = fname[:-4]
+    if a.chapters and not a.no_feed_chapters:
+        (repo / "episodes" / f"{stem}.chapters.json").write_text(chapters_json(a.chapters), encoding="utf-8")
+        entry["chapters_url"] = f"{base_url}/episodes/{stem}.chapters.json"
+    if a.transcript:
+        (repo / "episodes" / f"{stem}.transcript.txt").write_text(clean_transcript(a.transcript), encoding="utf-8")
+        entry["transcript_url"] = f"{base_url}/episodes/{stem}.transcript.txt"
     episodes.append(entry)
     assert len(episodes) == before + (0 if existing else 1)
     epj.write_text(json.dumps(episodes, indent=2, ensure_ascii=False) + "\n")

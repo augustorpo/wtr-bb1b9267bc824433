@@ -273,5 +273,18 @@
     "pub_iso": "2026-11-02T20:27:56-05:00",
     "guid": "thesis-aapl-2026-11-02",
     "slug": "thesis-aapl-2026-11-02"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Duolingo Q3 2026: Users Surge, EPS Slips, Stock Pops",
+    "description": "Duolingo's Q3 2026: revenue $309.0M (+14%) beat the ~$303M consensus, adjusted EPS $0.54 missed the $0.57 estimate, daily active users accelerated to 64.9M (+29%), and full-year guidance went up. The stock fell 5.4% in the regular session to $128, then jumped about 11% after hours. Max (bull) and Lena (skeptic) debate the user comeback, bookings vs revenue, guidance, and the cracks: lower EBITDA and free cash flow, a DAU bonus accrual, and a gross margin guided down.\n\nChapters: cold open and the numbers; the user comeback; following the money; guidance; the cracks; what management is signaling; verdict.\n\nAfter-hours price: about $142.33 on Nov 3, 2026 (Investing.com), vs a $128 regular-session close. Next-day trading not yet known at recording.\n\nSources:\n- Duolingo Q3 2026 shareholder letter and press release (investors.duolingo.com)\n- Q3 2026 earnings call transcript (StockAnalysis; Investing.com)\n- Investing.com, MarketWatch and Quartr earnings coverage\n\nNot investment advice.",
+    "file": "duol-q3-2026-11-03.mp3",
+    "length": 6431177,
+    "duration": "00:08:56",
+    "pub_iso": "2026-11-03T21:02:00-05:00",
+    "guid": "duol-q3-2026-11-03",
+    "slug": "duol-q3-2026-11-03",
+    "chapters_url": "https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/duol-q3-2026-11-03.chapters.json",
+    "transcript_url": "https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/duol-q3-2026-11-03.transcript.txt"
   }
 ]

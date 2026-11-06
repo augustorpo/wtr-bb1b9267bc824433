@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Signal &amp; Noise Private</title>
     <link>https://augustorpo.github.io/wtr-bb1b9267bc824433/</link>
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:27:56 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:12:42 -0500</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,42 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Duolingo Q3 2026: Users Surge, EPS Slips, Stock Pops</title>
+      <description>Duolingo's Q3 2026: revenue $309.0M (+14%) beat the ~$303M consensus, adjusted EPS $0.54 missed the $0.57 estimate, daily active users accelerated to 64.9M (+29%), and full-year guidance went up. The stock fell 5.4% in the regular session to $128, then jumped about 11% after hours. Max (bull) and Lena (skeptic) debate the user comeback, bookings vs revenue, guidance, and the cracks: lower EBITDA and free cash flow, a DAU bonus accrual, and a gross margin guided down.
+
+Chapters: cold open and the numbers; the user comeback; following the money; guidance; the cracks; what management is signaling; verdict.
+
+After-hours price: about $142.33 on Nov 3, 2026 (Investing.com), vs a $128 regular-session close. Next-day trading not yet known at recording.
+
+Sources:
+- Duolingo Q3 2026 shareholder letter and press release (investors.duolingo.com)
+- Q3 2026 earnings call transcript (StockAnalysis; Investing.com)
+- Investing.com, MarketWatch and Quartr earnings coverage
+
+Not investment advice.</description>
+      <itunes:summary>Duolingo's Q3 2026: revenue $309.0M (+14%) beat the ~$303M consensus, adjusted EPS $0.54 missed the $0.57 estimate, daily active users accelerated to 64.9M (+29%), and full-year guidance went up. The stock fell 5.4% in the regular session to $128, then jumped about 11% after hours. Max (bull) and Lena (skeptic) debate the user comeback, bookings vs revenue, guidance, and the cracks: lower EBITDA and free cash flow, a DAU bonus accrual, and a gross margin guided down.
+
+Chapters: cold open and the numbers; the user comeback; following the money; guidance; the cracks; what management is signaling; verdict.
+
+After-hours price: about $142.33 on Nov 3, 2026 (Investing.com), vs a $128 regular-session close. Next-day trading not yet known at recording.
+
+Sources:
+- Duolingo Q3 2026 shareholder letter and press release (investors.duolingo.com)
+- Q3 2026 earnings call transcript (StockAnalysis; Investing.com)
+- Investing.com, MarketWatch and Quartr earnings coverage
+
+Not investment advice.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/duol-q3-2026-11-03.mp3" length="6431177" type="audio/mpeg"/>
+      <guid isPermaLink="false">duol-q3-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 21:02:00 -0500</pubDate>
+      <itunes:duration>00:08:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/duol-q3-2026-11-03.transcript.txt" type="text/plain" language="en"/>
+      <podcast:chapters url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/duol-q3-2026-11-03.chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Thesis Check: Apple — Record Quarter, Red Thesis</title>
       <description>Thesis Check: Apple (AAPL). This is the first full Apple episode, recorded hours after Apple's fiscal Q4 2026 report (Nov 2, after the close). The thesis is checked against the stop-light framework in the tracker. News window: Oct 5 to Nov 2, 2026. Max (bull) vs Lena (skeptic).

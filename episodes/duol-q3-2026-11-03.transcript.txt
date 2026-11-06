@@ -1,0 +1,69 @@
+Max: Signal and Noise, special edition. Lena, the owl is back. Duolingo just reported its third quarter, and the stock jumped about eleven percent after hours.
+Lena: After falling more than five percent during the day. So it climbed out of a hole it dug this morning. Let's get the numbers on the table first.
+Max: Deal. Revenue, three hundred nine million dollars, up fourteen percent from a year ago. The Street expected about three hundred three million, per Investing dot com. A beat of about two percent.
+Lena: And earnings per share?
+Max: Adjusted E-P-S, fifty-four cents, versus fifty-seven expected. A miss.
+Lena: Thank you. I'll be coming back to that.
+Max: Users. Daily active users, sixty-four point nine million, up twenty-nine percent. Monthly active users, one hundred fifty-three point one million, up thirteen percent. Paid subscribers, thirteen point one million, up fourteen percent. Those come from the shareholder letter. I could not find a clean consensus number for users or subscribers, so we won't make one up.
+Lena: Guidance?
+Max: Fourth-quarter revenue guide, three hundred twenty-two million dollars. MarketWatch says analysts were at about three hundred fourteen point seven. Full-year guidance raised across the board.
+Lena: And the tape. Per Investing dot com, the stock closed the regular session at one twenty-eight, down about five point four percent, then traded around one forty-two thirty-three after hours. That's up about eleven percent from the close, and about five percent above Monday's close of one thirty-five twenty-seven. Tomorrow's regular session hasn't happened yet, so we don't know if it sticks.
+
+Max: Plan for the next ten minutes. Users, money, guidance, Lena's cracks, then a verdict. All figures come from Duolingo's shareholder letter, its earnings release, the call transcript, and coverage from Investing dot com, MarketWatch and Quartr.
+
+Max: The user story is the headline here. D-A-U growth was twenty-three percent in the second quarter. Now it's twenty-nine. That's the second quarter in a row of acceleration.
+Lena: From fifty point five million a year ago to sixty-four point nine million. I'll admit, that's a lot of people doing their daily lesson.
+Max: Here's Luis von Ahn, the C-E-O, from the release, word for word: "We had a great Q3, with DAU growth accelerating to 29% YoY, and all of our key financial metrics coming in ahead of expectations."
+Lena: And the strategy line?
+Max: Also from the release: "This year, we're prioritizing teaching better and user growth, and we're seeing that strategy paying off."
+
+Lena: Okay, but notice the gap. Daily users up twenty-nine percent. Monthly users up only thirteen. So the growth is coming mostly from people using it more often, not from many brand-new people.
+Max: I'd argue that's the better kind of growth. A daily habit is worth more than a monthly visit. The letter says they primarily judge engagement by D-A-Us, with M-A-Us as a supplement.
+Lena: Fair. It's a stickiness story. I'll just note it's not a "whole new audience" story.
+
+Max: Now the money. Bookings, which is cash customers committed in the quarter, three hundred sixteen point one million, up twelve percent. That's four points faster than last quarter.
+Lena: And subscription bookings?
+Max: Two seventy-eight point four million, up sixteen percent. Six points faster than the second quarter. The letter says that's "due in large part to the strength in user growth."
+
+Lena: So why is revenue growth only fourteen percent, and slowing?
+Max: The letter explains it. Subscriptions are recognized over the subscription term, so revenue lags bookings. Their words: "As bookings growth reaccelerates, we expect revenue growth to follow."
+Lena: That's the bull case in one sentence. Okay. Gross margin?
+Max: Seventy-two point nine percent, up forty basis points. Investing dot com's call recap says it was a record, helped by lower A-I inference costs.
+Lena: Balance sheet?
+Max: Cash and short-term investments, one point four billion dollars. Free cash flow, seventy-five point three million.
+
+Max: Guidance. For the fourth quarter: bookings of three eighty-two million, up thirteen percent. Revenue of three twenty-two million, up fourteen percent. Adjusted EBITDA, eighty-four million, a twenty-six point one percent margin.
+Lena: And for the full year?
+Max: Bookings, one point two nine six billion, up twelve percent. Revenue, one point two two one billion, up eighteen percent. Adjusted EBITDA, three hundred twenty-three million, a twenty-six and a half percent margin. The letter says that's up three million from prior guidance.
+Lena: And they say they'll land at the high end of the ranges they set in February. Ten to twelve percent bookings growth, fifteen to eighteen percent revenue growth.
+Max: High end on both. That's a company under-promising and over-delivering.
+
+Lena: Or a company that set a low bar in February. We'll see what twenty twenty-seven looks like. They'll guide that in February.
+
+Lena: My turn. Crack number one: profits went backwards. Adjusted EBITDA was seventy-eight point seven million, down from eighty point zero a year ago. The margin fell from twenty-nine and a half percent to twenty-five and a half.
+Max: Because they're investing.
+Lena: Partly. Per Investing dot com's call recap, operating expenses included an eleven-million-dollar bonus accrual tied to re-accelerating user growth. And the letter says the fourth-quarter outlook includes another accrual for the rest of that company-wide D-A-U bonus.
+Max: So they're literally paying employees for growing users. I kind of love that.
+Lena: It's fine. But it's why E-P-S missed. Crack number two: free cash flow fell about three percent, from seventy-seven point four million to seventy-five point three. Margin down about four points.
+
+Lena: Crack three: gross margin. The letter guides it down to seventy-two percent in the fourth quarter, as they expand A-I features. Quartr's summary ties that to Video Call rolling out to all paid subscribers.
+Max: A-I costs going up because more people use the A-I features. That's a good problem.
+Lena: Crack four: the headline net income looks terrible. Two hundred ninety-two million a year ago, twenty-seven point two million now.
+Max: To be fair, and the letter says this, last year included a one-time tax benefit of about two hundred twenty-three million. Not a real comparison.
+Lena: Right, I'll drop that one. It's an accounting echo, not a business problem.
+Lena: And the bigger picture. Investing dot com puts the fifty-two-week range at eighty-seven eighty-nine to two sixty-eight ninety-seven. Even after tonight, the stock is roughly half its high.
+
+Max: One more thing worth flagging. Von Ahn said, also from the release, that going forward they'll be "gradually putting more focus on growing bookings in ways that preserve the quality of our free experience."
+Lena: Translation: more monetization is coming.
+Max: Carefully. And from the call, per the StockAnalysis transcript, management said operating expenses will likely grow faster than revenue in the fourth quarter, and Adjusted EBITDA will be roughly flat year over year.
+Lena: So the message is: growth now, margins later. Investors cheered tonight. The question is whether they keep cheering when margins stay flat.
+Max: The letter's goal line is "one billion learners."
+Lena: That's a dream, not a number. I'll let it go.
+
+Max: Verdict time. Bull side: daily users accelerated two quarters in a row to twenty-nine percent. Bookings accelerated. Guidance went up, and the fourth-quarter revenue guide beat the Street. The owl is growing again.
+
+Lena: Skeptic side: E-P-S missed, EBITDA and free cash flow shrank year over year, gross margin is guided down, and the after-hours pop came after a five percent drop. One evening of trading isn't a trend.
+Max: So we agree it was a strong quarter for users.
+Lena: We agree it was a strong quarter for users. Whether that turns into profit is the twenty twenty-seven question.
+Max: That's the show. Sources are in the show notes. After-hours prices can move a lot by tomorrow's open. This is not investment advice.
+Lena: Now go do your daily lesson before the owl finds you.
