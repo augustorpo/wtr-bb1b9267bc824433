@@ -1,0 +1,339 @@
+Max: Texas went blue. Like, actually blue. Governor, Senate seat, the whole thing. And the besties watched it happen live, on air, with a senator, a former White House chief of staff, the founder of Polymarket, and Tim Dillon and Taylor Lorenz on the same call.
+Lena: And Chamath, in real time, explaining why a Democratic governor in Texas is the one thing that can sink the AI trade. So let's do it. Three things that matter this week.
+Max: One. The blue wave was real, and the betting markets called it early. Polymarket had the sweep in the low eighties an hour earlier and ninety three percent by the time they went live. Democrats ended up with both chambers of Congress.
+Lena: Two. The AI trade has a new risk, and it's political. Data centers were on the ballot, basically. Brad Gerstner called in with after-hours numbers, Chamath kept hammering Texas, and on Wednesday the market split the AI trade in half. The neoclouds got hit hard. The big incumbents actually rallied.
+Max: Three. In the year of a blue tsunami, California's billionaire tax looks like it's going down. Brad predicted it on air. As of Friday night it's losing, roughly fifty four to forty six, with votes still being counted.
+Lena: Which is a weird combination. Voters threw out a lot of Republicans, and they're also saying no to a tax on billionaires. We'll get into why that's not a contradiction. Or maybe it is.
+Max: Okay, quick housekeeping. Only one new All-In release since our last recap. Not the usual weekly show. It's a two-hour election night livestream from Tuesday, November third. It started just after eight P M Eastern.
+Lena: The regular weekly episode hadn't landed when we put this together. If it drops, we'll pick it up next week. So this whole episode is the livestream. Which honestly is plenty.
+Max: Plenty. Jason was hosting from Texas, wearing a red tie, which, foreshadowing. Chamath and Friedberg were there. Sacks couldn't make it.
+Lena: And the guest list. Senator Ted Cruz. Rahm Emanuel. Shane Coplan from Polymarket. Tim Dillon and Taylor Lorenz together, which was a choice. Brad Gerstner. And Ben Shapiro to close it out.
+Max: Plan for today. We go topic by topic. The wave itself, Texas and the data center trade, the Anthropic I P O question, why Republicans think they lost, Rahm's playbook for Democrats, Polymarket, the vibes segment, the billionaire tax, Ben Shapiro's autopsy, and then a twenty twenty eight draft board, because of course they did one.
+Lena: And we've got one call-in, a made-up Texas power and permitting consultant, because somebody has to tell us how a moratorium actually works.
+Max: Usual rules. Numbers rounded. Anything a guest says is their claim unless we tell you we checked it. And when we couldn't tell who was talking, we'll just say one of them.
+Lena: Not affiliated with All-In. Let's go.
+
+Max: So set the scene. Seven oh four P M in Texas, eight oh four on the East Coast. Polls had closed in more than a dozen states. Georgia, Virginia, Florida, Ohio, North Carolina.
+Lena: And Jason opens with the line of the night, basically. Still early, but it does not look like a blue spritz. It looks like a blue tsunami.
+Max: A blue spritz. I love that. That's a drink at a bad brunch.
+Lena: It's a drink you regret. Then he pulls up Polymarket. The market on whether Democrats sweep both chambers. He says an hour earlier it was in the low eighties, and now it's at ninety three percent. So up about ten points in an hour. And he points out the volume on that one market was about sixty nine million dollars.
+
+Max: And his point is, okay, maybe you don't trust polls anymore, but when that much money is on the line, people tend to take it seriously.
+Lena: Which, we'll get to Shane Coplan later, and we'll poke at that.
+Max: Before that, though, there's a really honest moment from Chamath right at the top. Jason asks how he's feeling, and he says he's genuinely surprised at where the betting markets, the polls and the exit polls are putting this. He calls it an enormous shift in the sentiment of the country, if it holds.
+Lena: And he's careful. He keeps saying if it stands, most polls haven't closed. But you can hear it. He did not expect this.
+Max: And Jason gets a little jab in. He says he fled California three years ago, and asks Chamath about choosing to stay and fight.
+Lena: And Chamath says he stayed for his family and to keep building. And if he has to pay the billionaire tax, he'll pay it and move on. But he thinks it's a slow burn for the state, not a cliff. Hold onto that one, we'll come back to it.
+Max: So what actually happened, now that the counting's mostly done? We checked this part. Democrats won the Senate, fifty four to forty four as of Friday, counting two independents, with a couple of races still out. That's a gain of seven seats.
+Lena: And the House isn't close. Ballotpedia had Democrats at two hundred fifty or more seats on Friday afternoon. And in Texas specifically, it wasn't just the top of the ticket. Democrats won the governor's race, the Senate seat, every statewide executive office, and they flipped the Texas House.
+Max: That's a sentence nobody would have said a year ago.
+Lena: Nobody. James Talarico beat Ken Paxton for Senate, roughly fifty five to forty three. Gina Hinojosa beat Greg Abbott for governor, about fifty three to forty six.
+Max: And in Ohio, which Chamath later calls Republican plus ten, Amy Acton won the governor's race and Sherrod Brown won the Senate special. In Michigan, Abdul El-Sayed won the Senate seat.
+Lena: Okay, so here's my skeptic hat. On the stream, a lot of what they said was live, early, partial. So when someone says Florida is basically tied, or the Senate is forty three to thirty one, that's a snapshot at nine P M. Don't read too much into the early counts.
+Max: Totally fair. But the big picture they were reacting to turned out to be right. And that's the frame for everything else tonight. The question isn't really whether it was a wave. It's what it means for the economy, for AI, and for twenty twenty eight.
+Lena: And for the data centers. Always the data centers.
+Max: Always the data centers. That's next.
+
+Lena: Okay. The moment. About an hour into the stream, right after the Polymarket segment, Jason looks at the screen and says the Texas governor's race just flipped. On Polymarket, in the last thirty or forty minutes, toward Gina Hinojosa.
+
+Max: And the reaction is perfect. Somebody goes, oh no, we're not going to have Abbott? And then Chamath, who's been waiting for this all night, jumps in.
+Lena: First he hedges. He says he looked at the districts, the blue districts have already reported, he doesn't think it holds.
+Max: Which, spoiler, it held.
+Lena: It held. But then he says, if it does, remember what I told you. There's only one thing that sinks the U S economy. It's the AI trade. And the only way to sink the AI trade is to sink the data centers. And all the power that matters right now is in West Texas.
+Max: And Jason just goes, oh Lord, here we go.
+Lena: And then something about getting your checkbooks out and maybe needing to go to Singapore or Tokyo. I'm not totally sure who said that part, but the vibe was clear.
+Max: Okay, so let me make the bull case for why this is less scary than it sounds, and then you tear it apart.
+Lena: That's the job.
+Max: Chamath's argument has a very specific mechanism. Later, when Brad Gerstner joins, Chamath lays it out. He says Abbott had introduced a moratorium through the T C E Q, the state's environmental regulator. Think of it, he says, like California's version of slow-it-down permitting. The expectation was Abbott wins, lifts the moratorium, everybody goes back to building.
+Lena: And if Abbott loses, the moratorium could stay, and more rules could pile on top.
+Max: Right. That's his claim about the T C E Q piece, and we didn't independently confirm the details of that moratorium, so treat it as his read. But here's what we did confirm. Hinojosa campaigned on tougher limits for data centers, including an immediate moratorium. That's from C N B C's coverage.
+Lena: So the fear isn't made up. She said it out loud.
+Max: She said it out loud. And Chamath asks Brad the perfect question. Do you have a model where you've sensitized how many gigawatts get pulled out in a world where Democrats run Texas?
+Lena: And Brad says, not Texas specifically. But he gives the national picture, and this is the number that matters. The consensus forecast, he calls it the Semi Analysis, Dylan Patel forecast, is about forty three gigawatts of new data center capacity coming online in twenty twenty seven.
+Max: And for scale, he says the total installed in the U S by the end of this year is about thirty eight gigawatts.
+Lena: So the forecast is that next year alone, we add more than everything we've ever built. Which already sounds aggressive.
+Max: And Brad says, I said at the All-In Summit we might only get about half of that, and I got a lot of blowback on Twitter. And now, with the blue wave, he thinks at least ten to fifteen gigawatts of the expected build doesn't come online.
+Lena: Okay, this is where I push. Ten to fifteen gigawatts out of forty three is a quarter to a third. That's a lot. But it's still a gigantic build. He even says later, if we build twenty seven gigawatts, that's roughly everything we have today. He thinks we probably get past thirty.
+Max: That's my point! Even in the bear case, it's enormous.
+Lena: It's enormous for the market as a whole. It's not enormous for the companies that borrowed money assuming the high end.
+Max: Fair. And that's exactly what happened on Wednesday. So Brad, on the stream, gives live numbers. He says overseas, Japan, Korea, A I stocks were down five to ten percent in a couple of hours. After hours, he says Nvidia was down about two percent and CoreWeave about six.
+Lena: And he pulls up a slide from the Summit, the flight path for the rest of the year. He says when they showed it, the Nasdaq was up fifteen percent for the year. On election night, it was up eleven. And if it opened where futures were pointing, up eight.
+Max: So from fifteen to eight, that's about half the year's gain gone. And he says it could test flat for the year.
+Lena: Now, what actually happened Wednesday. We checked this. C N B C called it a sharp split in the AI trade. CoreWeave fell almost ten percent. Iren fell about eleven. Nebius about six and a half.
+Max: And Nvidia? Only about one percent down.
+Lena: Right. And here's the twist nobody on the stream predicted. Amazon was up about seven percent. Microsoft up more than six. Alphabet almost four.
+Max: Which is wild. The companies spending the most on data centers rallied.
+Lena: Jim Cramer's take, as C N B C wrote it up, was that the market likes the idea of spending discipline being forced on the hyperscalers. They already have the data centers, they already have the customers. If building slows, their cash flow recovers.
+Max: So it's not "AI is dead." It's "if you already own the capacity, you're the incumbent, and incumbents love scarcity."
+Lena: Exactly. And the ones that got hurt are the newer, more leveraged builders, plus the power equipment suppliers. Eaton and G E Vernova were down nine and ten percent.
+Max: And there's a scale number too. Wells Fargo estimates Texas is about twenty seven percent of planned U S data center gigawatts. Bernstein says about a quarter of construction.
+Lena: And UBS, per Business Insider, says about thirty percent of the new data centers expected over the next two years could be affected by this result. And an N B C exit poll found more than three quarters of voters opposed new data centers being built in their own communities.
+Max: Okay, that last one is the real headline. Three quarters.
+Lena: That's the part that worries me more than Texas. Texas is one governor. Three quarters of voters not wanting one next door is a national problem.
+Max: Alright. I think we need someone who actually does this for a living.
+
+Lena: Okay, our call-in. Made up for this episode, so she speaks for no real firm. Ruby has spent years helping companies site big industrial projects around Austin, and lately it's all data centers. Ruby, you there?
+Ruby: I'm here. I've had my phone ring more since Tuesday night than in the whole month of October.
+Max: I bet. So, first question. Chamath's claim is basically, Texas governor flips, the data center build stalls. Is that how it works?
+Ruby: It's how it feels on Wednesday morning. It's not how it works on paper. A governor matters a lot for the regulators, for the tone, for what gets fast-tracked. But in Texas, the new governor doesn't take over until January, and the legislature still has to go along with a lot of this.
+Lena: And the legislature split, right?
+Ruby: It split. Democrats took the Texas House, but Republicans held the state Senate, nineteen to twelve, according to the Texas Tribune. So you've got divided government in Austin for the first time in a long time. That's not a green light, but it's not a brick wall either.
+Max: So what changes first?
+Ruby: Honestly, the money, not the rules. Before anyone passes anything, lenders start asking harder questions. Jim Cramer made that point on C N B C. He compared it to natural gas pipelines a few years back. Not banned, just harder to finance.
+Lena: Which is why the neoclouds got hit and the big guys didn't.
+Ruby: Exactly that. If you're a giant company paying for your own campus out of cash flow, a slower permit is annoying. If you borrowed against a schedule, a slower permit is a problem.
+Max: Okay, let me push the bull side. Brad said Anthropic was making a ton of revenue on maybe five hundred megawatts of inference. If the labs don't need that much, isn't this mostly a problem for landlords?
+Ruby: That's his claim, and it's a smart framing. Inference is the part that makes money, and it's smaller. But nobody's building just for today's inference. They're building for the training runs and for the demand they hope shows up. That's the part that gets squeezed.
+Lena: Here's my question. That exit poll, three quarters of voters don't want a data center in their community. Is that new?
+Ruby: The feeling isn't new. The organizing is. C N B C noted voters also passed local ballot measures restricting data center projects around the country on Tuesday. That's what I watch. A governor is one person. A county commission that just got a mandate is a lot harder to lobby.
+Max: Is there anything that makes this better for the industry?
+Ruby: Projects already under construction, with power contracts signed, mostly keep going. One bank analyst wrote that existing backlogs should still convert. The risk is the next wave, the stuff still on a slide deck.
+Lena: Last one. What should listeners actually watch?
+Ruby: January, when the new governor is sworn in and can name emergency items for the session. And whatever the state's environmental regulator does about pending permits between now and then. That's where you'll see it first.
+Max: Ruby, thank you. Go answer your phone.
+Ruby: It's ringing right now. Bye, y'all.
+
+Max: Okay, still to come, Ted Cruz on why Republicans got wiped out, Rahm Emanuel's plan for Democrats, and Tim Dillon on a data center in Central Park. But first, two money questions that came up with Brad.
+Lena: One of the besties asks the obvious one. What happens to the Anthropic I P O? Does it still go, but get repriced?
+Max: And Brad's answer is basically, it still goes. Everything clears at a price. He thinks this pushes it toward the lower end of whatever range it was going to price at. But he says there's still pretty serious demand.
+Lena: And then he makes an argument I actually found interesting. He separates two layers. The infrastructure trade, and the labs. His claim is that intelligence doesn't need as much compute as people think. He says Anthropic hit about a hundred billion dollars in run rate revenue this year on about two gigawatts of compute, and that the part dedicated to inference, the part that actually generates revenue, was probably about five hundred megawatts.
+Max: So if you slow down the build, the labs might be fine. Maybe even better off, because compute gets scarce and their pricing holds.
+Lena: Those are his numbers, and we haven't seen them in a filing in that form, so treat them as his estimate. But the logic is clean. A slower build is a problem for the people selling picks and shovels on credit. It's less obviously a problem for the people selling the gold.
+Max: And then the disclosure. Brad says his firm hopes to be one of the largest buyers in the I P O.
+Lena: Which, good for him for saying it. But that's a guy who wants the I P O to go well telling you the I P O will go well.
+Max: That's fair. Okay, second question. Somebody asks him, close your eyes, don't be too precise, give me a number. What does this election do to G D P growth over the next twelve months?
+Lena: And Brad says, if you look at this year, about seventy five percent of G D P growth came from A I infrastructure.
+Max: That's his claim, by the way. It's a big one.
+Lena: It's a big one. And then he says, if you slow that down by half, maybe a fifty basis point headwind to growth next year. Half a percentage point.
+Max: And someone goes, only half a point? Things just keep rolling?
+Lena: And he says, kind of, yes. Because even the slowed-down build is enormous.
+Max: Here's why I like that answer. In the Ted Cruz segment earlier, the line was that if we halted all data center construction, that would likely put the economy into a recession. Brad's version is much more measured. Not halted. Slowed. And the cost is real but not a catastrophe.
+Lena: And I'd say both of those are guesses dressed up as numbers. Seventy five percent of growth from one sector is the kind of stat that depends a lot on how you count. But the direction is right. If the data center build is a big chunk of growth, then politics just became a macro variable.
+Max: Which is the line I keep coming back to. A year ago, nobody on Wall Street thought a Texas governor's race was a macro event.
+Lena: And now it knocked almost ten percent off CoreWeave in a day.
+
+Max: Okay, the first guest of the night. Senator Ted Cruz. And Jason opens by teasing him about some "leaked audio" where Cruz sounded worried about the election.
+Lena: And Cruz's comeback is great. He says, it wasn't leaked, I said it on my podcast. That I do every week. It's like saying your comments on All-In were leaked.
+Max: And somebody fires back, leaked from Apple Podcasts and Spotify. They were both involved.
+Lena: A coordinated leak. Okay, the substance. Cruz is very worried, and he explains why with a nice bit of campaign nerd math.
+Max: The four R's and three R's.
+Lena: Right. Campaigns sort voters by how often they show up. A four R is someone who voted in four of the last four Republican primaries. Same for Democrats with D's. And he says in Texas, about three quarters of the most reliable Democrats voted early, versus about half of the most reliable Republicans.
+Max: So if the election had ended the day before, he says, they were facing a bloodbath. His word.
+Lena: And the good news, from his side, is that Republicans had a lot more reliable voters left to show up on Election Day. The question was turnout. And, well. We know how that went.
+Max: Then someone asks him the big structural question. Is this a verdict on the president and the economy, or just the usual off-year swing?
+Lena: And he gives the textbook answer, but it's a good one. The party out of power is angry, motivated and unified. He says the left hates Trump with, quote, "a fury that could ignite a thousand suns." And hatred papers over their differences.
+Max: Meanwhile his side is complacent, because they control everything, and divided. He names examples. Conservatives mad Congress didn't pass the Save America Act. Moderates in Texas mad that John Cornyn lost his primary.
+Lena: And then a really human detail. He says he did seventeen rallies in nine states in fourteen days, and he can barely speak.
+Max: You could hear it, too. His voice was gone.
+Lena: Okay, then the scary part. If Democrats take Congress, what happens? Cruz says almost total legislative gridlock. Confirmations grind to a halt. He predicts a Democratic Senate would stop judicial confirmations entirely, and that if there's a Supreme Court vacancy, they'd keep it open for two years.
+Max: And impeachments. He says the House would impeach Trump, maybe multiple times. Subpoenas. Investigations of family and cabinet members. He even predicts an impeachment of Pete Hegseth in the lame duck.
+Lena: These are predictions from a partisan guy on a bad night, so file them that way. But one of the besties actually agrees with the game theory. He says, we talked about this on the pod last week. The Democratic play is to subpoena everybody, leak documents, create as much fear and uncertainty as possible, freeze the capital markets, and if that causes a recession, that's the best setup to run on.
+Max: And then he brings up Peter Thiel. He says Thiel argued in an interview that a blue tsunami would actually unshackle Democrats to run their most extreme candidate, because they'd see it as legitimizing the far left.
+Lena: And Cruz agrees. He says the two candidates he worried about most were El-Sayed in Michigan and Talarico in Texas. And if El-Sayed wins Michigan, it makes A O C much more likely to be the nominee in twenty twenty eight.
+Max: Both of them won, by the way.
+Lena: Both won. And Cruz names his top three Democrats for twenty eight right now. A O C, Gavin Newsom, and Jon Ossoff. Keep that in your head for the draft board later.
+Max: And then Cruz on AI. This is the part that matters for markets. He says if it's a big Democratic night, it's a very bad night for AI and data centers, because, in his words, Democrats have decided data centers are the devil. And he calls slowing them down an in-kind contribution to China.
+Lena: Strong words. And then Jason, in his red tie, has the moment of the segment. The Texas Senate result comes up on screen and he goes, don't blame me, I just got here.
+Max: I didn't bring California to Texas. He actually said that.
+Lena: But then Jason does something I liked. He asks Cruz for self-reflection. What should Republicans learn? What should the president have done better in the first half?
+Max: And Cruz says, I don't want to overreact until all the votes are counted. Fair enough. But then he actually answers.
+
+Lena: And his answer starts with farmers. He says farmers and ranchers are really unhappy. He says diesel is six or seven dollars a gallon, fertilizer has gotten really expensive, and tariffs have hit them hard.
+Max: And those are people who normally show up big for Republicans, both turnout and margin.
+Lena: Then suburban voters. He points at Georgia and Arizona, which he says were bright red a few years ago and are now purple at best, because suburban voters around Atlanta and Phoenix turned against the president.
+Max: And then the one he clearly cares about personally. Hispanic voters in South Texas. He says in his re-election two years ago, he won statewide by nine points, about a million votes. And he carried Hispanic voters across Texas by six points, which he says no Republican Senate candidate had ever done.
+Lena: And he flipped the Rio Grande Valley red. His claim. And his worry was, did those voters stay home, or go back to voting the way their families had for a hundred years?
+Max: And from the Texas results, it sure looks like a lot of them went back.
+Lena: Okay, and then Friedberg jumps in, and this is the most striking number of the first hour. He says he works in agriculture, and that about ninety seven or ninety eight percent of farms lose money now.
+Max: Ninety seven percent. That's his claim, and it's huge.
+Lena: It's huge, and I'd want to know what he's counting. Row crop farms? All farms? Before government payments? He didn't say. But his explanation is concrete. The U S is the world's largest exporter of agricultural products. China was the biggest buyer, and he says that buyer basically disappeared.
+Max: And then input costs. He says fertilizer, the number one cost for row crops, doubled in price. Fuel doubled. So structurally, farmers can't make a profit, and they've been kept afloat with ad hoc government checks over the last two years.
+Lena: He calls it a crisis in agriculture. And he says you can see it in the rural results.
+Max: You know what I find interesting? Friedberg is usually the science and agriculture guy on the show. And here he's basically saying the election was decided in the fertilizer aisle.
+Lena: The fertilizer aisle. That's a good line. But yeah, I think that's the real lesson of this segment. Everybody on the panel kept coming back to costs. Diesel, fertilizer, groceries, health care. Not ideology.
+Max: Which sets up Rahm Emanuel perfectly, because his whole pitch is, okay, you won on costs and corruption. Now what?
+
+Max: So Rahm Emanuel. Former mayor of Chicago, former ambassador to Japan, and Obama's chief of staff. And he's got a history with Friedberg on the show, Jason makes a joke about that.
+Lena: After some technical difficulties. A classic livestream moment, the guest is there, the guest is not there.
+Max: Rahm's opening line is the thesis of his whole segment. He says Democrats have to make this election "not transactional but transformational."
+Lena: And what he means is, a lot of independents and what he calls non-MAGA Republicans, the John McCain, Mitt Romney types, voted Democrat this time. Don't just use them and dump them. Affirm that vote.
+Max: And then he gets very specific. He wants a comprehensive ethics bill that covers all three branches. Ban stock trading. Ban participation in prediction markets for the executive branch.
+Lena: Hold that thought for when Shane from Polymarket shows up.
+Max: Mandatory blind trusts for anyone worth over a million dollars. Term limits, or an age-out, he says seventy five. And what he calls the Jared Kushner rule. You can't be in government and take foreign money, and after you leave, two years before you can take foreign investment.
+Lena: And he has a great campaign line about it. He says sailors on the aircraft carrier Abraham Lincoln were at sea for three hundred twenty two days straight, with broken bathrooms and rationed food, while Congress was in session just shy of a hundred days. So, show up like the kids on the Lincoln.
+Max: That's a good line. That's a politician who's done this before.
+Lena: And a second point, candidate quality. He says in Florida, Texas, North Carolina and South Carolina, the president picked the Republican Senate candidate, and it put the weakest foot forward. He mentions Talarico against Paxton instead of the incumbent, Cornyn. And Roy Cooper in North Carolina, which, he says, just got called while he was talking.
+Max: Then Chamath asks him to double click. He says, wait, your strategy is that Democrats with majorities should actually legislate, not just run out the clock for twenty eight? Why?
+Lena: And Rahm's answer is all political chess. Pick issues that unite Democrats and divide Republicans. He says ethics reform will get half the Republican caucus to vote with you. Impeachment just makes Republicans close ranks.
+Max: And he's fine with hearings. Follow the money, he says. But the vote that matters is the one that shows you're governing.
+Lena: He gives two history examples. Nineteen ninety one, George Mitchell sends the first President Bush a tax and budget bill, Bush breaks his pledge, gets a primary challenge from Pat Buchanan, and that sets up Bill Clinton. And two thousand seven, Democrats send the second President Bush a kids' health care bill, a bunch of Republicans vote with them, and he says it becomes the second bill Obama signs as president.
+Max: Then Friedberg, we're pretty sure it's him, pushes back, and I think this is the best exchange of the segment. He basically says, chasing corruption is good politics. But what about cost of living? Wages, affordability? What actually helps people?
+Lena: And Rahm says you're treating those as separate. They're heads and tails of the same coin. And then he has a line that's clearly been road-tested. The president gets a gifted Qatari Air Force One, he says it's worth four hundred fifty million dollars, and you get four fifty a gallon gas. He's fixated on his arch, and your family can't afford a meal at the Golden Arches.
+Max: Okay, that's a good line. I hate how good that line is.
+
+Lena: And then his real point. He says the number one inflation issue isn't gas or groceries. It's health care. He claims forty million Americans put health care costs on a credit card, that it's the number one reason for personal bankruptcy, and that premiums are rising double digits while incomes are stagnant.
+Max: And then he goes after insurers. He says the insurance business model is built around the word no, while your premium is built on the premise of yes. And he claims about twenty five percent of hospital costs go to administering insurance claims.
+Lena: And one of the besties adds a twist I thought was sharp. If insurers effectively take a percentage of the cost, then their business model is aligned with everything getting more expensive.
+Max: And Rahm puts a number on the opportunity. He says the insurance claims area is about one and a half trillion dollars, and taking ten percent out, a hundred fifty billion, is "really not hard." Mostly around pre-approvals, he says. Plus drug reimportation and price transparency.
+Lena: Okay, skeptic mode. Every one of those numbers is his, and some are the kind of stat that gets repeated a lot without anyone checking the definition. But the direction makes sense, and it's notable that nobody on the panel really pushed back on health care as the issue.
+Max: Two quick ones. Someone asks if he'd eliminate the filibuster. He says, as a former House member, everyone in the House thinks the Senate is a constitutional mistake. But no, he wouldn't.
+Lena: And Jason asks how to get the country back to the center. Rahm says seek common ground, but know how to hold your ground. He calls Gingrich's nineteen ninety five shutdown an absolute mistake, and points out they got to a balanced budget deal a few years later anyway.
+Max: And Jason signs off by joking that Rahm hasn't announced anything yet, but he's sure he's thinking about it. Rahm, wisely, was already gone.
+
+Lena: Okay, so after Rahm leaves, the besties actually debate his plan, and I think this is one of the more useful ten minutes of the night.
+Max: Jason kicks it off asking about lawfare. Both parties going after each other in court, and whether there's any off ramp.
+Lena: And Chamath says something you don't hear from him that often. He says, what Rahm said is actually quite smart, and I hadn't considered that option.
+Max: Credit where it's due. That's a nice moment.
+Lena: His default assumption had been that Democrats would go scorched earth. Slow the president down, put a scarlet letter on as many people around him as possible, so they're damaged going into twenty eight.
+Max: And now he's saying there's a second path. Reward the swing voters who came over by actually legislating on what the candidates ran on.
+Lena: But his catch is, the Democratic candidates who won are all over the map. It's not clear what the legislative through line is. And then his key line. You can't do both. The horsepower it takes for one path doesn't leave room for the other.
+Max: And he floats an off ramp. Maybe the president, thinking about his legacy, negotiates a set of down-the-middle ideas that give Democrats a win and give him a win too.
+Lena: Jason's take is, go with the second path. And he says the socialists and the left did a good job saying the same thing over and over. Affordability, stop foreign wars, raise the minimum wage.
+Max: And then he makes the argument he's been making for a while. Last time Democrats tried to put Trump in jail, it made him a martyr. So being the anti-Trump party without ideas is a mistake.
+Lena: Then Friedberg. And Friedberg is darker. He thinks twenty twenty seven is the year the Democratic nominee effectively gets selected. And he thinks Democrats will look for someone angry and strong who speaks for people who feel unheard. And he says, as he's said for a while, he thinks A O C ends up on the ballot.
+Max: And someone says, that would be disastrous for them. And Friedberg says, I don't know if that's true. You could have said the same about El-Sayed two years ago.
+Lena: And then Friedberg's big economic point, which is very on brand. He thinks the cost of living is too high mainly because government is too big a share of G D P and spending. And that because people feel stuck, he says he doesn't think there's a good alternative to socialism for most Americans right now. Meaning, that's how it looks to voters, not that he's for it.
+Max: That's a bleak read. So the bull in me wants to say, Jason's big tent advice is the hopeful version. He says look at what Trump did. Brought business leaders, celebrities, everyone to Washington. Democrats had purity tests, kicked people out, and kept losing. Maybe they learn that.
+Lena: And the skeptic in me says, both parties say "big tent" right after they win and "purity" right before a primary.
+Max: That's depressingly accurate.
+Lena: Okay, quick reset, because we're about halfway. So far: the wave was real, Texas flipped, the AI trade split in two, and Rahm's pitch is ethics and health care. Still to come, Polymarket under cross examination, Tim Dillon and Taylor Lorenz, the billionaire tax, Ben Shapiro, and the twenty twenty eight board.
+Max: Polymarket first.
+
+Max: So Shane Coplan, founder of Polymarket, joins. And the first two minutes are pure Knicks.
+Lena: Pure Knicks. Shane can't unmute, Jason yells "Knicks in five," and somebody jokes that Shane has the technical skills of his grandfather.
+Max: And apparently the Knicks won the title, and both Jason and Shane made the trip to San Antonio. Jason says he was three rows back and Shane got onto the floor.
+Lena: Okay, then Jason asks the hard question, and credit to him, it is the hard question. Can someone manipulate these markets? Could, say, the Russians create a bunch of accounts, bet on one party, create momentum, and depress turnout somewhere?
+Max: And Shane's answer is the clearest explanation of how this works I've heard. Each market is basically shares in an outcome. If the candidate wins, the share pays one dollar. So if it trades at twenty five cents, that implies about a twenty five percent chance.
+Lena: And the key misconception, he says, is that people think it's a seesaw of how much money is piled on each side. It isn't. It trades like a stock. When you buy, someone else has to sell to you.
+Max: So if a whale tries to push the price up, what they're really doing is paying more than the market thinks the share is worth. And then, he says, there's a flood of pro traders, market makers and political modelers who notice almost instantly and take the other side.
+Lena: And he cites the old academic argument for prediction markets. The more people try to manipulate them, the more money there is for people who price things correctly, so the market gets more accurate, not less.
+Max: That's the bull case in one sentence. Manipulation is a subsidy for the honest traders.
+Lena: Okay, but here's my pushback, and one of the besties actually raised it. What about the Latin American elections? He says Polymarket was on the wrong side of a few of those, consistently.
+Max: And Shane's answer is the probability lecture. Seventy percent doesn't mean it's a lock. Flip that coin ten times and the other side wins three. The favorite losing doesn't mean the market was wrong.
+Lena: Which is true. And also exactly what you'd say if your market was wrong.
+Max: Both can be true.
+Lena: Both can be true! To be fair, he gives a really interesting example from Brazil. He says when the Supreme Court there granted an extension on election night, Bolsonaro's odds tanked right away, because traders read the extension as a sign something big was coming. He says he's not going to opine on Brazilian politics, but the market was a real-time barometer of how people interpreted the news.
+Max: That's actually the strongest version of the argument. It's not a crystal ball. It's a live read of what people with money on the line think the news means.
+Lena: Then someone asks what's surprised him most. And he talks about oil. If you ask five smart people why oil moved, you get several different answers. Everyone has a little prediction market in their head. His pitch is that Polymarket lets you trade the inputs, not just the price.
+Max: And then LeBron. Someone asks about the LeBron partnership, and Shane, a Knicks fan, says he'll never cheer for LeBron at the Garden, but he's the goat.
+Lena: And that spirals into a Michael Jordan debate, and Shane admitting he was too young to ever see Jordan play at the Garden. He used to scroll StubHub dreaming.
+Max: Okay, so here's my reaction to the whole segment. This was the night Polymarket looked smartest. Sweep odds at ninety three percent before most polls closed. And the Texas governor flip showed up on it live, mid-stream.
+Lena: And here's mine. Remember Rahm, an hour earlier, wanted to ban prediction market participation for the executive branch. Nobody connected those dots on the stream. If these markets become the scoreboard everyone watches, the question isn't just manipulation. It's who's allowed to bet, and what they know.
+Max: That's a really good point. Insider trading on an election is a whole different problem than a Russian bot farm.
+Lena: Right. And Shane wasn't asked about it.
+
+Max: Okay, the chaos segment. Jason introduces the next guest as, and I'm quoting the bit, "Sloppy Steve Bannon," a guest the other besties supposedly banned.
+Lena: And it's Tim Dillon. And Tim's first line is that this is the last time he'll see them before they're brought before a tribunal. Their number one podcast scam has had a good run.
+Max: Which, honestly, is the energy you want at nine P M on election night.
+Lena: But then one of the besties asks him a serious question. Very precisely, what is this? A vote for Democrats? Against Trump? Against the cost of living?
+Max: And Tim gives a genuinely sharp answer. He says, it's been said before, we have an economic war that's disguised as a culture war. People who don't feel economically secure attach meaning to cultural fights.
+Lena: And he says it's a vote against the cost of living, against corruption, and against what he says Trump has unfortunately become, which is the system. The same people who elected Trump for cheaper gas and cheaper groceries, and who didn't want a war with Iran.
+Max: And then on the Democratic side, he talks about the voters behind the New York mayor, Mamdani. Four-year college grads with student loans, in an expensive city, who feel like they're losing ground and don't think they'll ever own anything.
+Lena: That's a point that comes up all night, actually. It's not just the working class. It's the indebted white collar kids.
+Max: And then the joke of the night. Tim says, I know what you guys think. Let's build another data center on top of all the angry people.
+Lena: And someone goes, they could work in the data center! And then, we were thinking Central Park.
+Max: And Tim says, I know you're kidding about the data center in Central Park, but there was a sparkle in Chamath's eye.
+
+Lena: The sparkle. And Chamath actually turns it into a real point. He goes back to the Gilded Age. He says the leading industrialists of that era understood that unless economic gains were broadly felt, nobody wins, and they each took on responsibility for some kind of societal good. Rockefeller, Carnegie, J P Morgan.
+Max: And now, he says, you have a handful of companies, really a handful of thousands of employees, winning these totems, he credits that word to Friedberg, and no broad-based gains. And voters keep looking for a more extreme antidote until they break the system.
+Lena: And Tim agrees. He says the Republicans had nothing to sell two years in. Democrats lost last time selling symbolism, democracy on the ballot. Now Republicans are selling symbolism while people go to the gas station and pay rent.
+Max: Then Taylor Lorenz joins, and Jason opens by teasing her for supposedly getting "based" lately. And she says, I love the woke nonsense, let's get woke again, no one cares, it's all vibes.
+Lena: I respect the commitment. But then she's actually pretty serious. She agrees with Tim. Economic populism. People want to know, can I afford groceries, can I afford a house, are we sending money to Iran. She thinks the Democratic establishment has done a bad job speaking to that.
+Max: And then the best actual debate of the segment. Free speech. Somebody asks whether, with the power shift, people will start self-censoring again.
+Lena: And Taylor says, let's not pretend it's been free speech. She says both parties have embraced censorship. She points at bipartisan bills like the Kids Online Safety Act and what she calls the Screen Act, and says the one bill she likes, from Ted Cruz and Ron Wyden, to stop the government from pressuring tech companies to censor, isn't going anywhere.
+Max: And Tim pushes back. He says Trump's enduring legacy, if we don't end up in a nuclear war, his words, is that he opened up the channels. Made it easier to say what you want online.
+Lena: And Taylor says, how can you say that when the F C C chair, Brendan Carr, is threatening everyone? And she goes after the state attorney general settlements with Meta. Her claim is that they're ushering in national I D and age verification, so you won't be able to post anonymously.
+
+Max: And then, we think it's Tim, though the audio doesn't make it totally clear, there's a concession. He says he doesn't like one family, the Ellisons, owning so much of American media, and maybe we need anti-monopoly rules there too. And Jason agrees the consolidation has been fast and furious.
+Lena: Okay, and then the question that matters for the next chapter. One of the besties asks: what's the right thing to do about oligarchy? About concentrated wealth?
+Max: And Tim says, you have to look at how we tax investment income versus work. The asset-owning class has done very well, wage earners haven't. And he says, at a certain level of extreme wealth, wealth taxes are pretty understandable to most people.
+Lena: Which, in a room with Chamath, on the night California votes on a billionaire tax, is a bold thing to say.
+Max: Brave man. Let's talk about that tax.
+
+Lena: So, Proposition forty in California. A one-time five percent tax on wealth over a billion dollars, for individuals and trusts, with the money going to health care, food assistance and education. That description is from the ballot summary coverage, not the stream.
+Max: And on the stream, it comes up three times. At the very top, with Chamath. Then Brad Gerstner makes a prediction. And then Tim Dillon, like we just heard.
+Lena: Let's start at the top. Right as the stream opens, one of the besties is mid-answer, and the argument is that the issue isn't paying taxes. It's the idea of taxing assets, including illiquid ones, after you've already paid income tax. He says it's a mechanism that leads to ruin, and could be the ruin of Silicon Valley, California, and potentially the country.
+Max: And then Chamath, who lives in California, says what we mentioned earlier. If he has to pay it, he'll pay it, and move on. But he thinks it creates a slippery slope for the incentive to build there. Not an overnight collapse. A slow burn and decay of the state.
+Lena: And he says he hopes forty fails.
+Max: Then Brad, at the end of his segment, asks if they've talked about Prop forty yet. And they say, no, California's polls don't close for another hour and fifteen minutes.
+Lena: And Brad makes the call. He says, think about it. All over the country, there's a referendum on AI and a blue tsunami. You'd think a tax on billionaires would win going away in California. And he predicts it fails.
+Max: And his argument is the clever part. If an asset seizure tax, his phrase, can't pass in California in the year of a blue tsunami, then it can never win anywhere in America.
+Lena: So, we checked. As of Friday night, Prop forty is losing. About fifty four percent no, forty six percent yes, with votes still being counted. The no lead has been shrinking as later ballots come in, so it's not final, but every outlet we saw had it headed for defeat.
+
+Max: Brad, nailed it.
+Lena: It looks like it. And the L A Times had a couple of reasons. Opponents raised hundreds of millions of dollars and far outspent supporters. And it wasn't just billionaires against it. Governor Newsom, teachers and business groups opposed it too.
+Max: Okay, so let me square the circle. How do you get a blue wave and a no on a billionaire tax on the same night?
+Lena: My read is Tim Dillon's answer and Brad's answer aren't actually contradictory. Tim said voters are angry about cost of living, and that at extreme levels, wealth taxes feel understandable. Brad said voters don't like the idea of an asset seizure. Both can be true. People want things to cost less. They didn't necessarily buy that this particular tax would make their lives cheaper.
+Max: There was a line from an analyst on A B C seven San Francisco that fits. Basically, supporters never made the case that it would help you personally. Cheaper medical care, a better commute, anything.
+Lena: Right. And the other thing. Voters said no to a billionaire tax, but California voters also approved an extension of a high income tax, according to the unofficial results we saw. So it's not that they love the rich. It's that they don't love taxing assets.
+Max: Which is literally the distinction the besties were making in the first two minutes of the stream.
+Lena: Right. Income, fine. Assets, no. At least this year.
+Max: And for the industry, that's a big deal. If Prop forty had passed, you'd have heard a lot more about founders moving to Texas.
+Lena: Which, after Tuesday, is now a state with a Democratic governor. So where do they move now?
+Max: Jason's already there. He said don't blame him.
+
+Max: Last guest of the night, Ben Shapiro. And it starts with an opera bit, because the besties have been teasing Friedberg about opera, and Jason tells this story about buying cheap same-day student tickets at Lincoln Center thirty years ago to get dates.
+Lena: Which, honestly, smart. And Ben says his favorite musicals are West Side Story or Seventeen Seventy Six. And then: "boys, I picked the wrong week to stop sniffing glue."
+Max: The Airplane quote. On election night. Perfect.
+Lena: But then he's very direct. He says the president said going in that this election was a referendum on him, act like he's on the ballot, and he basically was on the ballot.
+Max: And he says this isn't a story of a couple of bad Republican candidates. He names Paxton in Texas as one. But when South Carolina is in play, and Florida stays red only narrowly, it's a wipeout, and there's no way to sugarcoat it.
+Lena: And then he walks through the approval chart. He says the president's approval was in the fifties when he started, and then Liberation Day hit, the tariff announcement, and it's basically a steady straight-line decline since. Made a bit worse by the Iran war.
+Max: And his theory of why is what I thought was the smartest line of his segment. Most voters don't vote on specific policies. They vote on a gestalt, his word. A general sense of whether the president is looking at the same thing they're looking at.
+Lena: And his examples are the tariffs, the Iran war, and the reflecting pool. When you're worried about affordability and the president is talking about the grouting at the reflecting pool, it seems unfocused.
+Max: And then someone asks the obvious follow-up. If you take away the tariff chaos, the ICE situation, and the war, what does tonight look like?
+Lena: And he says, probably some moderate Republican losses, not a wipeout. His big lesson is that every new winner thinks it's time for world-breaking change, and Americans generally don't want world-breaking change. They want normality and predictability. Shut the border, fine. Don't post Studio Ghibli memes of ICE arrests.
+Max: And he gives three fixes. End the Iran war, and he stresses successfully, because Americans don't like losing. Refocus on economic growth and moderate away from a tariff regime he calls largely unsuccessful and unpopular. And deal with the appearance of corruption, which he says was a top issue in some of the Fox News exit polling.
+Lena: And then the scary math for Republicans. If the vulnerable list now includes Texas and Ohio, plus all the usual swing states, he says Democrats could be looking at a twenty twenty eight map in the range of three hundred eighty two electoral votes.
+
+Max: Three eighty two. That's a landslide map, from a conservative commentator.
+Lena: And his point is, you can't just copy paste the Trump coalition. He says if you take that coalition and shrink it by about twenty percent, you get tonight. If Hispanic support drops from about forty eight percent into the twenties, you lose South Texas.
+Max: And he says even Trump couldn't copy paste Trump's coalition this cycle.
+Lena: A couple more. On Michigan, he says the story isn't that El-Sayed won, it's that Haley Stevens got ripped harder by Democrats for saying she wouldn't vote for him than El-Sayed ever got ripped for anything. He finds that disturbing.
+Max: On Israel, someone asks what a Democratic Congress means, and he says it means funding questions, and that the Israelis already see the direction the Democratic party is moving. He says it's an acceleration of a trend, not a shock.
+Lena: And Jason asks about the scenarios Democrats worried about, election interference, a third term. And Ben says that's total nonsense. He thinks the president is happy to finish his term, will become, quote, "a veto machine," and govern with his pen and his phone.
+Max: And then a line that's honestly kind of sobering. He says the U S hasn't passed a single major bill without reconciliation or a supermajority since the Bush administration.
+Lena: That's his claim. But if it's even roughly right, it makes Rahm's whole "actually legislate" plan sound a lot harder.
+
+Max: Okay, the fun part. Over the night, basically every guest got asked who's next in twenty twenty eight. So let's build the board.
+Lena: Ted Cruz first. His top three Democrats right now: A O C, Gavin Newsom and Jon Ossoff. And his worry is that El-Sayed winning makes A O C more likely.
+Max: Friedberg agrees on A O C. He's been saying it for a while. He thinks she ends up on the ballot.
+Lena: Tim Dillon. And Tim, as always, gets straight to the point. Ted Cruz will never be president, his words, his family won't vote for him.
+Max: Brutal.
+Lena: He says Marco Rubio will probably run for Republicans. And then the Vance line, "God bless him in a Dumbledore costume."
+Max: And his pick: Jon Ossoff. He says he's putting his money on it. And the argument, as we heard it, Taylor seemed to agree, is that Ossoff has momentum, the progressive wing likes him, he's centrist enough for normal voters, and there's nothing extreme in his record.
+Lena: Taylor Lorenz. Republicans, she says Cruz and Rubio are kind of the front runners, Vance is in there. But nobody can talk like Trump or build a base like he did. And on Democrats, she doesn't think it's A O C. She says A O C doesn't have the Bernie energy.
+Max: And then Ro Khanna. She says he just doesn't seem appealing to anyone. He says things he thinks will work, and they don't land. She compares him to a bad comedian telling jokes other people wrote.
+Lena: Said directly to a comedian.
+Max: And then, it sounds like Taylor again, she gives Khanna one bit of credit. He leaned into digital early, doing Twitch streams years ago. And she says he was on Hasan Piker's stream that night, which, she's sorry to report, was "mogging" the All-In stream in viewership.
+Lena: And Jason does not let that go. At the very end he claims the opposite. He says All-In hit four to five hundred thousand viewers, versus one to two hundred thousand for Hasan and Nick Fuentes. So, in his words, they "live mogged" them.
+Max: The word mogged was used a lot on this stream.
+Lena: Too much. Ben Shapiro. He says Vance is the presumptive front runner until somebody says otherwise, but has a real hill to climb, and some Republicans who thought about running might now see a buzz saw. On Democrats, he doesn't think A O C or Newsom is a foregone conclusion. His pick: Wes Moore. He says Moore is underrated, just won re-election big in Maryland, and the early Democratic primary states are disproportionately black, which he thinks favors him.
+Max: And then he literally says, if he ran the prediction markets, he'd buy low on Wes Moore.
+Lena: And on the Republican side, Ben says there's no next Trump. Trump is one of one. He doesn't see a Mark Cuban sweeping in from the wings either.
+Max: Okay, so here's my board. Ossoff got the most love from people who aren't Democrats. Which is interesting.
+Lena: Mine. A O C got the most mentions, but mostly from people warning about her. Wes Moore is the contrarian pick. And nobody, not one guest, made a confident Republican pick other than "Vance, probably."
+Max: Which might be the most revealing thing about the night.
+
+Max: Okay, the ending of the stream is honestly my favorite part. Jason asks, as they wrap, did anything surprise you tonight?
+Lena: And Chamath gives the most self-critical answer I've heard from him on the show. He says he didn't understand how disconnected he was from certain races. He thought there were entrenched patterns that were reliable.
+Max: And he gives Ohio as the example. He calls it Republican plus ten, not a purple state for the last few cycles, and it looked like it was flipping. Texas flipping in the Senate and the governor's race. He says he has to go back and look at his priors.
+Lena: And then the key line. He says it's always about the economy, but specifically not G D P, which he says he gets caught up in too much. It's about fundamental W two wage growth. And he says, I probably explained away too much of it.
+Max: That's a big admission. That's a guy who's spent a lot of episodes saying the macro numbers look great.
+Lena: And it lines up with what every guest said. Cruz on diesel and fertilizer. Friedberg on farms losing money. Rahm on health care. Tim Dillon on rent and student loans. Ben Shapiro on the gestalt. G D P can be fine while the paycheck feels worse.
+Max: And then Jason takes a victory lap, kind of. He says he got a lot of hate in the comments over the last year when he started pointing out the tariffs weren't going well, the ICE tactics were rubbing Americans the wrong way, and that Americans have no desire for an endless war in the Middle East.
+Lena: And he says he really wanted Trump to succeed and keep the mandate going, and that this was self-inflicted. It's the economy, every time.
+Max: And then Friedberg closes the whole thing with a deadpan. That's it, we're done with the All-In coverage, coverage continues on the Polymarket app.
+Lena: And a shout out to a party at the D C Navy Yard where, someone says, it's unclear who's getting more drunk, the Democrats or the Republicans.
+
+Max: Okay. Our wrap. One line each. Mine: the bull case for AI didn't break on Tuesday, it got sorted. The companies that already have the data centers rallied. The ones borrowing to build fell. Brad's half a point of G D P is a cost, not a collapse.
+Lena: Mine: three quarters of voters, in that N B C exit poll, said they don't want a data center in their community. That's not a Texas problem, that's a national one. And the guy who called the sweep best wasn't a pundit. It was a market.
+Max: And one more from me. It looks like Brad called Prop forty, and Chamath called the AI trade risk. Chamath was wrong that the Texas flip wouldn't hold, but right about why it mattered.
+Lena: And from me. Chamath's mea culpa was the most important minute of the stream. If the besties start watching wages instead of G D P, the show gets better.
+Max: What to watch. The regular weekly episode, which hadn't dropped when we recorded. That's where we'll hear the besties' full post-game on the results.
+Lena: Texas. January, when Hinojosa takes office, and whether a data center moratorium actually shows up, and what the Republican state Senate does about it.
+Max: The neoclouds. Whether that almost ten percent drop in CoreWeave was a one day panic or the start of a financing squeeze.
+Lena: The Anthropic I P O. Whether it prices at the lower end of the range, like Brad suggested.
+Max: The final Prop forty count. It's still being tallied.
+Lena: And whether anyone in Congress actually tries Rahm's ethics package, including that ban on prediction market betting for the executive branch. That one, I'd watch.
+Max: That's the show. Thanks for listening.
+Lena: See you next week.
