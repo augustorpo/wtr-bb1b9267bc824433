@@ -1,0 +1,187 @@
+Lena: GE Vernova was down almost ten percent at one point today. Not because of anything GE Vernova did. Because SoftBank took a three point seven billion dollar write-down on its power-equipment plans for U-S data centers, and one of those plans is an Ohio project where GE Vernova supplies the gas turbines.
+Max: And it closed down about four percent, around seven ninety-seven. Which, for the record, is still a stock that just reported orders up ninety-six percent.
+Lena: That's the whole episode in one day, honestly. Three of our four Electricity names reported in the last two weeks. Two beat and raised their full-year guidance. The third missed, for reasons that mostly don't touch our thesis. And the whole group got sold anyway.
+Max: GE Vernova is down about twenty-one percent since October ninth, from about a thousand to about seven ninety-seven. Cameco down about seventeen. The grid E-T-F down about twelve. Constellation down about ten, and that's after a ten percent pop yesterday on its own report.
+Lena: For comparison, the Nasdaq one hundred fund is down about ten percent over the same stretch. So we're not alone. We're just in the blast radius.
+
+Max: Welcome to Thesis Check. Tonight is Electricity, the first time we've done this one. So we're looking back about four weeks, to mid-October, and leaning hardest on the last two.
+Lena: The thesis in one line. Electricity is the bottleneck for A-I. Demand beats supply for four to five years, U-S focused. Four names. GE Vernova for the gas turbines and grid gear. Constellation for nuclear plants with long contracts to data centers. Cameco, held for its stake in Westinghouse's nuclear services, not as a uranium price bet. And the smart-grid E-T-F as the base layer.
+Max: The scoreboard, as locked. Three green, one yellow. GE Vernova, Constellation and the grid fund are green on all three conditions. Cameco is yellow on all three.
+Lena: And the star rule. Each name has a starred condition, the one that can kill it. If the star goes red, or the overall light is red two reviews in a row, there's a written keep-or-sell memo due within seven days of the report. Nothing is near that tonight. But we'll check.
+Max: Plan. GE Vernova first, because it's the biggest story and today's headline. A caller who builds gas plants. Then Constellation, then Cameco with a second caller who used to buy uranium for a utility. Then the grid fund, and a verdict.
+Lena: And spoiler, we're going to spend a lot of time on one question. Is the market telling us something the numbers aren't?
+Max: Or is the market just scared of its own shadow.
+Lena: That's the fight.
+
+Max: Okay. GE Vernova, third quarter, reported October twenty-eighth. Orders twenty-nine billion dollars, up ninety-six percent organically. Revenue twelve point six billion, up twenty-seven percent. Backlog one hundred ninety-seven billion, up twenty billion in three months.
+
+Lena: Fine. I'll say it. That's a monster quarter.
+Max: Thank you. I'm writing that down. And they raised everything. Full-year revenue guide up to forty-six and a half to forty-seven and a half billion. Free cash flow guide up to sixteen to seventeen billion, from eleven and a half to twelve and a half. That's up more than a third. Margin guide up too.
+Lena: And the gas turbine number, which is what this thesis really rides on.
+Max: Gas backlog plus slot reservations went from one hundred sixteen gigawatts to one hundred twenty-two. And the year-end target went up to at least one hundred thirty, from at least one twenty-five. CEO Scott Strazik said he expects the total backlog to pass two hundred billion this quarter.
+Lena: Okay, now the stock. It closed down about two percent that day. And it was down about six percent during the session.
+Max: Because expectations were sky high. BNP Paribas basically said so, much of the quarter was priced in.
+Lena: BNP also said the thing I care about. Quote, "We expect slot conversions to be topic number one over the next few quarters." End quote.
+Max: Explain slot conversions for people who don't live in turbine land.
+Lena: A slot reservation is a customer paying to hold a place in GE Vernova's production line. It's not a firm order yet. A conversion is when it becomes one. This quarter they converted thirteen gigawatts, which beat what investors expected. But BNP points out that about sixty-two gigawatts of slots added from late last year through the middle of this year are coming up on their conversion deadlines.
+Max: And thirteen beat expectations. You're citing a bank that said the conversions were better than expected.
+Lena: I'm citing a bank that said the test gets harder every quarter into the middle of next year. And then today SoftBank happens. It's literally a customer revising a turbine-related contract.
+Max: Okay, let's do SoftBank properly. SoftBank took a three point seven billion dollar charge on its power-equipment procurement for U-S A-I data centers. The Ohio project, where GE Vernova is the turbine supplier, is getting its contract revised. SoftBank says the project is on track. And it said Elon Musk's claim on X last week, that SoftBank was defaulting on turbine orders, is "simply not correct at all."
+Lena: Musk, weighing in on turbine contracts. Of course he is.
+Max: And GE Vernova told CNBC there's "no negative or positive financial impact." And this is the line I love. Quote, "Customers are securing slots further into the twenty-thirties, and as we've said, we've sold slots for twenty thirty-two delivery, and we expect all slots through twenty thirty to be mostly sold by the end of twenty twenty-six." End quote. JPMorgan wrote that any freed-up slot could go to a waiting customer.
+Lena: That's the company's spin, and it might be true. But notice what spooked people. Not demand. Financing. That's been the pattern all month.
+Max: Walk the bad days.
+Lena: October fourteenth, a hot inflation print and worries about CoreWeave's debt. GE Vernova down about six. October twenty-second, Meta raised its spending outlook, posted negative free cash flow, and created a new share class to help fund it. GE Vernova down about eleven percent, the worst day of the window, and the grid fund down four. Then the election. November fourth, the Democratic sweep, including Texas and Georgia, which are huge data-center states. GE Vernova down about nine at the close. November fifth, the Nasdaq has its worst day in about nineteen months, down five and a half, on fears of A-I regulation.
+Max: And then yesterday, everything bounced. GE Vernova up seven.
+Lena: And today, hot inflation again, the ten-year Treasury back at five percent, and the market now fully pricing a Fed rate hike in December. Plus SoftBank.
+Max: So here's my daring comment for the night. None of those bad days were about turbines. They were about who pays for data centers and what money costs. The last order book we saw grew twenty billion dollars in one quarter, and nothing in this selloff came from GE Vernova's own numbers.
+Lena: And my daring comment. If financing is the problem, orders are the last thing to crack. Backlog is a rear-view mirror. The thing that cracks first is conversions and cancellations. Which is exactly what happened today, even if it's small.
+Max: One more thing on the quarter. They also agreed to buy Trench Group, a German high-voltage grid equipment maker, for about nine billion dollars, closing late twenty twenty-seven. And they doubled the buyback authorization to twenty billion.
+Lena: Nine billion is about thirteen times Trench's expected twenty twenty-eight profit, per Benzinga's read of the call. Not cheap. But it's grid gear, which is the other half of this thesis.
+Max: And the Street? Mixed. HSBC upgraded to buy, saying wind is "past the worst." RBC nudged its target up. But JPMorgan, TD Cowen, Citi and Susquehanna all cut targets around the report.
+Lena: Which, by our own rule, is a down cluster on targets. Three or more firms moving the same way inside about six weeks. It never scores. It just tells us to re-read the starred condition.
+Max: Which we're about to do. Right after a caller.
+
+Max: We've got a caller. Darlene is a made-up character, a Houston power-project developer who's spent years getting gas plants from a slide deck to a ribbon cutting. Darlene, you're on.
+Darlene: Hey y'all. Happy to be here, even on a red day.
+Lena: Darlene, slot reservations. When a developer holds a turbine slot, how real is that?
+Darlene: Real money, but not the whole commitment. You pay to hold the place in line because if you don't, the line is years long. The hard part is everything else. The site, the interconnection, the gas supply, the permits, the buyer for the power. The turbine is the piece you lock first because it's the scarcest. Converting it to a firm order means the rest of the project caught up.
+Max: So a conversion is the project growing up.
+Darlene: That's a nice way to put it. And BNP flagged something I'd underline. They say new combined-cycle build costs are heading toward about four thousand dollars a kilowatt, mostly labor and engineering. When the whole plant costs that much, the turbine price is not what kills a project. Their line was, turbine pricing is secondary if the project can't get over the finish line. That's my life in one sentence.
+Lena: So the risk to GE Vernova isn't somebody else's turbine. It's projects stalling.
+Darlene: Right. And honestly, the thing I'd watch from GE Vernova is simple. Do conversions keep pace each quarter into the middle of next year? If they do, the slots were real. If they lag, and customers start revising contracts like we heard today, that's the early warning. Way before backlog shrinks.
+Max: And SoftBank today? Big deal or noise?
+Darlene: One customer revising one contract, from what's been reported, with GE Vernova saying no financial impact. If the slot is good, somebody else takes it. That's what GE Vernova and JPMorgan are saying, anyway, that there's a line behind the slots. I'd only worry if I saw three or four of these in a quarter.
+Lena: So it's a canary, not a fire.
+Darlene: It's a canary that sneezed. Keep an eye on the canary.
+Max: Thanks, Darlene. Go build something.
+Darlene: Working on it. Bye now.
+
+Lena: Okay, the lights. C-one star, GE Vernova's own guidance, meaning the full-year revenue, cash flow and margin guide, plus the gas gigawatt target.
+Max: Raised across the board. And the gigawatt target pulled up from one twenty-five to one thirty. Our template says raising the full-year guide or pulling a target forward is green. So green. Not close.
+Lena: Agreed. C-two, total backlog growth quarter over quarter.
+Max: Up about twenty billion, to one ninety-seven. Green.
+Lena: Green. C-three, book-to-bill, meaning orders divided by revenue.
+Max: Twenty-nine over twelve point six. About two point three. Last quarter it was about two point two. Above one, and not falling. Green.
+Lena: So no change suggested. All three green, overall green.
+Max: Say it with feeling.
+Lena: All three green. Overall green. Happy?
+Max: Delighted.
+
+Lena: Now, what would flip it. Using our templates. C-one star turns yellow if next quarter they only reiterate the guide, and red if they cut it or push back the one-thirty gigawatt target. C-two goes yellow if backlog is flat, within about one percent, and red only if it falls two quarters running. C-three goes yellow if book-to-bill stays above one but falls two quarters in a row.
+Max: And honestly, book-to-bill falling a bit is normal when you're shipping more. They had a crazy order quarter.
+Lena: Which is why I'd add one suggestion for Augusto and the advisor. Track slot conversions as a watch item next to C-two. Not scored. Just written down each quarter. Thirteen gigawatts this time. If that number drops sharply while slots expire, that's the canary Darlene talked about.
+Max: That's fair. I'll sign that one.
+Lena: One more watch item. Electrification orders were down nine percent organically. The company says that's a tough comparison, big orders a year ago. Book-to-bill there was still about one point four, and data-center orders in that segment passed six billion for the year.
+Max: So the grid half is fine, and the comparison is noisy.
+Lena: Probably. But it's the second quarter where I'd want to see it bounce.
+Max: Next report is January twenty-seventh. That one's company verified.
+Lena: Okay. Quick reset for anyone just joining. GE Vernova, record orders, raised guidance, all green, stock down about a fifth in a month on financing and politics. Next up, Constellation, which reported yesterday morning and actually got paid for it.
+
+Max: Constellation. Reported yesterday, November ninth, before the open. Adjusted operating earnings five dollars and six cents a share, versus three oh four a year ago. That's up about sixty-six percent. The Street was looking for about three eighty-nine.
+Lena: A big part of that is Calpine, which they bought in January. So it's not all the nuclear fleet getting better. It's a bigger company.
+Max: Sure. But they also raised and narrowed the full-year guide to twelve fifty to twelve eighty. The old range was eleven fifty to twelve fifty. So the bottom of the new range is the top of the old one. That's the second raise this year.
+Lena: Okay, that's clean.
+Max: And the contracts. About eight thousand five hundred megawatts of long-term deals so far this year. In the quarter, about forty-five hundred megawatts with three customers. A twenty-year deal with Google that funds more than four billion dollars of upgrades across eleven reactors, adding about eight hundred ninety megawatts. The Amazon deal at Calvert Cliffs, six hundred ninety megawatts for twenty years. And a new product called Peak Plus, first deal two hundred seventy megawatts.
+Lena: And the Department of Energy.
+Max: A conditional loan commitment of up to five billion dollars for uprates. Thirty years, priced just above Treasuries. The C-F-O said that could save about forty million a year in interest if they use all of it.
+Lena: Conditional. Like everything in nuclear.
+Max: And a gas plant. They're buying the Rhode Island State Energy Center from Shell for seven hundred fifteen million. Six hundred nine megawatts.
+Lena: Okay, now the part I actually liked. The C-E-O, Joe Dominguez, said something you don't usually hear from a company selling to data centers. Quote, "the reality is that utilities and grid operators did not do a good job estimating the real number of data centers, and that resulted in a massive overestimation that caused legitimate fears by all policymakers." End quote.
+Max: He's saying the forecasts were inflated.
+Lena: He's saying the grid operators' forecasts were inflated, and that's why politicians got scared. He also called the post-election selloff "a bit of an overreaction." And he admitted "regulatory uncertainty is always a bit of an overhang," meaning the rules for putting data centers right next to power plants.
+Max: But the stock went up ten and a half percent yesterday. The market heard him.
+Lena: Then gave back three percent today. And it's still down about ten percent since early October, and about twenty-seven percent this year. From about three sixty-six in January to about two sixty-eight now, down about twenty-seven percent.
+Max: And here's my bull voice for tonight. Tom Nash, back on October nineteenth, listed his picks and said, quote, "CEG for nuclear energy, Bloom Energy for onsite." And then, "You cannot go wrong with any of these." End quote.
+Lena: That's a vibe, not an analysis. And he said it before the Meta day and the election.
+Max: It's a vibe that just got a beat and raise.
+Lena: Fair. Lights. C-one star, adjusted operating earnings against its own full-year guide.
+Max: Raised. Green.
+Lena: Green. C-two, new long-term data-center or large-load megawatts signed. The rule is green if new megawatts are above zero and the last two quarters add up to at least the two before.
+Max: About fifty-five hundred megawatts since March. That's basically the second and third quarter. The first quarter, by subtraction, was about three thousand.
+Lena: And the fourth quarter of last year we didn't verify. So I'll say green, very likely, with a footnote. The comparison has a hole in it.
+Max: A hole the size of Google.
+Lena: C-three, restart and uprate milestones against the stated schedule.
+Max: This is the best part. The Crane restart, the old Three Mile Island unit, is now on track for the second half of twenty twenty-seven. Management says that's a full year ahead of schedule and under budget. Fuel and transformers are on site. And the Byron uprate finished more than a week faster than the vendor's prior world record.
+Lena: Early beats on-time. Template says green.
+
+Lena: So Constellation stays green on all three. No change suggested. What flips it? C-one star goes red if they cut the guide, and the next real test is the year-end call, when they give twenty twenty-seven and twenty twenty-eight guidance. C-two goes yellow if contracting slows below the prior two quarters. And C-three goes yellow if Crane slips even one quarter.
+Max: And the next report is around February twenty-third. That date is tentative.
+Lena: Two outside dates, both from a secondary source, so treat them as unconfirmed. P-J-M's backstop procurement results by year end, and a federal order on co-locating data centers at power plants sometime in the first half of next year.
+
+Max: Halfway point. Two greens done, one yellow and the grid fund to go. And then the verdict.
+Lena: Cameco. Reported October thirtieth, before the open. And this is the one that looked ugly. Adjusted earnings basically zero a share, against about twenty-three cents expected. The stock fell about eight percent that day.
+
+Max: But the Nasdaq fund fell about three and a half percent the same day. So maybe half of that was the market.
+Lena: Maybe. The miss was mostly uranium operations. A long, planned maintenance shutdown at the Key Lake mill. Lower production, higher costs. Production was down twenty percent from a year ago. They narrowed the year's production guide to nineteen and a half to twenty and a half million pounds, cutting the top end.
+Max: Which is not what this thesis is about. Our thesis owns Cameco for Westinghouse. Not for the mine.
+Lena: Right, so Westinghouse. Cameco's share of Westinghouse's adjusted profit, adjusted EBITDA, was one hundred forty-three million Canadian dollars in the quarter, up fifteen percent from a year ago. And revenue up twenty-eight percent.
+Max: Up! It was down fifty-four percent last quarter.
+Lena: Because last year's second quarter had a big one-off payment from the Czech reactor project. This quarter has no such distortion. So yes, up fifteen.
+Max: And the full-year outlook?
+Lena: Reiterated. They "continue to expect" Cameco's share of Westinghouse profit at three hundred seventy to four hundred thirty million U-S dollars. And here's the catch, in their own words. The outlook assumes definitive agreements to build new AP one thousand reactors in the U-S, with work starting on at least one project this year. Quote, "Delays in finalizing the definitive agreements with the US Government and establishing a commitment from an approved partner may impact Westinghouse's adjusted EBITDA outlook." End quote.
+Max: But look at the pipeline. The Energy Department's conditional commitment, up to seventeen and a half billion dollars, to buy long-lead parts for up to ten reactors. Korea's framework for up to eight large U-S reactors, six of them AP one thousands. Poland moving to long-lead parts. A study in Slovakia. And the regulator renewed the AP one thousand design certification.
+Lena: Conditional, non-binding, conditional, study. Max, I count zero signatures on a U-S definitive deal.
+Max: You count zero signatures yet.
+Lena: With seven weeks left in the year. Grant Isaac on the call said it straight. A lot needs to be done on definitive agreements, and the U-S needs a vendor, a builder, a supply chain, a utility and long-term customers all lined up at once.
+Max: And then on uranium, he was the most bullish guy on the call. Utilities have been buying less than they burn since twenty twelve. He said term contracts are showing floors in the mid to high seventies, ceilings touching a hundred sixty, and he said, quote, "We will not chase this market for volume." End quote.
+Lena: Which is great for the uranium business, and our thesis says we don't score the uranium business. Let's get the person who used to sit on the other side of that table.
+
+Max: Our second caller. Hamish is a made-up character, a Glasgow-born retired nuclear fuel buyer who spent years negotiating uranium contracts for a utility. Hamish, welcome.
+Hamish: Evening. Lovely to be here. I've been on the receiving end of Cameco's discipline more times than I'd like.
+Lena: Hamish, Cameco says utilities have contracted below replacement rate for years. From the buyer's chair, why would you do that?
+Hamish: Because you could. For a long time there was plenty of inventory around from earlier over-buying, and prices were low. You don't sign a long contract at a high price when you've a warehouse to draw from. Their own explanation on the call was exactly that, stocks built up in earlier panics were drawn down. That cushion gets thinner every year.
+Max: So eventually the buyers have to come back.
+Hamish: Eventually, aye. But "eventually" has cost a lot of people a lot of money. The utilities know there's a gap, Cameco says so too. The fight is over price. Their phrase was the bid-ask spread. Nobody wants to be the first through the door at a high number.
+Lena: And how does this connect to Westinghouse, which is what we actually own Cameco for?
+Hamish: Indirectly. Westinghouse makes fuel and services for reactors already running, that's the steady bit. New reactors are the growth. And new reactors in America are a coordination problem more than a technology problem. The design is certified. What you need is someone to sign for the power for forty years, and someone to carry the cost if it runs late. Vogtle taught everybody that.
+Max: But the government's lining up money.
+Hamish: It is, and that matters a great deal. But a conditional commitment is a promise to talk seriously. In my old job I wouldn't count a conditional anything as a contract. I'd count it when it's signed and money moves.
+Lena: So you'd keep it yellow.
+Hamish: I'd keep my enthusiasm yellow, yes. Your lights are your business.
+Max: Thanks, Hamish. Enjoy retirement.
+Hamish: Oh, I will. Cheerio.
+
+Lena: Cameco's lights. C-one star, Cameco's share of Westinghouse profit against its own full-year outlook. The rule: green if it's ahead of pace or the outlook is raised. Yellow if it's within about ten percent of pace and the outlook is just reiterated.
+Max: Nine months in, one hundred forty-three plus the first half gets you about four hundred twenty-seven million Canadian. In U-S dollars that's roughly three hundred ten million, using my rough currency math. Against a four hundred midpoint, that's about seventy-seven percent, with seventy-five percent of the year gone.
+Lena: Slightly ahead. Inside the ten percent band. Outlook reiterated, not raised. That reads yellow. Stays yellow.
+Max: I'd argue it's a weak green.
+Lena: The template doesn't have weak green. And that outlook leans on a U-S deal that isn't signed.
+Max: Fine. Yellow.
+Lena: C-two, the Westinghouse profit trend, year over year. Our trend rule compares this quarter's growth with the prior quarter's.
+Max: Plus fifteen percent this quarter, versus minus fifty-four last quarter. And revenue up twenty-eight percent. Growth turned positive. Template says that's green.
+Lena: And this one I'll give you. Suggestion for Augusto and the advisor: C-two, yellow to green. With two footnotes. It's still below the first quarter's thirty percent growth. And the margin slipped to about sixteen percent from eighteen.
+Max: I'll take a green with footnotes.
+
+Lena: Don't spend it. C-three, the AP one thousand milestone. A definitive agreement with the U-S government and work starting on at least one project in the stated year.
+Max: Not signed yet. Seven weeks left.
+Lena: So it stays yellow. And here's the flip, using the milestone template. If it's still not signed with work started by the fourth-quarter report, February twelfth, it has slipped about a quarter. That's still yellow. If it slips more than a quarter past that, call it the first-quarter report next spring, it's red. And if C-three goes red while C-one stays yellow and C-two is green, all three differ, and that still means yellow overall.
+Max: So overall?
+Lena: C-one yellow, C-two green if they accept the suggestion, C-three yellow. Majority yellow. Cameco stays yellow overall. No kill memo, the star isn't red.
+Max: And the Street on Cameco. National Bank, Stifel and Paradigm all cut targets in the last ten days or so. Paradigm cut its target but upgraded to buy, which is a very Canadian way to say "it's cheaper now."
+Lena: That's a down cluster. It doesn't score. It tells us to re-read the star, and we just did. Outlook reiterated. Also, reminder, Robinhood's Cameco ratings still say twenty twenty-one. Stale.
+Max: Okay. The grid fund. First Trust's smart-grid E-T-F. Health check only.
+Lena: C-one star, holdings match the theme. Top ten are Johnson Controls, Quanta, Eaton, A-B-B, Schneider, National Grid, E-ON, Prysmian, Hubbell and n-Vent. Grid and electrification. Green.
+Max: C-two, expense ratio against the baseline. Still zero point five six percent. Green.
+Lena: C-three, assets at least a billion dollars, which is a number we made up. About ten point eight billion, down from about twelve at our baseline, mostly because prices fell. Green.
+Max: And the price. About one fifty-nine, down about twelve percent from about one eighty-one on October ninth. Slightly worse than the Nasdaq fund.
+Lena: Which makes sense. Quanta and Eaton got hit in the same A-I power selloffs. The fund did its job. It's the theme, both directions.
+
+Max: Verdict time. Overall thesis health.
+Lena: Fundamentals, strong. Three names reported. Two beat and raised. Cameco missed, but on the mine, not on Westinghouse. The one yellow got a little better underneath. The scoreboard stays three green, one yellow, and Cameco's C-two might turn green.
+Max: And the thesis kill test, the one from the map, is supply catching up. Interconnection queues falling, power prices flattening, turbine orders slowing two quarters in a row. Turbine orders just went up ninety-six percent.
+Lena: Right. None of the kill conditions showed up in this window. So my one-liner is, the thesis is green, and the tape is red.
+Max: Thesis green, tape red. I like it.
+Lena: Biggest risk. Not demand. Money and politics. Every bad day this month was about who pays for data centers, what borrowing costs, and whether new lawmakers make it harder to build. And the specific place that shows up first in our names is GE Vernova's slot conversions. Customers revising contracts, like SoftBank today. Backlog is the last thing to crack.
+Max: And the bull's answer. Constellation's C-E-O said the selloff was "a bit of an overreaction," and the contracts kept coming. Google and Amazon didn't sign twenty-year deals because of a vibe.
+Lena: Maybe. And he also said the demand forecasts were massively overestimated. Hold both thoughts.
+Max: The buy-rules line. In Electricity, three of four are add-worthy. GE Vernova, Constellation and the grid fund. But all three closed below their two-hundred-day average today, so all three are on re-check, meaning re-read the thesis before any new money. And Cameco is yellow, so no new money.
+Lena: And the rule from the buy rules: don't leave resting orders sitting through an earnings report.
+Max: Suggestions, all for Augusto and the advisor, nothing changed in the tracker. One. Cameco C-two, the Westinghouse profit trend, yellow to green, with footnotes. Two. Track GE Vernova's slot conversions each quarter as a written watch item next to C-two. Three. For Constellation C-two, fill in last year's fourth-quarter megawatts so the two-quarter comparison doesn't have a hole.
+Lena: Four. Write down now what counts as Cameco's AP one thousand deal slipping. My read: no definitive agreement by the February twelfth report is about one quarter late, so yellow. Past the next report after that, red.
+Max: Dates to watch. Tonight, CoreWeave reports, which is the A-I financing story in one company. November seventeenth, Nvidia, tentative. The Fed in mid December, with the market now pricing a hike.
+Lena: By year end: GE Vernova's one-thirty gigawatt target and its two-hundred-billion backlog. Westinghouse's U-S deal, the thing Cameco's outlook assumes. Then January twenty-seventh, GE Vernova reports. February twelfth, Cameco. Around February twenty-third, Constellation, tentative, with its first twenty twenty-seven guide.
+Max: And the second half of twenty twenty-seven, Crane comes back online. A year early.
+Lena: If it holds.
+Max: Optimist signing off.
+Lena: Skeptic, still checking. See you next week.
