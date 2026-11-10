@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/wtr-bb1b9267bc824433/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:20:52 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 19:29:18 -0500</lastBuildDate>
     <itunes:author>Signal &amp; Noise</itunes:author>
     <itunes:summary>Signal &amp; Noise is a personal podcast made for Augusto Restrepo. Each episode takes a topic he's been following — articles, posts, research and conversations he curates from across the web — and double-clicks on it. Max, the optimist, makes the bull case; Lena, the skeptic, pokes holes in it. Together they separate the signal from the noise, so the big ideas are easier to understand and judge. Casual, curious, and grounded in facts.</itunes:summary>
     <itunes:subtitle>A personal deep-dive podcast made for Augusto Restrepo.</itunes:subtitle>
@@ -19,6 +19,40 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Growth Up, Subscribers Down, Two Reds</title>
+      <description>Thesis Check: Biology is Code, recorded the evening of Hims &amp; Hers' Q3 2026 report (Nov 9, 2026). Max (bull) and Lena (skeptic) go through the Hims quarter and call: revenue up 49% to about $890M, subscribers down about 100,000 from last quarter, gross margin 57% (74% a year ago), a $33M net loss, a lower full-year revenue midpoint and a second cut to the adjusted EBITDA guide, plus the stock's ~12% drop before the report. They walk each Hims stop-light, then revisit Nautilus two weeks after its Oct 27 report through the thesis's learning goals (milestones, raise terms, how it trades), draft candidate thresholds for its unscored conditions, and close with a verdict and dates to watch.
+
+Suggestions only, nothing changed in the tracker: Hims C1 star green to yellow (and define whether a lower guide midpoint counts as a cut; if so it is red and the keep/sell memo is due by ~Nov 16); C2 green to red (subscribers down q/q); C3 stays red; overall green to red under the standard rule. Nautilus stays unscored; write thresholds before the Jan 15, 2027 review.
+
+Chapters: 1. Hims reported two hours ago, and the screen is red; 2. The Hims quarter: growth up, everything else down; 3. Call-in: Wade on the missing hundred thousand; 4. Hims stop-lights: one star in doubt, two reds; 5. Nautilus, two weeks later: what the experiment has taught us; 6. Call-in: Delia, who has actually bought these machines; 7. Drafting Nautilus's lights before January; 8. Verdict: the thesis is alive, the core name is on probation.
+
+Sources: Hims &amp; Hers Q3 2026 press release (Nov 9, 2026) and Benzinga's transcript of the 5 PM ET call (quotes verbatim from it); Yahoo Finance/Stocktwits, 24/7 Wall St and Benzinga market coverage (Nov 9); Robinhood quotes, daily bars and analyst ratings (read-only, as of ~7:15 PM ET Nov 9; ratings last updated Oct 30); Antonio Linares (@alc2022) posts on X, Nov 6-9 (quoted or paraphrased as marked); Nautilus Q3 2026 press release, call transcript and SEEDS release (Oct 27), Sep 11, 2026 8-K; Augusto's Biology is Code thesis file, scorecard definitions and tracker. Gross-profit dollar comparison is the hosts' own rough math. The Street's Q4 estimate comes from one live blog. The 10am.pro group was not read this time (Mac offline).
+
+Wade and Delia are fictional characters; their comments are illustrative and grounded in the episode's sources. This is not investment advice.
+
+Chapters: 1. Hims reported two hours ago, and the screen is red; 2. The Hims quarter: growth up, everything else down; 3. Call-in: Wade on the missing hundred thousand; 4. Hims stop-lights: one star in doubt, two reds; 5. Nautilus, two weeks later: what the experiment has taught us; 6. Call-in: Delia, who has actually bought these machines; 7. Drafting Nautilus's lights before January; 8. Verdict: the thesis is alive, the core name is on probation.</description>
+      <itunes:summary>Thesis Check: Biology is Code, recorded the evening of Hims &amp; Hers' Q3 2026 report (Nov 9, 2026). Max (bull) and Lena (skeptic) go through the Hims quarter and call: revenue up 49% to about $890M, subscribers down about 100,000 from last quarter, gross margin 57% (74% a year ago), a $33M net loss, a lower full-year revenue midpoint and a second cut to the adjusted EBITDA guide, plus the stock's ~12% drop before the report. They walk each Hims stop-light, then revisit Nautilus two weeks after its Oct 27 report through the thesis's learning goals (milestones, raise terms, how it trades), draft candidate thresholds for its unscored conditions, and close with a verdict and dates to watch.
+
+Suggestions only, nothing changed in the tracker: Hims C1 star green to yellow (and define whether a lower guide midpoint counts as a cut; if so it is red and the keep/sell memo is due by ~Nov 16); C2 green to red (subscribers down q/q); C3 stays red; overall green to red under the standard rule. Nautilus stays unscored; write thresholds before the Jan 15, 2027 review.
+
+Chapters: 1. Hims reported two hours ago, and the screen is red; 2. The Hims quarter: growth up, everything else down; 3. Call-in: Wade on the missing hundred thousand; 4. Hims stop-lights: one star in doubt, two reds; 5. Nautilus, two weeks later: what the experiment has taught us; 6. Call-in: Delia, who has actually bought these machines; 7. Drafting Nautilus's lights before January; 8. Verdict: the thesis is alive, the core name is on probation.
+
+Sources: Hims &amp; Hers Q3 2026 press release (Nov 9, 2026) and Benzinga's transcript of the 5 PM ET call (quotes verbatim from it); Yahoo Finance/Stocktwits, 24/7 Wall St and Benzinga market coverage (Nov 9); Robinhood quotes, daily bars and analyst ratings (read-only, as of ~7:15 PM ET Nov 9; ratings last updated Oct 30); Antonio Linares (@alc2022) posts on X, Nov 6-9 (quoted or paraphrased as marked); Nautilus Q3 2026 press release, call transcript and SEEDS release (Oct 27), Sep 11, 2026 8-K; Augusto's Biology is Code thesis file, scorecard definitions and tracker. Gross-profit dollar comparison is the hosts' own rough math. The Street's Q4 estimate comes from one live blog. The 10am.pro group was not read this time (Mac offline).
+
+Wade and Delia are fictional characters; their comments are illustrative and grounded in the episode's sources. This is not investment advice.
+
+Chapters: 1. Hims reported two hours ago, and the screen is red; 2. The Hims quarter: growth up, everything else down; 3. Call-in: Wade on the missing hundred thousand; 4. Hims stop-lights: one star in doubt, two reds; 5. Nautilus, two weeks later: what the experiment has taught us; 6. Call-in: Delia, who has actually bought these machines; 7. Drafting Nautilus's lights before January; 8. Verdict: the thesis is alive, the core name is on probation.</itunes:summary>
+      <itunes:author>Signal &amp; Noise</itunes:author>
+      <enclosure url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-biology-2026-11-09.mp3" length="18428201" type="audio/mpeg"/>
+      <guid isPermaLink="false">thesis-biology-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 19:29:18 -0500</pubDate>
+      <itunes:duration>00:30:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-biology-2026-11-09.transcript.txt" type="text/plain" language="en"/>
+      <podcast:chapters url="https://augustorpo.github.io/wtr-bb1b9267bc824433/episodes/thesis-biology-2026-11-09.chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Texas Turns Blue and the AI Trade Splits</title>
       <description>An unofficial recap of the past week of the All-In podcast (Chamath Palihapitiya, Jason Calacanis, David Sacks and David Friedberg), Oct 31 – Nov 7, 2026. Only one new All-In release landed in that window: the election night livestream, "All-In Podcast REACTS to Democrat Sweep!" (also listed as "2026 Election Night Livestream with the Besties!"), streamed live on YouTube on Tuesday, Nov 3, 2026, from about 8:02 to 10:05 PM ET. Jason, Chamath and Friedberg hosted; Sacks was absent. Guests: Sen. Ted Cruz, Rahm Emanuel, Polymarket founder Shane Coplan, Tim Dillon, Taylor Lorenz, Brad Gerstner and Ben Shapiro. The regular weekly episode had not been released when this recap was made. Max (bull) and Lena (skeptic) go topic by topic.

@@ -1,0 +1,183 @@
+Lena: Hims and Hers reported about two hours ago. Revenue up forty-nine percent. Subscribers down a hundred thousand from last quarter. A surprise loss. And the profit guide cut. Again.
+Max: And the stock had already fallen about twelve percent today, before a single number came out. It closed around twenty-three dollars. After hours it's slipping another three percent or so, to about twenty-two.
+Lena: Welcome to Thesis Check. Tonight is Biology is Code, the thesis about biology becoming programmable. And the timing is not an accident. We waited for this report.
+Max: We moved the whole episode up a day for it. Fresh numbers. Still warm. Possibly radioactive.
+Lena: So here's the thesis in one line. Read the code, orchestrate the data, write the biology. The READ layer measures biology at scale, that's Nautilus. The ORCHESTRATE layer owns the patient and turns data into care people pay for, that's Hims. And the claim is that the orchestrator, the one who owns the customer, captures most of the value.
+Max: Which is literally what Andrew Dudum said in his first minute tonight. Quote, "in healthcare, whoever owns the customer relationship wins." End quote. He's reading our thesis back to us.
+Lena: He's reading his pitch deck back to us. Different thing. Okay, the scoreboard. Hims is the core name. Its lights from the last lock, September thirtieth: C-one star, revenue and subscribers against the company's own guide, green. C-two, subscriber growth plus revenue per subscriber, green. C-three, unit economics, meaning the profit guide and gross margin, already red. Overall green.
+Max: And Nautilus is the experiment. Not scored yet. No criteria locked. That's on purpose, it's in the learning stage until the January fifteenth review.
+Lena: And the star rule, quickly. If the starred condition goes red, or the overall light goes red two times in a row, there's a written keep-or-sell memo due within seven days of the report.
+Max: Which tonight means by about November sixteenth. No pressure.
+Lena: Plan for tonight. The Hims numbers and what they said on the call. A caller on the subscriber drop. Then each Hims light, one by one, with real disagreement. Then Nautilus, two weeks after its own report, and what the experiment has taught us so far. A second caller. And a verdict on the whole thesis.
+Max: And I'm on the bull side, as always.
+Lena: You're going to need snacks.
+
+Max: Let's do the numbers. Third quarter revenue, about eight hundred ninety million dollars. Up forty-nine percent from a year ago. Last quarter growth was thirty-eight percent. So growth sped up for the second quarter in a row.
+Lena: And the company's own guide for the quarter was eight eighty to nine hundred. So they landed right in the middle. Wall Street had about eight ninety-three. A hair short.
+Max: A hair. A rounding error. And they say eighteen million dollars of weight-loss membership revenue got pushed into the fourth quarter by an accounting deferral. That's the company's claim, and they say it doesn't change cash.
+Lena: Noted, and flagged as the company's claim. Now the U-S. About six hundred fifty-seven million, up twenty-one percent. Last quarter U-S growth was sixteen.
+Max: So domestic accelerated too. Even while they deliberately pulled back on marketing.
+Lena: And international. About two hundred thirty-three million. Up three hundred twenty-one percent.
+Max: Three hundred twenty-one!
+
+Lena: Calm down. About a hundred thirty-five million of that is Eucalyptus, the Australian company they bought, which closed in June. Strip that out and the rest of international grew about eighty percent. Still very strong, I'll give you that.
+Max: Thank you. Now subscribers.
+Lena: Oh, now you want me to do subscribers.
+Max: You're better at bad news. You have the voice for it.
+Lena: Subscribers, about two point seven nine million. Up thirteen percent from a year ago. But last quarter it was two point eight nine million. So they lost about a hundred thousand subscribers in three months.
+Max: And revenue per subscriber went the other way. A hundred and five dollars a month, up thirty percent. Last quarter that was up twenty-one.
+Lena: Right, fewer people, paying a lot more each. Because branded weight-loss drugs cost more. Now the margin. Gross margin fifty-seven percent. A year ago, seventy-four.
+Max: Seventeen points.
+Lena: Seventeen points in a year. About seven points just since last quarter. And the bottom line flipped. A net loss of about thirty-three million dollars, fourteen cents a share. Analysts expected a profit of about six cents.
+
+Max: Okay. That one deserved the trombone. But adjusted EBITDA was about eighty-two million, up thirty-seven percent from last quarter. Nine percent margin. Free cash flow positive, twenty-six million. And they have over seven hundred ten million in cash and investments.
+Lena: Free cash flow a year ago was seventy-nine million. So it's a third of what it was.
+Max: Then the guide.
+Lena: Then the guide. Fourth quarter revenue, eight seventy-five to eight ninety-five million. One live blog had the Street at about nine fifty-three. That's the real miss tonight, not the quarter.
+Max: And the full year. Revenue tightened to three point one three to three point one five billion. It used to be three point one to three point three.
+Lena: So the middle went from about three point two billion to about three point one four. Down about two percent. And the profit guide, adjusted EBITDA, cut to two fifty-seven to two seventy-seven million. It was two seventy-five to three twenty-five.
+Max: Hmm. Okay, I won't pretend that's nice.
+Lena: That's the second cut. And the C-F-O said the fourth quarter "may lead to an additional quarter of subscriber count headwinds."
+Max: But here's the story they told, and I think it matters for the thesis. They chose this. They paused weight-loss marketing on purpose while they bolt on Lilly. Lilly was announced Friday, Zepbound and Foundayo on the platform at self-pay prices. Novo was already there with Wegovy. So both giants of obesity medicine are now on one shelf.
+Lena: And the stock jumped about eight percent that day, and gave it all back and more today.
+Max: Dudum's line on why they paused: quote, "Let's not unnecessarily burn that cash, and prepare in order to do this the right way, 45 days from now." End quote. January is when weight-loss demand spikes. They want the full shelf ready by then.
+Lena: And the other line, which I wrote down because it's honest: these choices trade "near-term subscriber growth for a stronger position in the years that follow. That's a trade we will make every time."
+Max: Every time! I love a C-E-O who says it out loud.
+Lena: I love a C-E-O who hits his subscriber numbers. Also on the call: international should do at least six hundred fifty million this year, up from six hundred. And Dudum said international is, quote, "on track to eclipse a $1 billion revenue run rate in 2027."
+Max: Plus positive free cash flow this year, and the C-F-O said they're "well positioned" to do it again in twenty twenty-seven. The formal twenty twenty-seven outlook comes next quarter.
+Lena: So no real twenty twenty-seven guide yet. Just a run-rate promise and a cash-flow promise. Those go on the milestone list, not the results list.
+Max: Agreed. And the platform stuff, which is the ORCHESTRATE story. The A-I-native experience was at seventy percent of weight-loss subscribers at quarter end, heading to nearly all of them by year end. People using it send four times as many messages. Peptides Plus launches later this month. Testosterone injections and pills are live, their first controlled substances. And Andrew Huberman joined the board.
+Lena: The podcast guy.
+Max: The neuroscientist. Who has a podcast. Like us, but with a lab.
+Lena: And a Stanford tenure. Small difference.
+
+Max: We've got a caller. Wade is a made-up character, a Nashville healthcare-services analyst who's covered pharmacy and clinic chains for years. Wade, you're on.
+Wade: Evening, y'all. Rough night to be a Hims fan.
+Lena: Wade, the hundred thousand lost subscribers. Strategy, or excuse?
+Wade: Could be both, honestly. Here's what I'd look at. Management gave two reasons on the call. Less marketing in U-S weight loss, and brand migrations overseas, where they're folding the Eucalyptus brands into Hims and Hers. When an analyst asked how much was spend versus retention, the C-F-O said a "meaningful portion" was the deliberate pullback. He didn't split it with a number.
+Max: But the revenue per subscriber jumped thirty percent. That's people paying more, staying in.
+Wade: That tells you the people who stayed are spending more. It doesn't tell you how many left for a cheaper option. In my world, when a chain says "we pulled marketing on purpose," you check one thing next quarter. Does the count snap back when the money comes back? They've basically told you when. January, with Lilly on the shelf.
+Lena: So it's testable.
+Wade: Very. And one thing I'd give them credit for. Marketing fell to twenty-eight percent of revenue from about thirty-five. That's real money they didn't spend. If they can buy customers back cheaper in January, the pause looks smart. If they have to outspend everyone to get them back, it was a leak, not a pause.
+Max: And the margin? Fifty-seven percent?
+Wade: Branded drugs carry pharma's price, so the middleman's slice is thinner. That's normal. The question is whether the platform makes it up on volume and on everything else the patient buys. Their Canada example is the one I'd watch. They said monthly orders grew more than fifty percent after generics launched there. That's their number, not mine, but it's the model they're betting on in the U-S.
+Lena: Thanks, Wade. Don't go spending percentage margins on the way out.
+Wade: Can't. Only dollars spend. Night, y'all.
+
+Lena: Okay. Lights. And remember, everything we say here is a suggestion for Augusto and the advisor. The tracker doesn't change because two podcast hosts got loud.
+Max: We are very loud, though.
+Lena: Start with the easy one. C-three, unit economics against the company's own guide. That's the profit guide plus gross margin. The locked rule says red if any part of the profit guide gets lowered, or gross margin drops more than five points from a year ago.
+Max: And they did both.
+Lena: Both. The profit guide got cut a second time, and gross margin is down seventeen points. C-three was already red. It stays red. No debate.
+Max: No debate. I'll even ring the bell for you.
+
+Lena: Now C-two. Subscriber growth plus revenue per subscriber. The locked rule has a hard trigger in it. Red if both slowed two quarters in a row, or if subscribers are down from the previous quarter.
+Max: And here's my case. Revenue per subscriber accelerated, from twenty-one percent growth to thirty. That's half the condition, and it's glowing.
+Lena: The rule doesn't average. Subscribers down quarter over quarter is a red trigger by itself. A hundred thousand down. So the suggestion is C-two goes from green to red.
+Max: Even if it was deliberate?
+Lena: The rule was written to ignore excuses. That's the whole point of writing it before the report. If January brings the count back, it flips back. That's how the template works.
+Max: Fine. I'll take it. Red, with an asterisk in my heart.
+Lena: Then the big one. C-one star. Revenue and subscribers against the company's own guide. The starred one. If this goes red, the whole thesis has a problem, because the thesis file literally says a red C-one star on Hims is one of the things that invalidates Biology is Code.
+Max: And I say it's yellow at worst. The quarter landed right in the middle of their guide. Eight ninety on an eight eighty to nine hundred range. And they raised the floor of the full-year range, from three point one to three point one three.
+Lena: And cut the ceiling by a hundred and fifty million. The middle went down about two percent. The template says red if they "cut the FY guide." Is lowering the midpoint a cut?
+Max: It's a tightening! Every company tightens in the fourth quarter. You narrow the range when you have fewer months left.
+Lena: When you narrow around a lower middle, that's a cut wearing a nicer jacket.
+Max: Ooh. Okay, that's a good line, I'm stealing it.
+
+Lena: And the fourth-quarter guide, eight seventy-five to eight ninety-five, is roughly flat with this quarter's eight ninety. For a company that just grew forty-nine percent.
+Max: Because of the deferral and the marketing pause. They told us why.
+Lena: Here's where I land, honestly. Read strictly, the template's green and yellow lines don't fit, because nothing was beaten or raised, and the red line says "cut," which is fuzzy here. So our suggestion is yellow, with a written note. And a request: the advisor should write one sentence defining whether a lower midpoint counts as a cut. Because if it does, C-one star is red, and the memo is due by November sixteenth.
+Max: I can live with yellow plus a definition. That's fair. It's actually the most useful thing we'll say tonight.
+Lena: So the suggested picture is: C-one star yellow, C-two red, C-three red. Under the standard rule, the star isn't red, so the majority decides. Two reds. Overall red.
+Max: Overall red. On the core name. Ouch.
+Lena: One overall red alone doesn't trigger the memo. Two in a row does. Or a red star. So the next report is the decider. And per the buy rules, version three, a red thesis name means harvest. No new money. That's the one time I'll say it.
+Max: Now let me give the bull case its full minute, because Antonio Linares, who's one of the two people this thesis is borrowed from, was posting all afternoon.
+Lena: How did he take it?
+Max: His first post, quote, "$HIMS earnings look disgusting at first sight." End quote.
+Lena: Ha! Honest.
+Max: Then he turned. He said falling gross margin is, quote, "the $AMZN playbook in action, but the subscriber QoQ downtick is concerning." And later he said the margin collapse is a strategy to squeeze everyone out of the distribution layer and maximize scale, which means more proprietary data, which means the A-I that maximizes patient outcomes per dollar. That's paraphrased, but close.
+Lena: So even the biggest bull flagged the subscribers.
+Max: He did. And then he shared a point I like. Investors can't spend percentage margins. They spend free cash flow, in dollars. Our own rough math: gross profit dollars this quarter are around five hundred million. A year ago, around four hundred forty. Up about fourteen percent, even with the margin collapse.
+Lena: Fourteen percent gross profit growth on forty-nine percent revenue growth. That's the cost of the branded shelf. And here's the thesis problem. The value-capture claim says the orchestrator keeps the economics. Tonight, it looks like Novo and Lilly kept a big chunk of them.
+Max: For now. The bet is generics. Their Canada example. Prices fall, volume jumps, platform margin comes back.
+Lena: Which is a fine bet. It's just a bet about twenty twenty-seven and later, not a result we can score tonight.
+Max: Street check, quickly. Robinhood showed five buys, fourteen holds, no sells, with an average target around thirty-two dollars. But that's from October thirtieth, before tonight. We didn't see any rating changes yet at recording.
+Lena: And the price. September thirtieth close was about twenty-nine eighty. Tonight about twenty-three. That's down about twenty-three percent. The Nasdaq-100 fund fell about eight percent over the same stretch.
+Max: So it's been a bad six weeks for everything, and a really bad six weeks for Hims.
+Lena: Price isn't a reason in this system. But it does tell you nobody's giving them the benefit of the doubt.
+
+Lena: Quick reset before we switch. Hims tonight: growth sped up, subscribers fell, margins fell, the profit guide got cut again. Our suggestion is C-one star yellow with a definition owed, C-two and C-three red, overall red. Still to come: Nautilus, a caller who has actually bought lab instruments, and the verdict on the whole thesis.
+Max: And the good news is Nautilus is the fun part.
+Lena: Nautilus is the part where the revenue is two hundred thirty-four thousand dollars.
+Max: Thousand! With a T! It's the READ layer. They're building a machine that reads single protein molecules, including the different versions of the same protein, called proteoforms. We did a full episode on the numbers the day they reported, October twenty-seventh, so tonight we're not redoing that. Tonight is: what has the experiment taught us for the thesis?
+Lena: Right. Because Nautilus isn't scored. It's a test position with a written learning goal. Three questions, to be answered by January fifteenth. One, does the company hit its own milestones on time? Two, what are the terms of the raise it says is coming? Three, how does a tiny READ-layer stock actually trade around reports and dilution?
+Max: Question one first. Milestones. And so far, since the thesis started in early October, nothing has slipped. On October twenty-seventh they reaffirmed all of it. First beta instrument placed by the end of this year. The AKT-one cancer assay into Early Access late this year. Launch, pricing and pre-orders early twenty twenty-seven. About a hundred-fold cut in how much sample you need, before mid twenty twenty-seven. Instruments shipping mid twenty twenty-seven. About twenty assays by mid twenty twenty-eight.
+Lena: And the strongest data point for the thesis. Three cancer assays, AKT-one, E-G-F-R and P-fifty-three, hit the same reproducibility as their tau assay after about a year. Tau took about five years.
+Max: Five years down to one. That's the "biology becomes code" curve in one sentence. The second assay is way cheaper than the first.
+Lena: I'll give you that one. It's the best evidence for the READ layer we've seen. But one caution from the timeline itself: the C-E-O said, quote, "27 is a year where we set the foundation and 28 is a year where we really go and scale the business." End quote.
+Max: Which, for a thesis with a January review, means the real answers come after the review.
+Lena: Exactly. And he said government instrument grants, the S-ten grants that academic labs use to buy machines, are, quote, "largely behind us for 27 grant funding." So academic buyers in twenty twenty-seven need other money.
+Max: There's some government money though. They joined an ARPA-H consortium called SEEDS. Up to six million dollars over four years, studying Alzheimer's and a childhood cancer called Ewing sarcoma.
+Lena: Up to six million over four years, against about fifteen million of burn per quarter. Nice validation. Not a business.
+Max: Question two. The raise.
+Lena: Cash a hundred fourteen million at the end of September. Runway into the first quarter of twenty twenty-eight, by their math. Revenue this year expected to beat half a million. And they're openly exploring a raise before mid twenty twenty-seven. The plumbing's already there: a three hundred million dollar shelf and a hundred twenty-five million dollar at-the-market stock program, both filed in September. Through September, no meaningful use of it.
+Max: And no analyst asked about the raise on the call. Not one.
+Lena: Which is the most interesting non-question of the quarter. So learning goal two is still open. We don't know size, timing or price.
+Max: Question three. How does it trade? And oh boy, did we learn something.
+
+Lena: Walk it.
+Max: The day before the report, about two forty-four. Report day, up eighteen percent to about two eighty-nine. Next day, about three twenty-one. Then it slid six sessions straight, to about two fifteen on November fifth. That's down about a third from the peak.
+Lena: And we couldn't find a Nautilus-specific reason for that slide. It lined up with a broad tech sell-off. The Nasdaq-100 fund fell three and a half percent on October thirtieth and six and a half percent on November fifth.
+Max: And today it bounced about seven percent, to about two thirty-nine. So after all that drama, it's about two percent below where it was before the report.
+Lena: That's the lesson. A sub-three-hundred-million company swings thirty percent on mood. Good news gets you a pop for two days. The market sets the price, the milestones set the thesis.
+Max: Which is exactly why the thesis file says no adds before the review without a written reason, and the woke-up rule: after a move over ten percent, wait two or three days and ask if the reason changed.
+Lena: And in those two weeks, the reason didn't change. The price did.
+
+Max: Second caller. Delia is a made-up character, a retired San Diego core-lab director who spent years deciding which expensive instruments her university would buy. Delia, welcome.
+Delia: Thanks. I've sat through a lot of vendor pitches, so be gentle.
+Lena: Delia, the beta unit by year end, pre-orders early next year. What actually tells you a buyer is serious?
+Delia: Pre-orders are cheap to announce. What I'd watch is three things. First, does the beta unit land at a named site, and does that site publish data, not the company. Second, the price. They still haven't said what the instrument costs, and on their call they compared themselves to companies that sold at around two million dollars, and said that was a price point much higher than where they were. A core lab can't budget a maybe. Third, the sample amount. A hundred-fold cut is the difference between needing a big tissue sample and working from blood. That's the one that opens the clinical door.
+Max: So the hundred-fold cut is the real milestone.
+Delia: For me, yes. Before mid next year, they said. If that slips, the whole "read the proteome from a blood draw" story slips with it.
+Lena: And the grant comment? The S-ten money being mostly behind them for twenty twenty-seven?
+Delia: That stung a little to hear. Academic labs buy big machines on shared-instrument grants, and those cycles run on the government's calendar. So their twenty twenty-seven buyers are more likely pharma, foundations, or institutes with their own money. That's a smaller, pickier crowd. Not fatal. Just slower.
+Max: Any reason for optimism from your side of the table?
+Delia: Honestly, the assay speed. If the second, third and fourth assays come in a year instead of five, that changes the menu a buyer gets. Labs buy menus, not machines.
+Lena: "Labs buy menus, not machines." That's going on a mug.
+Delia: Royalties to me, please. Good luck with it.
+
+Lena: So here's a suggestion that falls out of tonight. Nautilus has three candidate conditions in the thesis file, but no thresholds. The review is January fifteenth. If we want to graduate it, extend it or close it with a straight face, the green, yellow and red lines should be written down before the beta unit and the pre-orders land. Not after.
+Max: Because after, you write the rules to fit the result.
+Lena: Exactly. So, candidate C-one star: milestones against the company's own timeline. That one can just borrow the standard milestone template. Green if it's hit on time or early. Yellow if it slips a quarter or less, or the scope narrows while the date holds. Red if it slips more than a quarter or gets dropped.
+Max: And the milestones to plug in are already dated. Beta unit placed by year end. AKT-one into Early Access late this year. Pricing and pre-orders early twenty twenty-seven. The hundred-fold sample cut before mid twenty twenty-seven.
+Lena: Candidate C-two: balance sheet and dilution. Hernán's line is look at net cash, not gross, and the terms of the raise. Our suggestion, and this threshold is ours, not the company's: green if after the raise the runway reaches past the mid twenty twenty-seven launch with a full year of selling, yellow if it's just enough to launch, red if the raise is big and comes with no milestone attached.
+Max: I'd add one thing. If they use the at-the-market program heavily below where they are today, that should count against them.
+Lena: Fair. Candidate C-three: commercial traction. Revenue, Early Access customers and pre-orders. The problem today is they won't tell us customer counts. Quote, "We aren't giving guidance or disclosing the number of customers." End quote. So C-three can't be scored until they disclose something.
+Max: Which might be its own yellow flag.
+Lena: It might. But not tonight. Nautilus stays unscored, and none of this changes the tracker. It's a draft for Augusto and the advisor.
+Max: And for the record, Linares, one of the two people this thesis is borrowed from, is clearly still in. He was posting about Hims all day. We couldn't check Hernán's group chat tonight, so his side waits for next time.
+Lena: Which matters, because "the source relationship ends" is one of the thesis's own invalidation tests.
+
+Lena: Verdict time. Biology is Code as a whole. Let's run it against its own falsifiable test. Part A: at least one READ platform shows a commercial ramp, with milestones on time. Part B: Hims keeps growing subscribers and revenue per subscriber on or ahead of its own guide.
+Max: Part A: too early, but on track. Every Nautilus date held, and the assay speed is the best evidence yet.
+Lena: Part B: half failed tonight. Revenue per subscriber, great. Subscribers, down. So one leg wobbled.
+Max: Wobbled, not broke.
+Lena: Agreed. My overall read: the thesis is alive, the READ layer is on schedule but pre-revenue, and the core ORCHESTRATE name is on probation. And the biggest risk is the value-capture claim. The thesis says the platform that owns the customer keeps the economics. Tonight the platform grew revenue forty-nine percent and gross profit about fourteen. The drug makers are taking a big slice.
+Max: And my bull read: Hims now has both obesity giants on one shelf, international heading to a billion-dollar run rate, an A-I front door almost every weight-loss patient will use by year end, and positive free cash flow while it does all of it. If January brings the subscribers back, tonight looks like a pause, not a crack.
+
+Lena: And that's the fight. So, the suggestions, all for Augusto and the advisor, nothing changed in the tracker.
+Max: Hims, C-one star, revenue and subscribers against their own guide: green to yellow, plus a one-sentence definition of whether a lower midpoint counts as a cut. If it does, it's red, and the keep-or-sell memo is due by November sixteenth.
+Lena: Hims, C-two, subscriber growth and revenue per subscriber: green to red, because subscribers fell quarter over quarter, which is a hard trigger.
+Max: Hims, C-three, unit economics: stays red. Profit guide cut again, gross margin down seventeen points.
+Lena: Overall Hims: green to red under the standard rule. One more red next quarter triggers the memo anyway.
+Max: Nautilus: stays unscored, but write the thresholds for its three candidate conditions before the January fifteenth review.
+Lena: And one housekeeping item: the Hims re-score is due within seven days of tonight's report, by about November sixteenth.
+Max: Dates to watch. Later this month, Hims launches Peptides Plus. In the next couple of weeks, per Dudum, the F-D-A should finalize how it treats the newer peptides, which decides whether two of them can come to the platform at all.
+Lena: By year end, the A-I experience reaches nearly all weight-loss subscribers, and multi-month weight-loss plans launch. Then January, the marketing comes back on with Lilly and Novo on the shelf. That's the subscriber test.
+Max: For Nautilus, by year end: the beta instrument placed, and AKT-one into Early Access. Early twenty twenty-seven: pricing and pre-orders. Before mid twenty twenty-seven: the hundred-fold sample cut, and probably the raise.
+Lena: January fifteenth is the formal learning-stage review: graduate, extend or close. And then the Hims fourth-quarter report, date not set yet, with the first real twenty twenty-seven outlook.
+Max: That's the one. If subscribers grow again and the guide holds, I get to be insufferable.
+Lena: You're already insufferable.
+Max: More insufferable. With charts.
+
+Lena: That's Thesis Check. Biology is Code. Thanks for listening.
