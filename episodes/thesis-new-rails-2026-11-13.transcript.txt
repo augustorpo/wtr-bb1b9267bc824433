@@ -1,0 +1,137 @@
+Lena: Bitcoin broke below seventy thousand dollars overnight. It touched about sixty-seven thousand eight hundred, the lowest since the middle of August. And one point six billion dollars of leveraged bets got wiped out in twenty-four hours, almost nine out of ten of them longs.
+Max: And within about five minutes of that, my feed was full of one name. Binance. The theory is that the exchange that just got hacked for six billion dollars is pushing prices down on purpose, to hunt its own customers' leverage and plug the hole.
+Lena: Which is a great story. The question tonight is whether it's a true one.
+
+Max: Welcome to Thesis Check. This is a special. New Rails, first time we've ever done it. Nu just reported, so we're running it now instead of waiting for a slot.
+Lena: Quick framing. New Rails is the bucket for money moving onto new pipes. Six names. Robinhood and Nu on the stock side, the fintechs. Then Solana, XRP, Jito and Hyperliquid on the crypto side. Bitcoin isn't in it. Bitcoin lives in Crypto Core.
+Max: And this one is a draft. It was set up on November third as a label. Nothing is scored, and the thresholds are still waiting on edits. So every light tonight is a suggestion, nothing more.
+Lena: There are three bucket conditions. C-one star, the one that can kill it, is rails growth. Are Robinhood and Nu still adding customers fast, and do Solana and Hyperliquid keep their share on-chain? C-two is money moving onto the rails, meaning deposits and stablecoins. C-three is monetization, meaning revenue per user and fees.
+Max: The tape first, because it's ugly. Since the hack on October twenty-ninth, Bitcoin is down about fifteen percent. Solana about twenty-two. XRP about twenty-four. Jito about twenty-eight.
+Lena: Robinhood is around seventy-seven dollars today, down about twenty-nine percent from one oh nine in mid-October. The Nasdaq one hundred fund is down about ten over the same stretch.
+Max: And then there's Nu, up about eleven percent today. Record profit. The one green screen in the bucket.
+Lena: So here's the plan. We double-click on Binance first, because that's what everyone's asking about. What actually happened, what the rumors claim, and what's verified versus what's just loud. Then a caller who used to run risk at an exchange. Then Robinhood, then Nu with a caller who covers Brazilian banks, then the four tokens, then a verdict.
+Max: Let's go.
+
+Max: Let's start with the hard facts. October twenty-ninth, about four in the afternoon Eastern, Binance's hot wallets get drained. Binance put the damage at about six point three billion dollars. Chainalysis says closer to five point nine, and TRM says about six point four.
+Lena: Either way, it's the biggest crypto theft on record. The old record was Bybit, about one and a half billion, in early twenty twenty-five.
+Max: And the method is almost boring. According to Binance's own incident report, it started with a fake job interview and a poisoned developer tool.
+Lena: That's not boring, that's terrifying.
+Max: Fair. Then on October thirty-first, the F-B-I pinned it on North Korea, the group it calls TraderTraitor. And yesterday the Justice Department said more than two point seven billion of the stolen money has been frozen across government and industry, and it already has court approval to seize or restrain more than one point two billion.
+Lena: So close to half of it is frozen, which is better than most hacks. Now the part that matters for the rumors. Withdrawals were shut for about fifty-six hours. Trading kept going the whole time. Then they reopened in phases starting November first.
+Max: And people ran. In the first nine and a half hours after reopening, Binance reported about four point six billion out and about one billion in. So roughly three point six billion of net outflows.
+Lena: That's Binance's own number. The independent data points the same way. Santiment counted about twenty-eight thousand bitcoin leaving Binance-linked wallets through November fifth. To be fair, they said that slide started before the hack. And DefiLlama's tracked assets on Binance fell about twelve percent in four days, from about one forty-five billion to one twenty-eight. Most of that is falling prices plus withdrawals.
+Max: But here's the bull's point. On Binance's own count, that's about two percent of the assets on the platform leaving. Painful, but nothing like FTX.
+Lena: And the market-share data is real. Kaiko's numbers, via Bloomberg, show Binance's share of spot trading among the top ten exchanges going from about forty-eight percent before the hack to about forty-two a week later. OKX picked up most of it.
+Max: Now, how did they cover the hole? Binance says it replaced the stolen tokens with its own money. It took part of its user emergency fund, called SAFU, part of its futures insurance fund above the required level, and corporate treasury. It bought the tokens on the market and over the counter. Ninety percent, then ninety-five, then ninety-eight. And yesterday they said coverage is complete.
+Lena: Founder Changpeng Zhao, C-Z, says there was no borrowing, no asset sales and no fundraising, and that they're not selling bitcoin. Quote, "We hold crypto for the long term."
+
+Max: And they published a new proof of reserves. Snapshot at midnight U-T-C on November twelfth, now covering one hundred ninety-eight tokens, up from ten. The ratios on the page this morning were bitcoin one hundred point zero five percent, ether one hundred point zero two, and Tether one hundred four point three four.
+Lena: And this is where I'm going to be annoying. Those are self-reported ratios. The zero-knowledge proof is what lets every customer check that their own balance is in the total, and it isn't out yet. Binance says it takes forty to fifty hours to generate, so roughly tomorrow. Until then, one-to-one backing is Binance's statement, not something anyone outside can confirm.
+Max: Fair. And a hundred point zero five on bitcoin is not a big cushion.
+Lena: It's a cushion of basically nothing. Which is fine if the numbers are real. It's just not an overcollateralized fortress.
+Max: One more verified bit. Where did the money go? Hyperliquid's open interest jumped about twenty-eight percent the day after the hack, and volume went up roughly eightfold. Everyone said Binance refugees.
+Lena: Except that same day, the company that owns the New York Stock Exchange announced it was investing in trade dot x-y-z, which builds on Hyperliquid. You can't separate the two. And the actual money flow was small. Hyperliquid's net inflow on November second was about a hundred twenty-five million, under a tenth of what left Binance. Most of the money seems to have gone back to people's own wallets.
+
+Lena: Okay. The rumors. There are really two, and they get blended together.
+Max: Rumor one, the one Augusto flagged. Binance is manipulating the market to cover its balance sheet. The specific version came out on the Simply Bitcoin Live show yesterday. Some trading accounts on X, Cento Trades, Crypto Soul Hunter and Coup Capital, have been mapping a pattern since the hack. Price gets pushed into a cluster of leveraged longs, the longs get liquidated, spot buyers quietly absorb the dip, and the cycle resets. One account counted four of these flushes in thirteen days.
+Lena: And there is a real stat underneath it. Five straight weeks with at least one billion-dollar liquidation day. That's unusual outside of deep bear markets.
+Max: And the theory has a motive attached. The insurance fund. When an exchange liquidates you, leftover margin can flow into its insurance fund, and Binance just dipped into the surplus in that fund to pay for the hack. So the story writes itself. Refill the fund by hunting longs.
+Lena: Right, and that's where I want to slow down. A motive isn't evidence. Here's what the evidence actually says. First, even the show that aired it called it speculation. Their own write-up says, quote, "None of this confirms Binance is deliberately engineering the liquidations."
+Max: Okay, that's a pretty big caveat from the people pushing it.
+Lena: Second, today's crash had plenty of ordinary causes. Inflation came in hot on Tuesday, point four percent for the month against point three expected. Markets now price roughly a ninety percent chance the Fed hikes in December. The dollar is at its highest since April of last year. There were reports of turmoil at Nvidia's top. Spot bitcoin funds have had six straight days of outflows, about one point four billion. You don't need a villain to explain this.
+Max: And third, the single biggest liquidation today wasn't even on Binance. It was a thirty-one million dollar bitcoin long on Hyperliquid.
+
+Lena: Fourth, CoinDesk's read of the futures data. Bitcoin open interest fell about five percent while price fell about six. So the market shed leverage roughly in line with the price move. That isn't proof of anything. It just doesn't scream a hunt.
+Max: Steelman for a second. Could a huge exchange with its own trading desk lean on a thin market and trigger stops? In principle, sure. It's crypto. There's no consolidated tape and no one regulator watching every venue.
+Lena: In principle. But I found no on-chain trail, no regulator action and no credible reporting alleging that Binance did it. So it's unverified. That's the label.
+Max: Rumor two. Binance is freezing tens of thousands of customer accounts to stay afloat. That started spreading yesterday afternoon on X and Douyin, the Chinese TikTok.
+Lena: And interestingly, the account that surfaced it said the posts looked suspiciously coordinated. Binance co-founder Yi He answered this morning. She said the freezes come from court and law-enforcement orders tied to money from Southeast Asian scam compounds. On November eighth she'd already warned Chinese-speaking users not to accept funds from things like a Myanmar business or debts collected in Cambodia.
+Max: So, verified versus unverified, in one breath.
+Lena: Verified. The hack, the size, North Korea, the frozen funds, the outflows, the lost market share, and Binance saying it covered the losses from its own money. Unverified. The one-to-one backing, until tomorrow's proof is out. And unverified with no evidence found: the manipulation theory, the insolvency theory and the number of frozen accounts.
+Max: And for context, this isn't new. There was an insolvency panic in February, with a public push to withdraw and "stress test" Binance. It didn't drain it.
+Lena: My one-liner. The hack is real and the rumors are just loud. The proof that settles it is due tomorrow.
+
+Max: We've got a caller. Declan is a made-up character, a Dublin-based engineer who spent years running risk and custody at a crypto exchange. Declan, welcome.
+Declan: Thanks, lads. Grand to be here, although you picked a fierce week for it.
+Lena: Declan, proof of reserves. How much should a normal person trust a page that says one hundred point zero five percent?
+Declan: It's a decent start, not a finish line. The page shows the assets the exchange can prove it controls on-chain, against the customer balances it says it owes. The weak side is always the liabilities. Are all the customer balances in that list? That's the job of the zero-knowledge proof. It lets you check your own account is counted without seeing anyone else's. And it says nothing about the company's other debts.
+Max: So tomorrow's proof matters.
+Declan: It matters more than any tweet this week. If it lands and lines up with the snapshot, the insolvency story loses most of its legs. If it slips without a good reason, I'd get nervous.
+Lena: And the manipulation theory? Exchanges hunting their own customers' stops?
+Declan: Look, I won't pretend venues are saints. But a cascade like today's doesn't need anyone pushing. Crowded longs, a round number like seventy thousand, a hot inflation print. The liquidation engines do the rest on every exchange at once. The tell for real manipulation would be one venue leading the move again and again, with prices there breaking away from everyone else's. I haven't seen anyone show that. Even one of the accounts pushing the theory showed Binance's bitcoin futures buying and selling close to fifty-fifty.
+Max: What about the fact that they drew on the insurance fund?
+Declan: That's actually the reassuring part to me. The fund exists for exactly this, and they're refilling the user fund to about a billion. What I'd watch is boring stuff. Do withdrawals stay smooth on every network? Does market share keep sliding? And does the market maker crowd keep sitting on Binance? Wintermute said its exposure was under twenty percent of net assets, and GSR said under five. Those folks don't leave money anywhere they're worried about.
+Lena: And contagion. Should people holding Robinhood or Hyperliquid worry?
+Declan: The bigger contagion is the leverage, not Binance. Today's largest liquidation happened on Hyperliquid. A decentralized exchange doesn't stop you from blowing yourself up, it just does it transparently.
+Max: Declan, thanks. Go check a hot wallet.
+Declan: I'll check two. Mind yourselves.
+
+Lena: Quick reset, since we're about a third of the way in. Binance: real hack, loud rumors, proof due tomorrow. Still to come: Robinhood, Nu's record quarter, and the four tokens. Robinhood first.
+Max: We did a whole episode on Robinhood's third quarter back on October twenty-seventh, so here's the thirty-second version. Record revenue, about one point four billion, up twelve percent. Crypto revenue a hundred twenty million, down fifty-five percent. Prediction markets exploding. Net deposits light versus estimates. Stock fell after hours.
+Lena: What's new since then is the October numbers, which came out last night. Funded customers twenty-eight point nine million, up seven percent from a year ago.
+Max: Net deposits fifteen point one billion in one month. That's a forty-six percent annualized growth rate.
+
+Lena: With an asterisk the size of Texas. On the earnings call they said October already included about six billion from the Dell family's gift into Trump Accounts. Take that out and it's still a strong month, just not a forty-six percent month.
+Max: Fine, but even the last twelve months is eighty point five billion, a twenty-three percent growth rate. People keep moving money in.
+Lena: Now crypto. Crypto trading volume in October was seventeen billion, down forty-eight percent from a year ago. In the Robinhood app alone it's down fifty-one percent. Bitstamp is down forty-five.
+Max: Meanwhile prediction-market contracts were up a hundred thirty-six percent and margin balances up thirty-nine. The business is rotating away from crypto toward event contracts and leverage on stocks.
+Lena: Which is the honest New Rails tension. Robinhood is in this bucket as a rail, but its crypto rail is shrinking. Crypto was only about eight percent of third-quarter revenue, so it's not the business. It's the mood.
+Max: And the mood sank the stock. Down about seven percent the day after the Binance hack. Down about ten on November fifth, when crypto slid and the midterms went badly for crypto. Sherrod Brown, a longtime crypto skeptic, won back a Senate seat. The Clarity Act, the crypto market-structure bill, now looks harder to pass. And TD Cowen's Washington analyst told CNBC the new climate could rule out any version the industry would back.
+Lena: Now walk the framework rows. Funded customers, plus seven percent. The draft says ten or more is green and five to ten is yellow. So yellow. Platform assets plus twelve, also yellow. Revenue per user plus five, yellow. Gold subscribers plus thirty-four, green. Net deposits, green, asterisk and all.
+Max: So Robinhood reads as yellow with green deposits. Money still comes in. Customer growth is slow.
+Lena: And the stock is about seventy-seven, down eighteen percent from about ninety-five on report day. Next report around February ninth, tentative.
+
+Max: And now the one that's actually up today. Nu, third quarter, reported last night. Record net income, one point one billion dollars, up thirty-one percent on a currency-neutral basis. Return on equity thirty-two percent.
+
+Lena: The headline numbers. Gross revenue six point three billion, up thirty-seven percent. Customers one hundred forty-three million, adding three point seven million in the quarter. A year ago it was one hundred twenty-seven million, so that's up about thirteen percent.
+Max: Revenue per active customer, about eighteen dollars a month, up twenty-one percent. Activity rate eighty-three point six percent, and in Brazil a record eighty-six point three, up for the seventh quarter in a row.
+Lena: Versus the Street, it depends who you ask. One tally has earnings a penny light and revenue a bit short. Robinhood's data has earnings exactly in line. Call it roughly in line.
+Max: And the stock closed down four percent yesterday before the report, then rallied. Up about eleven percent today, to around thirteen dollars.
+Lena: Which you have to read against October twenty-sixth. Nu fell about seventeen percent in one day, its worst day ever. That came after Lula won a surprise fourth term, fifty-one point eight to forty-eight point two. Markets had been betting on Flavio Bolsonaro. The big Brazil E-T-F was headed for its worst day since twenty twenty.
+Max: So the stock is still down about eighteen percent from sixteen dollars in mid-October, even after today. That was a country selloff, not a Nu selloff.
+Lena: Agreed. But the country is where the credit risk lives. Here's my worry. The fifteen-to-ninety-day late ratio ticked up to four point nine percent from four point eight. The ninety-plus ratio went from six point nine to seven point three. Coverage of bad loans fell to two hundred thirty-four percent from two forty-four.
+Max: And CEO David Vélez basically agreed with you on the call. Quote, "We just simply assume that the future is going to be much worse than the past." And then they lowered their full-year efficiency ratio guide, which is good news, to nineteen to nineteen and a half percent.
+Lena: They also flagged that the tax rate rises to the low-to-mid twenties next year, from about nineteen.
+Max: And for New Rails specifically. Nu Global went live October fifteenth. It's a stablecoin-based multi-currency account, already with customers in thirty-seven countries. Nu U-S launched in September and has customers in all fifty states. That's literally money moving onto new rails.
+Lena: Framework rows. Customers up thirteen, so yellow, because green needs fifteen. Activity rate green. Revenue per customer green. Deposits up nineteen percent, which is yellow by a hair, since green needs twenty. Revenue green. And the fifteen-to-ninety late ratio at four point nine is green, but the line is five. It's one tenth of a point from yellow.
+Max: Next report is around February twenty-fourth, tentative.
+
+Max: Second caller. Camila is a made-up character, a Toronto-based analyst who has covered Latin American banks for years and grew up in São Paulo. Camila, hi.
+Camila: Hi both. Happy to talk about something other than Binance for five minutes.
+Lena: Camila, the ninety-plus late ratio jumped to seven point three. Should I panic?
+Camila: Not panic. Watch. Nu has been lending to more people, and pushing personal loans hard. Originations were a record twenty-two billion reais, up twenty-eight percent. When you grow a book that fast, late loans rise a bit first and the newer loans season after. What I like is that coverage is still above two times. What I'd hate is the fifteen-to-ninety ratio going through five while rates stay high.
+Max: And the election? The stock had its worst day ever.
+Camila: The election hits three things: the currency, interest rates and how much the government spends. A weaker real shrinks the dollar value of profits right away. Higher rates hurt borrowers, but they also help Nu's deposit franchise, because its funding costs only eighty-seven percent of the interbank rate. So it's not all bad. The worst case would be rates high for a long time and unemployment rising.
+Lena: Is the U-S launch a distraction?
+Camila: It's cheap, which is the point. They've capped the drag on efficiency at about one percentage point a year. The interesting piece for your bucket is Nu Global, the stablecoin account. If that grows, Nu becomes a real crypto rail for people sending money home, without anyone calling it crypto.
+Max: I'm stealing that.
+Camila: Please do. Tchau.
+
+Lena: Reset number two. We've done the scandal and the stocks. Now the four tokens, quickly, and only the framework metrics we actually have data for.
+Max: Bull case first, because I've been patient. Raoul Pal, on his November second live show, called it, quote, "a year and a half of misery in crypto." But his point is that it's liquidity, not the technology. Quote, "total liquidity in the U-S seems to be the dominant factor right now," and since July "it's gone nowhere." He says bitcoin is oversold against his liquidity measures, he keeps buying, and he expects a weaker dollar and easier money, possibly in twenty twenty-seven.
+Lena: And this week the dollar went the other way, and a rate hike got priced in. So his own framework says not yet.
+Max: He'd agree. Frustrating, not broken. Solana. Price about eighty, down about twenty-two percent since the hack. Spot trading share on decentralized exchanges was thirty-six percent last quarter, comfortably green. Alpenglow, the big speed upgrade, went live in October.
+Lena: But the money leg is leaking. Stablecoins on Solana are down about seven percent this quarter, which is yellow on the draft. And the U-S Solana funds had their worst month ever in October, about a hundred forty-four million out, with five red weeks in a row through November sixth. If November ends negative, that's two months, which is red on the draft's E-T-F row.
+Max: XRP. About a dollar, down about twenty-four percent. It briefly dipped under a dollar overnight.
+
+Lena: The XRP funds went quiet. The first week of November had four days with zero flows, the first time since August. Then on Tuesday, about seven and a half million out. And stablecoins on the XRP Ledger, the best proxy we have for Ripple's dollar coin there, are down about a quarter this quarter.
+Max: One small credit. Ripple was one of the issuers that helped freeze stolen Binance funds, with Tether and Circle.
+Lena: Jito. The token is about thirty-one cents, down twenty-eight percent and about forty percent below its two-hundred-day average. But the business metric is actually green. Jito's block marketplace, called BAM, now routes about thirty-nine percent of all Solana stake, up from about thirty-seven in late October. The draft's green line is thirty-five.
+Max: Usage up, token down. Classic.
+Lena: With a footnote. An independent tracker says just four of BAM's sixteen nodes hold a majority of its stake. That's concentration worth watching.
+Max: And Hyperliquid, the star. Down only about nine percent since the hack, and the only token in the bucket still above its two-hundred-day average. Its third-quarter report showed record open interest, eighteen billion dollars in September, and its share versus the big centralized exchanges rising to almost twelve percent. Plus the deal with the New York Stock Exchange's owner to bring Hyperliquid-based perpetuals onshore, though that's pending regulators with no launch date.
+Lena: And the caveats. Stablecoins on Hyperliquid are down about fifteen percent this quarter. Net bridge outflows were about nine hundred fifty million in the third quarter. And it hosted today's biggest liquidation. Its open-interest share among decentralized exchanges, the C-one star leg, was fifty-eight percent last quarter. Green, but that's a third-quarter number.
+Max: Buy rules, one line. New Rails is a label, so there's no v-three action for the bucket. And under the crypto hard floor, Solana, XRP and Jito are all below their two-hundred-day average, so that's wait. Hyperliquid is the only one above the line.
+
+Lena: Verdict time. Remember, these are suggestions for a draft. Augusto edits the thresholds.
+Max: C-one star, rails growth, the condition that can kill the bucket. Robinhood customers up seven percent, Nu up about thirteen. Blended, that's about ten to twelve percent, inside the yellow band of eight to fifteen. The on-chain legs, Solana's trading share and Hyperliquid's open-interest share, are both above their floors on the last quarter's data.
+Lena: So the suggestion is C-one star yellow. Not red. Red needs blended growth under eight percent for two straight quarters.
+Max: C-two, money moving onto the rails. Robinhood's deposits, green. Nu's deposits up nineteen, which clears this condition's fifteen percent bar. Stablecoins on Solana and the XRP Ledger are both down this quarter. That's one miss out of three, so yellow, provisional until the quarter ends December thirty-first.
+Lena: C-three, monetization. Robinhood revenue per user is up, Nu's is up twenty-one percent. Fees on Solana and Hyperliquid we didn't pull year over year, so that leg is incomplete. Leaning green, but unscored.
+Max: Overall health. The fintech side is fine. Nu just had its best quarter ever, and Robinhood keeps pulling in money. The crypto side has a price problem and a stablecoin leak, but no broken plumbing.
+Lena: My biggest risk. It isn't Binance going under. Nothing we found supports that. It's the money leaving the rails. Stablecoins shrinking on Solana, XRP and Hyperliquid. Robinhood's crypto volume down by half. Fed hike odds rising and leverage getting flushed every week. If C-two's stablecoin leg keeps falling into the new year, that's the first domino. And for Nu, it's Brazil. The currency, rates and those late loans.
+Max: Mine's the flip side. If tomorrow's Binance proof checks out, a lot of fear comes out of the market quickly. And there's a lot of short interest sitting there.
+Lena: Suggestions list. One, C-one star yellow. Two, C-two yellow, provisional. Three, C-three leaning green but incomplete. Pull Solana and Hyperliquid fees year over year. Four, decide whether Hyperliquid's leg is open-interest share or volume share, which is still open homework. Five, add an exchange-trust watch item, meaning proof-of-reserves checks on the venues the bucket depends on. And six, Nu's fifteen-to-ninety late ratio is one tenth of a point from its yellow line.
+Max: Dates. Tomorrow, roughly, Binance's zero-knowledge proof. November seventeenth, Nvidia reports, tentative. December third, the bucket's sizing decision on Solana and XRP. December eighth and ninth, the Fed meeting, with a hike mostly priced in. Mid-December, Robinhood's November numbers. December thirty-first, quarter end for the stablecoin legs. January eighteenth, the GENIUS stablecoin rules take effect. Then Robinhood around February ninth and Nu around February twenty-fourth, both tentative.
+Lena: One line to close. The rumors were loud, but nobody has produced receipts. The real story this week is the money quietly leaving the rails.
+Max: And a Brazilian bank having the best quarter of its life. See you next time.
